@@ -1,0 +1,4751 @@
+{
+  "passed": true,
+  "checks_run": 1184,
+  "errors": [],
+  "counts": {
+    "sections": 140,
+    "active_success_criteria": 86,
+    "glossary_definitions": 101
+  },
+  "comparison_rows": 1433,
+  "visual_review": "Not performed: browser access is disabled in the app settings.",
+  "linguistic_review": "Draft; human linguistic and normative review is still required.",
+  "checks": [
+    {
+      "check": "HTML5 parsing has no errors",
+      "passed": true
+    },
+    {
+      "check": "Document declares Arabic and right-to-left direction",
+      "passed": true
+    },
+    {
+      "check": "All IDs are unique",
+      "passed": true
+    },
+    {
+      "check": "Every internal link resolves",
+      "passed": true
+    },
+    {
+      "check": "All 140 source sections occur in source order",
+      "passed": true
+    },
+    {
+      "check": "Section number: abstract",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: abstract",
+      "passed": true
+    },
+    {
+      "check": "Parent section: abstract",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: abstract",
+      "passed": true
+    },
+    {
+      "check": "note count: abstract",
+      "passed": true
+    },
+    {
+      "check": "example count: abstract",
+      "passed": true
+    },
+    {
+      "check": "Section number: sotd",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: sotd",
+      "passed": true
+    },
+    {
+      "check": "Parent section: sotd",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: sotd",
+      "passed": true
+    },
+    {
+      "check": "note count: sotd",
+      "passed": true
+    },
+    {
+      "check": "example count: sotd",
+      "passed": true
+    },
+    {
+      "check": "Section number: intro",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: intro",
+      "passed": true
+    },
+    {
+      "check": "Parent section: intro",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: intro",
+      "passed": true
+    },
+    {
+      "check": "note count: intro",
+      "passed": true
+    },
+    {
+      "check": "example count: intro",
+      "passed": true
+    },
+    {
+      "check": "Section number: background-on-wcag-2",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: background-on-wcag-2",
+      "passed": true
+    },
+    {
+      "check": "Parent section: background-on-wcag-2",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: background-on-wcag-2",
+      "passed": true
+    },
+    {
+      "check": "note count: background-on-wcag-2",
+      "passed": true
+    },
+    {
+      "check": "example count: background-on-wcag-2",
+      "passed": true
+    },
+    {
+      "check": "Section number: wcag-2-layers-of-guidance",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: wcag-2-layers-of-guidance",
+      "passed": true
+    },
+    {
+      "check": "Parent section: wcag-2-layers-of-guidance",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: wcag-2-layers-of-guidance",
+      "passed": true
+    },
+    {
+      "check": "note count: wcag-2-layers-of-guidance",
+      "passed": true
+    },
+    {
+      "check": "example count: wcag-2-layers-of-guidance",
+      "passed": true
+    },
+    {
+      "check": "Section number: wcag-2-2-supporting-documents",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: wcag-2-2-supporting-documents",
+      "passed": true
+    },
+    {
+      "check": "Parent section: wcag-2-2-supporting-documents",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: wcag-2-2-supporting-documents",
+      "passed": true
+    },
+    {
+      "check": "note count: wcag-2-2-supporting-documents",
+      "passed": true
+    },
+    {
+      "check": "example count: wcag-2-2-supporting-documents",
+      "passed": true
+    },
+    {
+      "check": "Section number: requirements-for-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: requirements-for-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "Parent section: requirements-for-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: requirements-for-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "note count: requirements-for-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "example count: requirements-for-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "Section number: comparison-with-wcag-2-1",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: comparison-with-wcag-2-1",
+      "passed": true
+    },
+    {
+      "check": "Parent section: comparison-with-wcag-2-1",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: comparison-with-wcag-2-1",
+      "passed": true
+    },
+    {
+      "check": "note count: comparison-with-wcag-2-1",
+      "passed": true
+    },
+    {
+      "check": "example count: comparison-with-wcag-2-1",
+      "passed": true
+    },
+    {
+      "check": "Section number: new-features-in-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: new-features-in-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "Parent section: new-features-in-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: new-features-in-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "note count: new-features-in-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "example count: new-features-in-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "Section number: numbering-in-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: numbering-in-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "Parent section: numbering-in-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: numbering-in-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "note count: numbering-in-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "example count: numbering-in-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "Section number: conformance-to-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: conformance-to-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "Parent section: conformance-to-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: conformance-to-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "note count: conformance-to-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "example count: conformance-to-wcag-2-2",
+      "passed": true
+    },
+    {
+      "check": "Section number: later-versions-of-accessibility-guidelines",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: later-versions-of-accessibility-guidelines",
+      "passed": true
+    },
+    {
+      "check": "Parent section: later-versions-of-accessibility-guidelines",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: later-versions-of-accessibility-guidelines",
+      "passed": true
+    },
+    {
+      "check": "note count: later-versions-of-accessibility-guidelines",
+      "passed": true
+    },
+    {
+      "check": "example count: later-versions-of-accessibility-guidelines",
+      "passed": true
+    },
+    {
+      "check": "Section number: perceivable",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: perceivable",
+      "passed": true
+    },
+    {
+      "check": "Parent section: perceivable",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: perceivable",
+      "passed": true
+    },
+    {
+      "check": "note count: perceivable",
+      "passed": true
+    },
+    {
+      "check": "example count: perceivable",
+      "passed": true
+    },
+    {
+      "check": "Section number: text-alternatives",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: text-alternatives",
+      "passed": true
+    },
+    {
+      "check": "Parent section: text-alternatives",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: text-alternatives",
+      "passed": true
+    },
+    {
+      "check": "note count: text-alternatives",
+      "passed": true
+    },
+    {
+      "check": "example count: text-alternatives",
+      "passed": true
+    },
+    {
+      "check": "Section number: non-text-content",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: non-text-content",
+      "passed": true
+    },
+    {
+      "check": "Parent section: non-text-content",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: non-text-content",
+      "passed": true
+    },
+    {
+      "check": "note count: non-text-content",
+      "passed": true
+    },
+    {
+      "check": "example count: non-text-content",
+      "passed": true
+    },
+    {
+      "check": "Section number: time-based-media",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: time-based-media",
+      "passed": true
+    },
+    {
+      "check": "Parent section: time-based-media",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: time-based-media",
+      "passed": true
+    },
+    {
+      "check": "note count: time-based-media",
+      "passed": true
+    },
+    {
+      "check": "example count: time-based-media",
+      "passed": true
+    },
+    {
+      "check": "Section number: audio-only-and-video-only-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: audio-only-and-video-only-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "Parent section: audio-only-and-video-only-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: audio-only-and-video-only-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "note count: audio-only-and-video-only-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "example count: audio-only-and-video-only-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "Section number: captions-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: captions-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "Parent section: captions-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: captions-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "note count: captions-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "example count: captions-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "Section number: audio-description-or-media-alternative-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: audio-description-or-media-alternative-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "Parent section: audio-description-or-media-alternative-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: audio-description-or-media-alternative-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "note count: audio-description-or-media-alternative-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "example count: audio-description-or-media-alternative-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "Section number: captions-live",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: captions-live",
+      "passed": true
+    },
+    {
+      "check": "Parent section: captions-live",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: captions-live",
+      "passed": true
+    },
+    {
+      "check": "note count: captions-live",
+      "passed": true
+    },
+    {
+      "check": "example count: captions-live",
+      "passed": true
+    },
+    {
+      "check": "Section number: audio-description-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: audio-description-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "Parent section: audio-description-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: audio-description-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "note count: audio-description-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "example count: audio-description-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "Section number: sign-language-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: sign-language-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "Parent section: sign-language-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: sign-language-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "note count: sign-language-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "example count: sign-language-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "Section number: extended-audio-description-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: extended-audio-description-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "Parent section: extended-audio-description-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: extended-audio-description-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "note count: extended-audio-description-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "example count: extended-audio-description-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "Section number: media-alternative-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: media-alternative-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "Parent section: media-alternative-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: media-alternative-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "note count: media-alternative-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "example count: media-alternative-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "Section number: audio-only-live",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: audio-only-live",
+      "passed": true
+    },
+    {
+      "check": "Parent section: audio-only-live",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: audio-only-live",
+      "passed": true
+    },
+    {
+      "check": "note count: audio-only-live",
+      "passed": true
+    },
+    {
+      "check": "example count: audio-only-live",
+      "passed": true
+    },
+    {
+      "check": "Section number: adaptable",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: adaptable",
+      "passed": true
+    },
+    {
+      "check": "Parent section: adaptable",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: adaptable",
+      "passed": true
+    },
+    {
+      "check": "note count: adaptable",
+      "passed": true
+    },
+    {
+      "check": "example count: adaptable",
+      "passed": true
+    },
+    {
+      "check": "Section number: info-and-relationships",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: info-and-relationships",
+      "passed": true
+    },
+    {
+      "check": "Parent section: info-and-relationships",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: info-and-relationships",
+      "passed": true
+    },
+    {
+      "check": "note count: info-and-relationships",
+      "passed": true
+    },
+    {
+      "check": "example count: info-and-relationships",
+      "passed": true
+    },
+    {
+      "check": "Section number: meaningful-sequence",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: meaningful-sequence",
+      "passed": true
+    },
+    {
+      "check": "Parent section: meaningful-sequence",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: meaningful-sequence",
+      "passed": true
+    },
+    {
+      "check": "note count: meaningful-sequence",
+      "passed": true
+    },
+    {
+      "check": "example count: meaningful-sequence",
+      "passed": true
+    },
+    {
+      "check": "Section number: sensory-characteristics",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: sensory-characteristics",
+      "passed": true
+    },
+    {
+      "check": "Parent section: sensory-characteristics",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: sensory-characteristics",
+      "passed": true
+    },
+    {
+      "check": "note count: sensory-characteristics",
+      "passed": true
+    },
+    {
+      "check": "example count: sensory-characteristics",
+      "passed": true
+    },
+    {
+      "check": "Section number: orientation",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: orientation",
+      "passed": true
+    },
+    {
+      "check": "Parent section: orientation",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: orientation",
+      "passed": true
+    },
+    {
+      "check": "note count: orientation",
+      "passed": true
+    },
+    {
+      "check": "example count: orientation",
+      "passed": true
+    },
+    {
+      "check": "Section number: identify-input-purpose",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: identify-input-purpose",
+      "passed": true
+    },
+    {
+      "check": "Parent section: identify-input-purpose",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: identify-input-purpose",
+      "passed": true
+    },
+    {
+      "check": "note count: identify-input-purpose",
+      "passed": true
+    },
+    {
+      "check": "example count: identify-input-purpose",
+      "passed": true
+    },
+    {
+      "check": "Section number: identify-purpose",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: identify-purpose",
+      "passed": true
+    },
+    {
+      "check": "Parent section: identify-purpose",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: identify-purpose",
+      "passed": true
+    },
+    {
+      "check": "note count: identify-purpose",
+      "passed": true
+    },
+    {
+      "check": "example count: identify-purpose",
+      "passed": true
+    },
+    {
+      "check": "Section number: distinguishable",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: distinguishable",
+      "passed": true
+    },
+    {
+      "check": "Parent section: distinguishable",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: distinguishable",
+      "passed": true
+    },
+    {
+      "check": "note count: distinguishable",
+      "passed": true
+    },
+    {
+      "check": "example count: distinguishable",
+      "passed": true
+    },
+    {
+      "check": "Section number: use-of-color",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: use-of-color",
+      "passed": true
+    },
+    {
+      "check": "Parent section: use-of-color",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: use-of-color",
+      "passed": true
+    },
+    {
+      "check": "note count: use-of-color",
+      "passed": true
+    },
+    {
+      "check": "example count: use-of-color",
+      "passed": true
+    },
+    {
+      "check": "Section number: audio-control",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: audio-control",
+      "passed": true
+    },
+    {
+      "check": "Parent section: audio-control",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: audio-control",
+      "passed": true
+    },
+    {
+      "check": "note count: audio-control",
+      "passed": true
+    },
+    {
+      "check": "example count: audio-control",
+      "passed": true
+    },
+    {
+      "check": "Section number: contrast-minimum",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: contrast-minimum",
+      "passed": true
+    },
+    {
+      "check": "Parent section: contrast-minimum",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: contrast-minimum",
+      "passed": true
+    },
+    {
+      "check": "note count: contrast-minimum",
+      "passed": true
+    },
+    {
+      "check": "example count: contrast-minimum",
+      "passed": true
+    },
+    {
+      "check": "Section number: resize-text",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: resize-text",
+      "passed": true
+    },
+    {
+      "check": "Parent section: resize-text",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: resize-text",
+      "passed": true
+    },
+    {
+      "check": "note count: resize-text",
+      "passed": true
+    },
+    {
+      "check": "example count: resize-text",
+      "passed": true
+    },
+    {
+      "check": "Section number: images-of-text",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: images-of-text",
+      "passed": true
+    },
+    {
+      "check": "Parent section: images-of-text",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: images-of-text",
+      "passed": true
+    },
+    {
+      "check": "note count: images-of-text",
+      "passed": true
+    },
+    {
+      "check": "example count: images-of-text",
+      "passed": true
+    },
+    {
+      "check": "Section number: contrast-enhanced",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: contrast-enhanced",
+      "passed": true
+    },
+    {
+      "check": "Parent section: contrast-enhanced",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: contrast-enhanced",
+      "passed": true
+    },
+    {
+      "check": "note count: contrast-enhanced",
+      "passed": true
+    },
+    {
+      "check": "example count: contrast-enhanced",
+      "passed": true
+    },
+    {
+      "check": "Section number: low-or-no-background-audio",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: low-or-no-background-audio",
+      "passed": true
+    },
+    {
+      "check": "Parent section: low-or-no-background-audio",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: low-or-no-background-audio",
+      "passed": true
+    },
+    {
+      "check": "note count: low-or-no-background-audio",
+      "passed": true
+    },
+    {
+      "check": "example count: low-or-no-background-audio",
+      "passed": true
+    },
+    {
+      "check": "Section number: visual-presentation",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: visual-presentation",
+      "passed": true
+    },
+    {
+      "check": "Parent section: visual-presentation",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: visual-presentation",
+      "passed": true
+    },
+    {
+      "check": "note count: visual-presentation",
+      "passed": true
+    },
+    {
+      "check": "example count: visual-presentation",
+      "passed": true
+    },
+    {
+      "check": "Section number: images-of-text-no-exception",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: images-of-text-no-exception",
+      "passed": true
+    },
+    {
+      "check": "Parent section: images-of-text-no-exception",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: images-of-text-no-exception",
+      "passed": true
+    },
+    {
+      "check": "note count: images-of-text-no-exception",
+      "passed": true
+    },
+    {
+      "check": "example count: images-of-text-no-exception",
+      "passed": true
+    },
+    {
+      "check": "Section number: reflow",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: reflow",
+      "passed": true
+    },
+    {
+      "check": "Parent section: reflow",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: reflow",
+      "passed": true
+    },
+    {
+      "check": "note count: reflow",
+      "passed": true
+    },
+    {
+      "check": "example count: reflow",
+      "passed": true
+    },
+    {
+      "check": "Section number: non-text-contrast",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: non-text-contrast",
+      "passed": true
+    },
+    {
+      "check": "Parent section: non-text-contrast",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: non-text-contrast",
+      "passed": true
+    },
+    {
+      "check": "note count: non-text-contrast",
+      "passed": true
+    },
+    {
+      "check": "example count: non-text-contrast",
+      "passed": true
+    },
+    {
+      "check": "Section number: text-spacing",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: text-spacing",
+      "passed": true
+    },
+    {
+      "check": "Parent section: text-spacing",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: text-spacing",
+      "passed": true
+    },
+    {
+      "check": "note count: text-spacing",
+      "passed": true
+    },
+    {
+      "check": "example count: text-spacing",
+      "passed": true
+    },
+    {
+      "check": "Section number: content-on-hover-or-focus",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: content-on-hover-or-focus",
+      "passed": true
+    },
+    {
+      "check": "Parent section: content-on-hover-or-focus",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: content-on-hover-or-focus",
+      "passed": true
+    },
+    {
+      "check": "note count: content-on-hover-or-focus",
+      "passed": true
+    },
+    {
+      "check": "example count: content-on-hover-or-focus",
+      "passed": true
+    },
+    {
+      "check": "Section number: operable",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: operable",
+      "passed": true
+    },
+    {
+      "check": "Parent section: operable",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: operable",
+      "passed": true
+    },
+    {
+      "check": "note count: operable",
+      "passed": true
+    },
+    {
+      "check": "example count: operable",
+      "passed": true
+    },
+    {
+      "check": "Section number: keyboard-accessible",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: keyboard-accessible",
+      "passed": true
+    },
+    {
+      "check": "Parent section: keyboard-accessible",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: keyboard-accessible",
+      "passed": true
+    },
+    {
+      "check": "note count: keyboard-accessible",
+      "passed": true
+    },
+    {
+      "check": "example count: keyboard-accessible",
+      "passed": true
+    },
+    {
+      "check": "Section number: keyboard",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: keyboard",
+      "passed": true
+    },
+    {
+      "check": "Parent section: keyboard",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: keyboard",
+      "passed": true
+    },
+    {
+      "check": "note count: keyboard",
+      "passed": true
+    },
+    {
+      "check": "example count: keyboard",
+      "passed": true
+    },
+    {
+      "check": "Section number: no-keyboard-trap",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: no-keyboard-trap",
+      "passed": true
+    },
+    {
+      "check": "Parent section: no-keyboard-trap",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: no-keyboard-trap",
+      "passed": true
+    },
+    {
+      "check": "note count: no-keyboard-trap",
+      "passed": true
+    },
+    {
+      "check": "example count: no-keyboard-trap",
+      "passed": true
+    },
+    {
+      "check": "Section number: keyboard-no-exception",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: keyboard-no-exception",
+      "passed": true
+    },
+    {
+      "check": "Parent section: keyboard-no-exception",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: keyboard-no-exception",
+      "passed": true
+    },
+    {
+      "check": "note count: keyboard-no-exception",
+      "passed": true
+    },
+    {
+      "check": "example count: keyboard-no-exception",
+      "passed": true
+    },
+    {
+      "check": "Section number: character-key-shortcuts",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: character-key-shortcuts",
+      "passed": true
+    },
+    {
+      "check": "Parent section: character-key-shortcuts",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: character-key-shortcuts",
+      "passed": true
+    },
+    {
+      "check": "note count: character-key-shortcuts",
+      "passed": true
+    },
+    {
+      "check": "example count: character-key-shortcuts",
+      "passed": true
+    },
+    {
+      "check": "Section number: enough-time",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: enough-time",
+      "passed": true
+    },
+    {
+      "check": "Parent section: enough-time",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: enough-time",
+      "passed": true
+    },
+    {
+      "check": "note count: enough-time",
+      "passed": true
+    },
+    {
+      "check": "example count: enough-time",
+      "passed": true
+    },
+    {
+      "check": "Section number: timing-adjustable",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: timing-adjustable",
+      "passed": true
+    },
+    {
+      "check": "Parent section: timing-adjustable",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: timing-adjustable",
+      "passed": true
+    },
+    {
+      "check": "note count: timing-adjustable",
+      "passed": true
+    },
+    {
+      "check": "example count: timing-adjustable",
+      "passed": true
+    },
+    {
+      "check": "Section number: pause-stop-hide",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: pause-stop-hide",
+      "passed": true
+    },
+    {
+      "check": "Parent section: pause-stop-hide",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: pause-stop-hide",
+      "passed": true
+    },
+    {
+      "check": "note count: pause-stop-hide",
+      "passed": true
+    },
+    {
+      "check": "example count: pause-stop-hide",
+      "passed": true
+    },
+    {
+      "check": "Section number: no-timing",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: no-timing",
+      "passed": true
+    },
+    {
+      "check": "Parent section: no-timing",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: no-timing",
+      "passed": true
+    },
+    {
+      "check": "note count: no-timing",
+      "passed": true
+    },
+    {
+      "check": "example count: no-timing",
+      "passed": true
+    },
+    {
+      "check": "Section number: interruptions",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: interruptions",
+      "passed": true
+    },
+    {
+      "check": "Parent section: interruptions",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: interruptions",
+      "passed": true
+    },
+    {
+      "check": "note count: interruptions",
+      "passed": true
+    },
+    {
+      "check": "example count: interruptions",
+      "passed": true
+    },
+    {
+      "check": "Section number: re-authenticating",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: re-authenticating",
+      "passed": true
+    },
+    {
+      "check": "Parent section: re-authenticating",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: re-authenticating",
+      "passed": true
+    },
+    {
+      "check": "note count: re-authenticating",
+      "passed": true
+    },
+    {
+      "check": "example count: re-authenticating",
+      "passed": true
+    },
+    {
+      "check": "Section number: timeouts",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: timeouts",
+      "passed": true
+    },
+    {
+      "check": "Parent section: timeouts",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: timeouts",
+      "passed": true
+    },
+    {
+      "check": "note count: timeouts",
+      "passed": true
+    },
+    {
+      "check": "example count: timeouts",
+      "passed": true
+    },
+    {
+      "check": "Section number: seizures-and-physical-reactions",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: seizures-and-physical-reactions",
+      "passed": true
+    },
+    {
+      "check": "Parent section: seizures-and-physical-reactions",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: seizures-and-physical-reactions",
+      "passed": true
+    },
+    {
+      "check": "note count: seizures-and-physical-reactions",
+      "passed": true
+    },
+    {
+      "check": "example count: seizures-and-physical-reactions",
+      "passed": true
+    },
+    {
+      "check": "Section number: three-flashes-or-below-threshold",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: three-flashes-or-below-threshold",
+      "passed": true
+    },
+    {
+      "check": "Parent section: three-flashes-or-below-threshold",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: three-flashes-or-below-threshold",
+      "passed": true
+    },
+    {
+      "check": "note count: three-flashes-or-below-threshold",
+      "passed": true
+    },
+    {
+      "check": "example count: three-flashes-or-below-threshold",
+      "passed": true
+    },
+    {
+      "check": "Section number: three-flashes",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: three-flashes",
+      "passed": true
+    },
+    {
+      "check": "Parent section: three-flashes",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: three-flashes",
+      "passed": true
+    },
+    {
+      "check": "note count: three-flashes",
+      "passed": true
+    },
+    {
+      "check": "example count: three-flashes",
+      "passed": true
+    },
+    {
+      "check": "Section number: animation-from-interactions",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: animation-from-interactions",
+      "passed": true
+    },
+    {
+      "check": "Parent section: animation-from-interactions",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: animation-from-interactions",
+      "passed": true
+    },
+    {
+      "check": "note count: animation-from-interactions",
+      "passed": true
+    },
+    {
+      "check": "example count: animation-from-interactions",
+      "passed": true
+    },
+    {
+      "check": "Section number: navigable",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: navigable",
+      "passed": true
+    },
+    {
+      "check": "Parent section: navigable",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: navigable",
+      "passed": true
+    },
+    {
+      "check": "note count: navigable",
+      "passed": true
+    },
+    {
+      "check": "example count: navigable",
+      "passed": true
+    },
+    {
+      "check": "Section number: bypass-blocks",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: bypass-blocks",
+      "passed": true
+    },
+    {
+      "check": "Parent section: bypass-blocks",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: bypass-blocks",
+      "passed": true
+    },
+    {
+      "check": "note count: bypass-blocks",
+      "passed": true
+    },
+    {
+      "check": "example count: bypass-blocks",
+      "passed": true
+    },
+    {
+      "check": "Section number: page-titled",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: page-titled",
+      "passed": true
+    },
+    {
+      "check": "Parent section: page-titled",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: page-titled",
+      "passed": true
+    },
+    {
+      "check": "note count: page-titled",
+      "passed": true
+    },
+    {
+      "check": "example count: page-titled",
+      "passed": true
+    },
+    {
+      "check": "Section number: focus-order",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: focus-order",
+      "passed": true
+    },
+    {
+      "check": "Parent section: focus-order",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: focus-order",
+      "passed": true
+    },
+    {
+      "check": "note count: focus-order",
+      "passed": true
+    },
+    {
+      "check": "example count: focus-order",
+      "passed": true
+    },
+    {
+      "check": "Section number: link-purpose-in-context",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: link-purpose-in-context",
+      "passed": true
+    },
+    {
+      "check": "Parent section: link-purpose-in-context",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: link-purpose-in-context",
+      "passed": true
+    },
+    {
+      "check": "note count: link-purpose-in-context",
+      "passed": true
+    },
+    {
+      "check": "example count: link-purpose-in-context",
+      "passed": true
+    },
+    {
+      "check": "Section number: multiple-ways",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: multiple-ways",
+      "passed": true
+    },
+    {
+      "check": "Parent section: multiple-ways",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: multiple-ways",
+      "passed": true
+    },
+    {
+      "check": "note count: multiple-ways",
+      "passed": true
+    },
+    {
+      "check": "example count: multiple-ways",
+      "passed": true
+    },
+    {
+      "check": "Section number: headings-and-labels",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: headings-and-labels",
+      "passed": true
+    },
+    {
+      "check": "Parent section: headings-and-labels",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: headings-and-labels",
+      "passed": true
+    },
+    {
+      "check": "note count: headings-and-labels",
+      "passed": true
+    },
+    {
+      "check": "example count: headings-and-labels",
+      "passed": true
+    },
+    {
+      "check": "Section number: focus-visible",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: focus-visible",
+      "passed": true
+    },
+    {
+      "check": "Parent section: focus-visible",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: focus-visible",
+      "passed": true
+    },
+    {
+      "check": "note count: focus-visible",
+      "passed": true
+    },
+    {
+      "check": "example count: focus-visible",
+      "passed": true
+    },
+    {
+      "check": "Section number: location",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: location",
+      "passed": true
+    },
+    {
+      "check": "Parent section: location",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: location",
+      "passed": true
+    },
+    {
+      "check": "note count: location",
+      "passed": true
+    },
+    {
+      "check": "example count: location",
+      "passed": true
+    },
+    {
+      "check": "Section number: link-purpose-link-only",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: link-purpose-link-only",
+      "passed": true
+    },
+    {
+      "check": "Parent section: link-purpose-link-only",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: link-purpose-link-only",
+      "passed": true
+    },
+    {
+      "check": "note count: link-purpose-link-only",
+      "passed": true
+    },
+    {
+      "check": "example count: link-purpose-link-only",
+      "passed": true
+    },
+    {
+      "check": "Section number: section-headings",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: section-headings",
+      "passed": true
+    },
+    {
+      "check": "Parent section: section-headings",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: section-headings",
+      "passed": true
+    },
+    {
+      "check": "note count: section-headings",
+      "passed": true
+    },
+    {
+      "check": "example count: section-headings",
+      "passed": true
+    },
+    {
+      "check": "Section number: focus-not-obscured-minimum",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: focus-not-obscured-minimum",
+      "passed": true
+    },
+    {
+      "check": "Parent section: focus-not-obscured-minimum",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: focus-not-obscured-minimum",
+      "passed": true
+    },
+    {
+      "check": "note count: focus-not-obscured-minimum",
+      "passed": true
+    },
+    {
+      "check": "example count: focus-not-obscured-minimum",
+      "passed": true
+    },
+    {
+      "check": "Section number: focus-not-obscured-enhanced",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: focus-not-obscured-enhanced",
+      "passed": true
+    },
+    {
+      "check": "Parent section: focus-not-obscured-enhanced",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: focus-not-obscured-enhanced",
+      "passed": true
+    },
+    {
+      "check": "note count: focus-not-obscured-enhanced",
+      "passed": true
+    },
+    {
+      "check": "example count: focus-not-obscured-enhanced",
+      "passed": true
+    },
+    {
+      "check": "Section number: focus-appearance",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: focus-appearance",
+      "passed": true
+    },
+    {
+      "check": "Parent section: focus-appearance",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: focus-appearance",
+      "passed": true
+    },
+    {
+      "check": "note count: focus-appearance",
+      "passed": true
+    },
+    {
+      "check": "example count: focus-appearance",
+      "passed": true
+    },
+    {
+      "check": "Section number: input-modalities",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: input-modalities",
+      "passed": true
+    },
+    {
+      "check": "Parent section: input-modalities",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: input-modalities",
+      "passed": true
+    },
+    {
+      "check": "note count: input-modalities",
+      "passed": true
+    },
+    {
+      "check": "example count: input-modalities",
+      "passed": true
+    },
+    {
+      "check": "Section number: pointer-gestures",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: pointer-gestures",
+      "passed": true
+    },
+    {
+      "check": "Parent section: pointer-gestures",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: pointer-gestures",
+      "passed": true
+    },
+    {
+      "check": "note count: pointer-gestures",
+      "passed": true
+    },
+    {
+      "check": "example count: pointer-gestures",
+      "passed": true
+    },
+    {
+      "check": "Section number: pointer-cancellation",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: pointer-cancellation",
+      "passed": true
+    },
+    {
+      "check": "Parent section: pointer-cancellation",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: pointer-cancellation",
+      "passed": true
+    },
+    {
+      "check": "note count: pointer-cancellation",
+      "passed": true
+    },
+    {
+      "check": "example count: pointer-cancellation",
+      "passed": true
+    },
+    {
+      "check": "Section number: label-in-name",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: label-in-name",
+      "passed": true
+    },
+    {
+      "check": "Parent section: label-in-name",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: label-in-name",
+      "passed": true
+    },
+    {
+      "check": "note count: label-in-name",
+      "passed": true
+    },
+    {
+      "check": "example count: label-in-name",
+      "passed": true
+    },
+    {
+      "check": "Section number: motion-actuation",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: motion-actuation",
+      "passed": true
+    },
+    {
+      "check": "Parent section: motion-actuation",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: motion-actuation",
+      "passed": true
+    },
+    {
+      "check": "note count: motion-actuation",
+      "passed": true
+    },
+    {
+      "check": "example count: motion-actuation",
+      "passed": true
+    },
+    {
+      "check": "Section number: target-size-enhanced",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: target-size-enhanced",
+      "passed": true
+    },
+    {
+      "check": "Parent section: target-size-enhanced",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: target-size-enhanced",
+      "passed": true
+    },
+    {
+      "check": "note count: target-size-enhanced",
+      "passed": true
+    },
+    {
+      "check": "example count: target-size-enhanced",
+      "passed": true
+    },
+    {
+      "check": "Section number: concurrent-input-mechanisms",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: concurrent-input-mechanisms",
+      "passed": true
+    },
+    {
+      "check": "Parent section: concurrent-input-mechanisms",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: concurrent-input-mechanisms",
+      "passed": true
+    },
+    {
+      "check": "note count: concurrent-input-mechanisms",
+      "passed": true
+    },
+    {
+      "check": "example count: concurrent-input-mechanisms",
+      "passed": true
+    },
+    {
+      "check": "Section number: dragging-movements",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: dragging-movements",
+      "passed": true
+    },
+    {
+      "check": "Parent section: dragging-movements",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: dragging-movements",
+      "passed": true
+    },
+    {
+      "check": "note count: dragging-movements",
+      "passed": true
+    },
+    {
+      "check": "example count: dragging-movements",
+      "passed": true
+    },
+    {
+      "check": "Section number: target-size-minimum",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: target-size-minimum",
+      "passed": true
+    },
+    {
+      "check": "Parent section: target-size-minimum",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: target-size-minimum",
+      "passed": true
+    },
+    {
+      "check": "note count: target-size-minimum",
+      "passed": true
+    },
+    {
+      "check": "example count: target-size-minimum",
+      "passed": true
+    },
+    {
+      "check": "Section number: understandable",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: understandable",
+      "passed": true
+    },
+    {
+      "check": "Parent section: understandable",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: understandable",
+      "passed": true
+    },
+    {
+      "check": "note count: understandable",
+      "passed": true
+    },
+    {
+      "check": "example count: understandable",
+      "passed": true
+    },
+    {
+      "check": "Section number: readable",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: readable",
+      "passed": true
+    },
+    {
+      "check": "Parent section: readable",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: readable",
+      "passed": true
+    },
+    {
+      "check": "note count: readable",
+      "passed": true
+    },
+    {
+      "check": "example count: readable",
+      "passed": true
+    },
+    {
+      "check": "Section number: language-of-page",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: language-of-page",
+      "passed": true
+    },
+    {
+      "check": "Parent section: language-of-page",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: language-of-page",
+      "passed": true
+    },
+    {
+      "check": "note count: language-of-page",
+      "passed": true
+    },
+    {
+      "check": "example count: language-of-page",
+      "passed": true
+    },
+    {
+      "check": "Section number: language-of-parts",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: language-of-parts",
+      "passed": true
+    },
+    {
+      "check": "Parent section: language-of-parts",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: language-of-parts",
+      "passed": true
+    },
+    {
+      "check": "note count: language-of-parts",
+      "passed": true
+    },
+    {
+      "check": "example count: language-of-parts",
+      "passed": true
+    },
+    {
+      "check": "Section number: unusual-words",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: unusual-words",
+      "passed": true
+    },
+    {
+      "check": "Parent section: unusual-words",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: unusual-words",
+      "passed": true
+    },
+    {
+      "check": "note count: unusual-words",
+      "passed": true
+    },
+    {
+      "check": "example count: unusual-words",
+      "passed": true
+    },
+    {
+      "check": "Section number: abbreviations",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: abbreviations",
+      "passed": true
+    },
+    {
+      "check": "Parent section: abbreviations",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: abbreviations",
+      "passed": true
+    },
+    {
+      "check": "note count: abbreviations",
+      "passed": true
+    },
+    {
+      "check": "example count: abbreviations",
+      "passed": true
+    },
+    {
+      "check": "Section number: reading-level",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: reading-level",
+      "passed": true
+    },
+    {
+      "check": "Parent section: reading-level",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: reading-level",
+      "passed": true
+    },
+    {
+      "check": "note count: reading-level",
+      "passed": true
+    },
+    {
+      "check": "example count: reading-level",
+      "passed": true
+    },
+    {
+      "check": "Section number: pronunciation",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: pronunciation",
+      "passed": true
+    },
+    {
+      "check": "Parent section: pronunciation",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: pronunciation",
+      "passed": true
+    },
+    {
+      "check": "note count: pronunciation",
+      "passed": true
+    },
+    {
+      "check": "example count: pronunciation",
+      "passed": true
+    },
+    {
+      "check": "Section number: predictable",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: predictable",
+      "passed": true
+    },
+    {
+      "check": "Parent section: predictable",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: predictable",
+      "passed": true
+    },
+    {
+      "check": "note count: predictable",
+      "passed": true
+    },
+    {
+      "check": "example count: predictable",
+      "passed": true
+    },
+    {
+      "check": "Section number: on-focus",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: on-focus",
+      "passed": true
+    },
+    {
+      "check": "Parent section: on-focus",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: on-focus",
+      "passed": true
+    },
+    {
+      "check": "note count: on-focus",
+      "passed": true
+    },
+    {
+      "check": "example count: on-focus",
+      "passed": true
+    },
+    {
+      "check": "Section number: on-input",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: on-input",
+      "passed": true
+    },
+    {
+      "check": "Parent section: on-input",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: on-input",
+      "passed": true
+    },
+    {
+      "check": "note count: on-input",
+      "passed": true
+    },
+    {
+      "check": "example count: on-input",
+      "passed": true
+    },
+    {
+      "check": "Section number: consistent-navigation",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: consistent-navigation",
+      "passed": true
+    },
+    {
+      "check": "Parent section: consistent-navigation",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: consistent-navigation",
+      "passed": true
+    },
+    {
+      "check": "note count: consistent-navigation",
+      "passed": true
+    },
+    {
+      "check": "example count: consistent-navigation",
+      "passed": true
+    },
+    {
+      "check": "Section number: consistent-identification",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: consistent-identification",
+      "passed": true
+    },
+    {
+      "check": "Parent section: consistent-identification",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: consistent-identification",
+      "passed": true
+    },
+    {
+      "check": "note count: consistent-identification",
+      "passed": true
+    },
+    {
+      "check": "example count: consistent-identification",
+      "passed": true
+    },
+    {
+      "check": "Section number: change-on-request",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: change-on-request",
+      "passed": true
+    },
+    {
+      "check": "Parent section: change-on-request",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: change-on-request",
+      "passed": true
+    },
+    {
+      "check": "note count: change-on-request",
+      "passed": true
+    },
+    {
+      "check": "example count: change-on-request",
+      "passed": true
+    },
+    {
+      "check": "Section number: consistent-help",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: consistent-help",
+      "passed": true
+    },
+    {
+      "check": "Parent section: consistent-help",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: consistent-help",
+      "passed": true
+    },
+    {
+      "check": "note count: consistent-help",
+      "passed": true
+    },
+    {
+      "check": "example count: consistent-help",
+      "passed": true
+    },
+    {
+      "check": "Section number: input-assistance",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: input-assistance",
+      "passed": true
+    },
+    {
+      "check": "Parent section: input-assistance",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: input-assistance",
+      "passed": true
+    },
+    {
+      "check": "note count: input-assistance",
+      "passed": true
+    },
+    {
+      "check": "example count: input-assistance",
+      "passed": true
+    },
+    {
+      "check": "Section number: error-identification",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: error-identification",
+      "passed": true
+    },
+    {
+      "check": "Parent section: error-identification",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: error-identification",
+      "passed": true
+    },
+    {
+      "check": "note count: error-identification",
+      "passed": true
+    },
+    {
+      "check": "example count: error-identification",
+      "passed": true
+    },
+    {
+      "check": "Section number: labels-or-instructions",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: labels-or-instructions",
+      "passed": true
+    },
+    {
+      "check": "Parent section: labels-or-instructions",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: labels-or-instructions",
+      "passed": true
+    },
+    {
+      "check": "note count: labels-or-instructions",
+      "passed": true
+    },
+    {
+      "check": "example count: labels-or-instructions",
+      "passed": true
+    },
+    {
+      "check": "Section number: error-suggestion",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: error-suggestion",
+      "passed": true
+    },
+    {
+      "check": "Parent section: error-suggestion",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: error-suggestion",
+      "passed": true
+    },
+    {
+      "check": "note count: error-suggestion",
+      "passed": true
+    },
+    {
+      "check": "example count: error-suggestion",
+      "passed": true
+    },
+    {
+      "check": "Section number: error-prevention-legal-financial-data",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: error-prevention-legal-financial-data",
+      "passed": true
+    },
+    {
+      "check": "Parent section: error-prevention-legal-financial-data",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: error-prevention-legal-financial-data",
+      "passed": true
+    },
+    {
+      "check": "note count: error-prevention-legal-financial-data",
+      "passed": true
+    },
+    {
+      "check": "example count: error-prevention-legal-financial-data",
+      "passed": true
+    },
+    {
+      "check": "Section number: help",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: help",
+      "passed": true
+    },
+    {
+      "check": "Parent section: help",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: help",
+      "passed": true
+    },
+    {
+      "check": "note count: help",
+      "passed": true
+    },
+    {
+      "check": "example count: help",
+      "passed": true
+    },
+    {
+      "check": "Section number: error-prevention-all",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: error-prevention-all",
+      "passed": true
+    },
+    {
+      "check": "Parent section: error-prevention-all",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: error-prevention-all",
+      "passed": true
+    },
+    {
+      "check": "note count: error-prevention-all",
+      "passed": true
+    },
+    {
+      "check": "example count: error-prevention-all",
+      "passed": true
+    },
+    {
+      "check": "Section number: redundant-entry",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: redundant-entry",
+      "passed": true
+    },
+    {
+      "check": "Parent section: redundant-entry",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: redundant-entry",
+      "passed": true
+    },
+    {
+      "check": "note count: redundant-entry",
+      "passed": true
+    },
+    {
+      "check": "example count: redundant-entry",
+      "passed": true
+    },
+    {
+      "check": "Section number: accessible-authentication-minimum",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: accessible-authentication-minimum",
+      "passed": true
+    },
+    {
+      "check": "Parent section: accessible-authentication-minimum",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: accessible-authentication-minimum",
+      "passed": true
+    },
+    {
+      "check": "note count: accessible-authentication-minimum",
+      "passed": true
+    },
+    {
+      "check": "example count: accessible-authentication-minimum",
+      "passed": true
+    },
+    {
+      "check": "Section number: accessible-authentication-enhanced",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: accessible-authentication-enhanced",
+      "passed": true
+    },
+    {
+      "check": "Parent section: accessible-authentication-enhanced",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: accessible-authentication-enhanced",
+      "passed": true
+    },
+    {
+      "check": "note count: accessible-authentication-enhanced",
+      "passed": true
+    },
+    {
+      "check": "example count: accessible-authentication-enhanced",
+      "passed": true
+    },
+    {
+      "check": "Section number: robust",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: robust",
+      "passed": true
+    },
+    {
+      "check": "Parent section: robust",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: robust",
+      "passed": true
+    },
+    {
+      "check": "note count: robust",
+      "passed": true
+    },
+    {
+      "check": "example count: robust",
+      "passed": true
+    },
+    {
+      "check": "Section number: compatible",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: compatible",
+      "passed": true
+    },
+    {
+      "check": "Parent section: compatible",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: compatible",
+      "passed": true
+    },
+    {
+      "check": "note count: compatible",
+      "passed": true
+    },
+    {
+      "check": "example count: compatible",
+      "passed": true
+    },
+    {
+      "check": "Section number: parsing",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: parsing",
+      "passed": true
+    },
+    {
+      "check": "Parent section: parsing",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: parsing",
+      "passed": true
+    },
+    {
+      "check": "note count: parsing",
+      "passed": true
+    },
+    {
+      "check": "example count: parsing",
+      "passed": true
+    },
+    {
+      "check": "Section number: name-role-value",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: name-role-value",
+      "passed": true
+    },
+    {
+      "check": "Parent section: name-role-value",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: name-role-value",
+      "passed": true
+    },
+    {
+      "check": "note count: name-role-value",
+      "passed": true
+    },
+    {
+      "check": "example count: name-role-value",
+      "passed": true
+    },
+    {
+      "check": "Section number: status-messages",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: status-messages",
+      "passed": true
+    },
+    {
+      "check": "Parent section: status-messages",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: status-messages",
+      "passed": true
+    },
+    {
+      "check": "note count: status-messages",
+      "passed": true
+    },
+    {
+      "check": "example count: status-messages",
+      "passed": true
+    },
+    {
+      "check": "Section number: conformance",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: conformance",
+      "passed": true
+    },
+    {
+      "check": "Parent section: conformance",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: conformance",
+      "passed": true
+    },
+    {
+      "check": "note count: conformance",
+      "passed": true
+    },
+    {
+      "check": "example count: conformance",
+      "passed": true
+    },
+    {
+      "check": "Section number: interpreting-normative-requirements",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: interpreting-normative-requirements",
+      "passed": true
+    },
+    {
+      "check": "Parent section: interpreting-normative-requirements",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: interpreting-normative-requirements",
+      "passed": true
+    },
+    {
+      "check": "note count: interpreting-normative-requirements",
+      "passed": true
+    },
+    {
+      "check": "example count: interpreting-normative-requirements",
+      "passed": true
+    },
+    {
+      "check": "Section number: conformance-reqs",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: conformance-reqs",
+      "passed": true
+    },
+    {
+      "check": "Parent section: conformance-reqs",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: conformance-reqs",
+      "passed": true
+    },
+    {
+      "check": "note count: conformance-reqs",
+      "passed": true
+    },
+    {
+      "check": "example count: conformance-reqs",
+      "passed": true
+    },
+    {
+      "check": "Section number: cc1",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: cc1",
+      "passed": true
+    },
+    {
+      "check": "Parent section: cc1",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: cc1",
+      "passed": true
+    },
+    {
+      "check": "note count: cc1",
+      "passed": true
+    },
+    {
+      "check": "example count: cc1",
+      "passed": true
+    },
+    {
+      "check": "Section number: cc2",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: cc2",
+      "passed": true
+    },
+    {
+      "check": "Parent section: cc2",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: cc2",
+      "passed": true
+    },
+    {
+      "check": "note count: cc2",
+      "passed": true
+    },
+    {
+      "check": "example count: cc2",
+      "passed": true
+    },
+    {
+      "check": "Section number: cc3",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: cc3",
+      "passed": true
+    },
+    {
+      "check": "Parent section: cc3",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: cc3",
+      "passed": true
+    },
+    {
+      "check": "note count: cc3",
+      "passed": true
+    },
+    {
+      "check": "example count: cc3",
+      "passed": true
+    },
+    {
+      "check": "Section number: cc4",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: cc4",
+      "passed": true
+    },
+    {
+      "check": "Parent section: cc4",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: cc4",
+      "passed": true
+    },
+    {
+      "check": "note count: cc4",
+      "passed": true
+    },
+    {
+      "check": "example count: cc4",
+      "passed": true
+    },
+    {
+      "check": "Section number: cc5",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: cc5",
+      "passed": true
+    },
+    {
+      "check": "Parent section: cc5",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: cc5",
+      "passed": true
+    },
+    {
+      "check": "note count: cc5",
+      "passed": true
+    },
+    {
+      "check": "example count: cc5",
+      "passed": true
+    },
+    {
+      "check": "Section number: conformance-claims",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: conformance-claims",
+      "passed": true
+    },
+    {
+      "check": "Parent section: conformance-claims",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: conformance-claims",
+      "passed": true
+    },
+    {
+      "check": "note count: conformance-claims",
+      "passed": true
+    },
+    {
+      "check": "example count: conformance-claims",
+      "passed": true
+    },
+    {
+      "check": "Section number: conformance-required",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: conformance-required",
+      "passed": true
+    },
+    {
+      "check": "Parent section: conformance-required",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: conformance-required",
+      "passed": true
+    },
+    {
+      "check": "note count: conformance-required",
+      "passed": true
+    },
+    {
+      "check": "example count: conformance-required",
+      "passed": true
+    },
+    {
+      "check": "Section number: conformance-optional",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: conformance-optional",
+      "passed": true
+    },
+    {
+      "check": "Parent section: conformance-optional",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: conformance-optional",
+      "passed": true
+    },
+    {
+      "check": "note count: conformance-optional",
+      "passed": true
+    },
+    {
+      "check": "example count: conformance-optional",
+      "passed": true
+    },
+    {
+      "check": "Section number: conformance-partial",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: conformance-partial",
+      "passed": true
+    },
+    {
+      "check": "Parent section: conformance-partial",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: conformance-partial",
+      "passed": true
+    },
+    {
+      "check": "note count: conformance-partial",
+      "passed": true
+    },
+    {
+      "check": "example count: conformance-partial",
+      "passed": true
+    },
+    {
+      "check": "Section number: conformance-partial-lang",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: conformance-partial-lang",
+      "passed": true
+    },
+    {
+      "check": "Parent section: conformance-partial-lang",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: conformance-partial-lang",
+      "passed": true
+    },
+    {
+      "check": "note count: conformance-partial-lang",
+      "passed": true
+    },
+    {
+      "check": "example count: conformance-partial-lang",
+      "passed": true
+    },
+    {
+      "check": "Section number: privacy-summary",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: privacy-summary",
+      "passed": true
+    },
+    {
+      "check": "Parent section: privacy-summary",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: privacy-summary",
+      "passed": true
+    },
+    {
+      "check": "note count: privacy-summary",
+      "passed": true
+    },
+    {
+      "check": "example count: privacy-summary",
+      "passed": true
+    },
+    {
+      "check": "Section number: security-summary",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: security-summary",
+      "passed": true
+    },
+    {
+      "check": "Parent section: security-summary",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: security-summary",
+      "passed": true
+    },
+    {
+      "check": "note count: security-summary",
+      "passed": true
+    },
+    {
+      "check": "example count: security-summary",
+      "passed": true
+    },
+    {
+      "check": "Section number: glossary",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: glossary",
+      "passed": true
+    },
+    {
+      "check": "Parent section: glossary",
+      "passed": true
+    },
+    {
+      "check": "Section number: input-purposes",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: input-purposes",
+      "passed": true
+    },
+    {
+      "check": "Parent section: input-purposes",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: input-purposes",
+      "passed": true
+    },
+    {
+      "check": "note count: input-purposes",
+      "passed": true
+    },
+    {
+      "check": "example count: input-purposes",
+      "passed": true
+    },
+    {
+      "check": "Section number: changelog",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: changelog",
+      "passed": true
+    },
+    {
+      "check": "Parent section: changelog",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: changelog",
+      "passed": true
+    },
+    {
+      "check": "note count: changelog",
+      "passed": true
+    },
+    {
+      "check": "example count: changelog",
+      "passed": true
+    },
+    {
+      "check": "Section number: acknowledgements",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: acknowledgements",
+      "passed": true
+    },
+    {
+      "check": "Parent section: acknowledgements",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: acknowledgements",
+      "passed": true
+    },
+    {
+      "check": "note count: acknowledgements",
+      "passed": true
+    },
+    {
+      "check": "example count: acknowledgements",
+      "passed": true
+    },
+    {
+      "check": "Section number: ack_participants-active",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: ack_participants-active",
+      "passed": true
+    },
+    {
+      "check": "Parent section: ack_participants-active",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: ack_participants-active",
+      "passed": true
+    },
+    {
+      "check": "note count: ack_participants-active",
+      "passed": true
+    },
+    {
+      "check": "example count: ack_participants-active",
+      "passed": true
+    },
+    {
+      "check": "Section number: ack_participants-previous",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: ack_participants-previous",
+      "passed": true
+    },
+    {
+      "check": "Parent section: ack_participants-previous",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: ack_participants-previous",
+      "passed": true
+    },
+    {
+      "check": "note count: ack_participants-previous",
+      "passed": true
+    },
+    {
+      "check": "example count: ack_participants-previous",
+      "passed": true
+    },
+    {
+      "check": "Section number: enabling-funders",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: enabling-funders",
+      "passed": true
+    },
+    {
+      "check": "Parent section: enabling-funders",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: enabling-funders",
+      "passed": true
+    },
+    {
+      "check": "note count: enabling-funders",
+      "passed": true
+    },
+    {
+      "check": "example count: enabling-funders",
+      "passed": true
+    },
+    {
+      "check": "Section number: references",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: references",
+      "passed": true
+    },
+    {
+      "check": "Parent section: references",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: references",
+      "passed": true
+    },
+    {
+      "check": "note count: references",
+      "passed": true
+    },
+    {
+      "check": "example count: references",
+      "passed": true
+    },
+    {
+      "check": "Section number: informative-references",
+      "passed": true
+    },
+    {
+      "check": "Conformance level: informative-references",
+      "passed": true
+    },
+    {
+      "check": "Parent section: informative-references",
+      "passed": true
+    },
+    {
+      "check": "List types and item counts: informative-references",
+      "passed": true
+    },
+    {
+      "check": "note count: informative-references",
+      "passed": true
+    },
+    {
+      "check": "example count: informative-references",
+      "passed": true
+    },
+    {
+      "check": "86 active success criteria",
+      "passed": true
+    },
+    {
+      "check": "Nine new criteria retain their correct levels",
+      "passed": true
+    },
+    {
+      "check": "4.1.1 remains only as an obsolete criterion with an informative note",
+      "passed": true
+    },
+    {
+      "check": "All 101 glossary definitions occur in source order",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-abbreviations",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-abbreviations",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-abbreviations",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-accessibility-supported",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-accessibility-supported",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-accessibility-supported",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-alternative-for-time-based-media",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-alternative-for-time-based-media",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-alternative-for-time-based-media",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-ambiguous-to-users-in-general",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-ambiguous-to-users-in-general",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-ambiguous-to-users-in-general",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-ascii-art",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-ascii-art",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-ascii-art",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-assistive-technologies",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-assistive-technologies",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-assistive-technologies",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-audio",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-audio",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-audio",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-audio-descriptions",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-audio-descriptions",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-audio-descriptions",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-audio-only",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-audio-only",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-audio-only",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-blinking",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-blinking",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-blinking",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-blocks-of-text",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-blocks-of-text",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-blocks-of-text",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-captcha",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-captcha",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-captcha",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-captions",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-captions",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-captions",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-change-of-context",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-change-of-context",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-change-of-context",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-cognitive-function-test",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-cognitive-function-test",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-cognitive-function-test",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-conform",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-conform",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-conform",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-conforming-alternate-versions",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-conforming-alternate-versions",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-conforming-alternate-versions",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-content",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-content",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-content",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-context-sensitive-help",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-context-sensitive-help",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-context-sensitive-help",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-contrast-ratio",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-contrast-ratio",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-contrast-ratio",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-correct-reading-sequence",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-correct-reading-sequence",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-correct-reading-sequence",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-css-pixels",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-css-pixels",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-css-pixels",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-down-event",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-down-event",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-down-event",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-dragging-movements",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-dragging-movements",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-dragging-movements",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-emergency",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-emergency",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-emergency",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-essential",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-essential",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-essential",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-extended-audio-description",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-extended-audio-description",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-extended-audio-description",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-flashes",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-flashes",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-flashes",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-focus-indicator",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-focus-indicator",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-focus-indicator",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-functionality",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-functionality",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-functionality",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-general-flash-and-red-flash-thresholds",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-general-flash-and-red-flash-thresholds",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-general-flash-and-red-flash-thresholds",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-human-language-s",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-human-language-s",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-human-language-s",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-idioms",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-idioms",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-idioms",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-images-of-text",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-images-of-text",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-images-of-text",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-informative",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-informative",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-informative",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-input-error",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-input-error",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-input-error",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-jargon",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-jargon",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-jargon",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-keyboard-interface",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-keyboard-interface",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-keyboard-interface",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-keyboard-shortcuts",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-keyboard-shortcuts",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-keyboard-shortcuts",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-labels",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-labels",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-labels",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-large-scale",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-large-scale",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-large-scale",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-legal-commitments",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-legal-commitments",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-legal-commitments",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-purpose-of-each-link",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-purpose-of-each-link",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-purpose-of-each-link",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-live",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-live",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-live",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-lower-secondary-education-level",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-lower-secondary-education-level",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-lower-secondary-education-level",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-mechanism",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-mechanism",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-mechanism",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-media-alternative-for-text",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-media-alternative-for-text",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-media-alternative-for-text",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-motion-animation",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-motion-animation",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-motion-animation",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-bounding-boxes",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-bounding-boxes",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-bounding-boxes",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-name",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-name",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-name",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-navigated-sequentially",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-navigated-sequentially",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-navigated-sequentially",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-non-text-content",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-non-text-content",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-non-text-content",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-normative",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-normative",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-normative",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-on-a-full-screen-window",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-on-a-full-screen-window",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-on-a-full-screen-window",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-pause",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-pause",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-pause",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-perimeter",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-perimeter",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-perimeter",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-pointer-inputs",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-pointer-inputs",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-pointer-inputs",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-prerecorded",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-presentation",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-presentation",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-presentation",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-primary-education",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-primary-education",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-primary-education",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-processes",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-processes",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-processes",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-programmatically-determinable",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-programmatically-determinable",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-programmatically-determinable",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-programmatically-determined-link-context",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-programmatically-determined-link-context",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-programmatically-determined-link-context",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-programmatically-set",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-programmatically-set",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-programmatically-set",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-pure-decoration",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-pure-decoration",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-pure-decoration",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-real-time-events",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-real-time-events",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-real-time-events",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-regions",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-regions",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-regions",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-relationships",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-relationships",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-relationships",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-relative-luminance",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-relative-luminance",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-relative-luminance",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-relied-upon",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-relied-upon",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-relied-upon",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-role",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-role",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-role",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-same-functionality",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-same-functionality",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-same-functionality",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-same-relative-order",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-same-relative-order",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-same-relative-order",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-satisfies",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-satisfies",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-satisfies",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-section",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-section",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-section",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-set-of-web-pages",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-set-of-web-pages",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-set-of-web-pages",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-sign-language",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-sign-language",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-sign-language",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-sign-language-interpretation",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-sign-language-interpretation",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-sign-language-interpretation",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-single-pointer",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-single-pointer",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-single-pointer",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-specific-sensory-experience",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-specific-sensory-experience",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-specific-sensory-experience",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-states",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-states",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-states",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-status-messages",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-status-messages",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-status-messages",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-structure",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-structure",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-structure",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-style-properties",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-style-properties",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-style-properties",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-supplementary-content",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-supplementary-content",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-supplementary-content",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-synchronized-media",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-synchronized-media",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-synchronized-media",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-targets",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-targets",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-targets",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-technologies",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-technologies",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-technologies",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-text",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-text",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-text",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-text-alternative",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-text-alternative",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-text-alternative",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-up-event",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-up-event",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-up-event",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-used-in-an-unusual-or-restricted-way",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-used-in-an-unusual-or-restricted-way",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-used-in-an-unusual-or-restricted-way",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-user-agents",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-user-agents",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-user-agents",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-user-controllable",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-user-controllable",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-user-controllable",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-user-interface-components",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-user-interface-components",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-user-interface-components",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-user-inactivity",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-user-inactivity",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-user-inactivity",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-video",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-video",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-video",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-video-only",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-video-only",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-video-only",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-viewport",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-viewport",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-viewport",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-visually-customized",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-visually-customized",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-visually-customized",
+      "passed": true
+    },
+    {
+      "check": "Definition list types and item counts: dfn-web-page-s",
+      "passed": true
+    },
+    {
+      "check": "note count: dfn-web-page-s",
+      "passed": true
+    },
+    {
+      "check": "example count: dfn-web-page-s",
+      "passed": true
+    },
+    {
+      "check": "HTML input-purpose identifiers remain unchanged",
+      "passed": true
+    },
+    {
+      "check": "All source document-help URLs are preserved",
+      "passed": true
+    },
+    {
+      "check": "Original W3C template header and contents markup are present",
+      "passed": true
+    },
+    {
+      "check": "Draft status is explicit",
+      "passed": true
+    },
+    {
+      "check": "Added process explanations are absent from the reading document",
+      "passed": true
+    },
+    {
+      "check": "Heading decimal numbers are isolated from Arabic labels",
+      "passed": true
+    },
+    {
+      "check": "Contents numbers have separate title columns",
+      "passed": true
+    },
+    {
+      "check": "Published Arabic organization and coordinator are credited",
+      "passed": true
+    },
+    {
+      "check": "Translation-header links follow the source references and user-provided replacement addresses",
+      "passed": true
+    },
+    {
+      "check": "Current and latest version links use the configured public HTML preview",
+      "passed": true
+    },
+    {
+      "check": "Committee link uses the user-provided address",
+      "passed": true
+    },
+    {
+      "check": "Comments and errata use the user-provided W3C translators archive",
+      "passed": true
+    },
+    {
+      "check": "Organization and coordinator labels refer to 2.2 as requested",
+      "passed": true
+    },
+    {
+      "check": "Translation header and contents label refer only to 2.2",
+      "passed": true
+    },
+    {
+      "check": "Bilingual translation header follows the Arabic 2.1 structure before the W3C header",
+      "passed": true
+    },
+    {
+      "check": "Translation header identifies a dated review draft without inherited approval claims",
+      "passed": true
+    },
+    {
+      "check": "Right-edge status strip identifies the Arabic 2.2 review draft",
+      "passed": true
+    },
+    {
+      "check": "Local translation-header links resolve",
+      "passed": true
+    },
+    {
+      "check": "English specification editors are preserved separately",
+      "passed": true
+    },
+    {
+      "check": "English specification contributors: ack_participants-active",
+      "passed": true
+    },
+    {
+      "check": "English specification contributors: ack_participants-previous",
+      "passed": true
+    },
+    {
+      "check": "2.5.8 has five exception categories and the 24 CSS-pixel threshold",
+      "passed": true
+    },
+    {
+      "check": "2.4.13 retains the 3:1 contrast requirement and two exceptions",
+      "passed": true
+    },
+    {
+      "check": "Authentication exceptions: four at AA, two at AAA",
+      "passed": true
+    },
+    {
+      "check": "All three updated sRGB channel formulas are present",
+      "passed": true
+    },
+    {
+      "check": "Red-flash definition uses the updated CIE threshold",
+      "passed": true
+    },
+    {
+      "check": "All local style and image dependencies exist",
+      "passed": true
+    },
+    {
+      "check": "No runtime scripts or remote display assets are needed",
+      "passed": true
+    },
+    {
+      "check": "No untranslated English prose blocks",
+      "passed": true
+    },
+    {
+      "check": "Bilingual Markdown matches the current English and Arabic passages",
+      "passed": true
+    },
+    {
+      "check": "Bilingual review includes every source section and glossary entry",
+      "passed": true
+    },
+    {
+      "check": "Every source review passage has an Arabic counterpart",
+      "passed": true
+    },
+    {
+      "check": "Comparison row identifiers are unique",
+      "passed": true
+    },
+    {
+      "check": "Complete document text coverage: english",
+      "passed": true
+    },
+    {
+      "check": "Complete document text coverage: arabic",
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,1833 @@
+{
+  "sections": [
+    {
+      "id": "abstract",
+      "number": "",
+      "title_ar": "نبذة",
+      "level": null,
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#abstract"
+    },
+    {
+      "id": "sotd",
+      "number": "",
+      "title_ar": "حالة هذه الوثيقة",
+      "level": null,
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#sotd"
+    },
+    {
+      "id": "background-on-wcag-2",
+      "number": "",
+      "title_ar": "خلفية عن مبادئ النفاذ إلى محتوى الويب 2",
+      "level": null,
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#background-on-wcag-2"
+    },
+    {
+      "id": "wcag-2-layers-of-guidance",
+      "number": "",
+      "title_ar": "مستويات الإرشاد لمبادئ النفاذ إلى محتوى الويب 2",
+      "level": null,
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#wcag-2-layers-of-guidance"
+    },
+    {
+      "id": "wcag-2-2-supporting-documents",
+      "number": "",
+      "title_ar": "مستندات داعمة لمبادئ النفاذ إلى محتوى الويب 2.2",
+      "level": null,
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#wcag-2-2-supporting-documents"
+    },
+    {
+      "id": "requirements-for-wcag-2-2",
+      "number": "",
+      "title_ar": "متطلبات لمبادئ النفاذ إلى محتوى الويب 2.2",
+      "level": null,
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#requirements-for-wcag-2-2"
+    },
+    {
+      "id": "new-features-in-wcag-2-2",
+      "number": "",
+      "title_ar": "الميزات الجديدة في مبادئ النفاذ إلى محتوى الويب 2.2",
+      "level": null,
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#new-features-in-wcag-2-2"
+    },
+    {
+      "id": "numbering-in-wcag-2-2",
+      "number": "",
+      "title_ar": "الترقيم في مبادئ النفاذ إلى محتوى الويب 2.2",
+      "level": null,
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#numbering-in-wcag-2-2"
+    },
+    {
+      "id": "conformance-to-wcag-2-2",
+      "number": "",
+      "title_ar": "التوافق مع مبادئ النفاذ إلى محتوى الويب 2.2",
+      "level": null,
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#conformance-to-wcag-2-2"
+    },
+    {
+      "id": "comparison-with-wcag-2-1",
+      "number": "",
+      "title_ar": "مقارنة مع مبادئ النفاذ إلى محتوى الويب 2.1",
+      "level": null,
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#comparison-with-wcag-2-1"
+    },
+    {
+      "id": "later-versions-of-accessibility-guidelines",
+      "number": "",
+      "title_ar": "الإصدارات اللاحقة من مبادئ النفاذ",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#later-versions-of-accessibility-guidelines"
+    },
+    {
+      "id": "intro",
+      "number": "",
+      "title_ar": "مقدمة",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#intro"
+    },
+    {
+      "id": "non-text-content",
+      "number": "1.1.1",
+      "title_ar": "محتوى غير نصي",
+      "level": "A",
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#non-text-content"
+    },
+    {
+      "id": "text-alternatives",
+      "number": "1.1",
+      "title_ar": "البدائل النصية",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#text-alternatives"
+    },
+    {
+      "id": "audio-only-and-video-only-prerecorded",
+      "number": "1.2.1",
+      "title_ar": "الصوتية البحتة والمرئية البحتة (المسجلة مسبقا)",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#audio-only-and-video-only-prerecorded"
+    },
+    {
+      "id": "captions-prerecorded",
+      "number": "1.2.2",
+      "title_ar": "التعليقات (مسجلة مسبقا)",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#captions-prerecorded"
+    },
+    {
+      "id": "audio-description-or-media-alternative-prerecorded",
+      "number": "1.2.3",
+      "title_ar": "وصف صوتي أو بديل للوسائط السمعية البصرية (مسجل مسبقا)",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#audio-description-or-media-alternative-prerecorded"
+    },
+    {
+      "id": "captions-live",
+      "number": "1.2.4",
+      "title_ar": "تعليقات مكتوبة (مباشر)",
+      "level": "AA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#captions-live"
+    },
+    {
+      "id": "audio-description-prerecorded",
+      "number": "1.2.5",
+      "title_ar": "وصف صوتي (مسجل مسبقا)",
+      "level": "AA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#audio-description-prerecorded"
+    },
+    {
+      "id": "sign-language-prerecorded",
+      "number": "1.2.6",
+      "title_ar": "لغة الإشارة (مسجلة مسبقا)",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#sign-language-prerecorded"
+    },
+    {
+      "id": "extended-audio-description-prerecorded",
+      "number": "1.2.7",
+      "title_ar": "وصف صوتي إضافي (مسجل مسبقا)",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#extended-audio-description-prerecorded"
+    },
+    {
+      "id": "media-alternative-prerecorded",
+      "number": "1.2.8",
+      "title_ar": "بديل لوسيط زمني (مسجل مسبقا)",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#media-alternative-prerecorded"
+    },
+    {
+      "id": "audio-only-live",
+      "number": "1.2.9",
+      "title_ar": "صوتي فقط (مباشر)",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#audio-only-live"
+    },
+    {
+      "id": "time-based-media",
+      "number": "1.2",
+      "title_ar": "الوسائط الزمنية",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#time-based-media"
+    },
+    {
+      "id": "info-and-relationships",
+      "number": "1.3.1",
+      "title_ar": "المعلومات والعلاقات",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#info-and-relationships"
+    },
+    {
+      "id": "meaningful-sequence",
+      "number": "1.3.2",
+      "title_ar": "ترتيب ذو دلالة",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#meaningful-sequence"
+    },
+    {
+      "id": "sensory-characteristics",
+      "number": "1.3.3",
+      "title_ar": "الخصائص الحسية",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#sensory-characteristics"
+    },
+    {
+      "id": "orientation",
+      "number": "1.3.4",
+      "title_ar": "التوجيهي",
+      "level": "AA",
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#orientation"
+    },
+    {
+      "id": "identify-input-purpose",
+      "number": "1.3.5",
+      "title_ar": "تحديد الغرض من الإدخال",
+      "level": "AA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#identify-input-purpose"
+    },
+    {
+      "id": "identify-purpose",
+      "number": "1.3.6",
+      "title_ar": "تحديد الغرض",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#identify-purpose"
+    },
+    {
+      "id": "adaptable",
+      "number": "1.3",
+      "title_ar": "قابل للتكيف",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#adaptable"
+    },
+    {
+      "id": "use-of-color",
+      "number": "1.4.1",
+      "title_ar": "استخدام اللون",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#use-of-color"
+    },
+    {
+      "id": "audio-control",
+      "number": "1.4.2",
+      "title_ar": "التحكم بالصوت",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#audio-control"
+    },
+    {
+      "id": "contrast-minimum",
+      "number": "1.4.3",
+      "title_ar": "التباين (الحد الأدنى)",
+      "level": "AA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#contrast-minimum"
+    },
+    {
+      "id": "resize-text",
+      "number": "1.4.4",
+      "title_ar": "تغيير حجم النص",
+      "level": "AA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#resize-text"
+    },
+    {
+      "id": "images-of-text",
+      "number": "1.4.5",
+      "title_ar": "صور النص",
+      "level": "AA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#images-of-text"
+    },
+    {
+      "id": "contrast-enhanced",
+      "number": "1.4.6",
+      "title_ar": "التباين (محسن)",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#contrast-enhanced"
+    },
+    {
+      "id": "low-or-no-background-audio",
+      "number": "1.4.7",
+      "title_ar": "صوت خلفية منخفض أو منعدم",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#low-or-no-background-audio"
+    },
+    {
+      "id": "visual-presentation",
+      "number": "1.4.8",
+      "title_ar": "التمثيل المرئي",
+      "level": "AAA",
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#visual-presentation"
+    },
+    {
+      "id": "images-of-text-no-exception",
+      "number": "1.4.9",
+      "title_ar": "صور النص (بدون استثناء)",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#images-of-text-no-exception"
+    },
+    {
+      "id": "reflow",
+      "number": "1.4.10",
+      "title_ar": "إعادة التدفق",
+      "level": "AA",
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#reflow"
+    },
+    {
+      "id": "non-text-contrast",
+      "number": "1.4.11",
+      "title_ar": "التباين غير النصي",
+      "level": "AA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#non-text-contrast"
+    },
+    {
+      "id": "text-spacing",
+      "number": "1.4.12",
+      "title_ar": "تباعد النص",
+      "level": "AA",
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#text-spacing"
+    },
+    {
+      "id": "content-on-hover-or-focus",
+      "number": "1.4.13",
+      "title_ar": "المحتوى عند تمرير المؤشر أو التركيز",
+      "level": "AA",
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#content-on-hover-or-focus"
+    },
+    {
+      "id": "distinguishable",
+      "number": "1.4",
+      "title_ar": "قابلية التمييز",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#distinguishable"
+    },
+    {
+      "id": "perceivable",
+      "number": "1",
+      "title_ar": "قابلية الإدراك الحسية",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#perceivable"
+    },
+    {
+      "id": "keyboard",
+      "number": "2.1.1",
+      "title_ar": "لوحة المفاتيح",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#keyboard"
+    },
+    {
+      "id": "no-keyboard-trap",
+      "number": "2.1.2",
+      "title_ar": "التنقل من خلال لوحة المفاتيح دون عوائق",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#no-keyboard-trap"
+    },
+    {
+      "id": "keyboard-no-exception",
+      "number": "2.1.3",
+      "title_ar": "لوحة المفاتيح (بدون استثناء)",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#keyboard-no-exception"
+    },
+    {
+      "id": "character-key-shortcuts",
+      "number": "2.1.4",
+      "title_ar": "اختصارات مفتاح الأحرف",
+      "level": "A",
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#character-key-shortcuts"
+    },
+    {
+      "id": "keyboard-accessible",
+      "number": "2.1",
+      "title_ar": "إمكانية الوصول إلى لوحة المفاتيح",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#keyboard-accessible"
+    },
+    {
+      "id": "timing-adjustable",
+      "number": "2.2.1",
+      "title_ar": "التوقيت القابل للتعديل",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#timing-adjustable"
+    },
+    {
+      "id": "pause-stop-hide",
+      "number": "2.2.2",
+      "title_ar": "إيقاف مؤقت، التوقف، إخفاء",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#pause-stop-hide"
+    },
+    {
+      "id": "no-timing",
+      "number": "2.2.3",
+      "title_ar": "بدون توقيت",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#no-timing"
+    },
+    {
+      "id": "interruptions",
+      "number": "2.2.4",
+      "title_ar": "العوائق",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#interruptions"
+    },
+    {
+      "id": "re-authenticating",
+      "number": "2.2.5",
+      "title_ar": "إعادة تسجيل الدخول",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#re-authenticating"
+    },
+    {
+      "id": "timeouts",
+      "number": "2.2.6",
+      "title_ar": "انقضاء المهلة المحددة",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#timeouts"
+    },
+    {
+      "id": "enough-time",
+      "number": "2.2",
+      "title_ar": "الوقت الكافي",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#enough-time"
+    },
+    {
+      "id": "three-flashes-or-below-threshold",
+      "number": "2.3.1",
+      "title_ar": "ثلاث ومضات أو أقل من القيمة المعيارية",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#three-flashes-or-below-threshold"
+    },
+    {
+      "id": "three-flashes",
+      "number": "2.3.2",
+      "title_ar": "ثلاث ومضات",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#three-flashes"
+    },
+    {
+      "id": "animation-from-interactions",
+      "number": "2.3.3",
+      "title_ar": "الحركات عند التفاعلات",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#animation-from-interactions"
+    },
+    {
+      "id": "seizures-and-physical-reactions",
+      "number": "2.3",
+      "title_ar": "النوبات ورُدود الفعل الجسدية",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#seizures-and-physical-reactions"
+    },
+    {
+      "id": "bypass-blocks",
+      "number": "2.4.1",
+      "title_ar": "تجاوز مقاطع من المحتوى",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#bypass-blocks"
+    },
+    {
+      "id": "page-titled",
+      "number": "2.4.2",
+      "title_ar": "الصفحةالمعنونة",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#page-titled"
+    },
+    {
+      "id": "focus-order",
+      "number": "2.4.3",
+      "title_ar": "مسار المؤشر",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#focus-order"
+    },
+    {
+      "id": "link-purpose-in-context",
+      "number": "2.4.4",
+      "title_ar": "الغرض من الرابط (في السياق)",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#link-purpose-in-context"
+    },
+    {
+      "id": "multiple-ways",
+      "number": "2.4.5",
+      "title_ar": "تعدد الطرق",
+      "level": "AA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#multiple-ways"
+    },
+    {
+      "id": "headings-and-labels",
+      "number": "2.4.6",
+      "title_ar": "العناوين والتسميات",
+      "level": "AA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#headings-and-labels"
+    },
+    {
+      "id": "focus-visible",
+      "number": "2.4.7",
+      "title_ar": "ظهور المؤشر",
+      "level": "AA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#focus-visible"
+    },
+    {
+      "id": "location",
+      "number": "2.4.8",
+      "title_ar": "تحديد الموضع",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#location"
+    },
+    {
+      "id": "link-purpose-link-only",
+      "number": "2.4.9",
+      "title_ar": "الغرض من الرابط (الرابط فقط)",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#link-purpose-link-only"
+    },
+    {
+      "id": "section-headings",
+      "number": "2.4.10",
+      "title_ar": "عناوين الأقسام",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#section-headings"
+    },
+    {
+      "id": "focus-not-obscured-minimum",
+      "number": "2.4.11",
+      "title_ar": "عدم حجب التركيز (الحد الأدنى)",
+      "level": "AA",
+      "status": "new-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#focus-not-obscured-minimum"
+    },
+    {
+      "id": "focus-not-obscured-enhanced",
+      "number": "2.4.12",
+      "title_ar": "عدم حجب التركيز (محسن)",
+      "level": "AAA",
+      "status": "new-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#focus-not-obscured-enhanced"
+    },
+    {
+      "id": "focus-appearance",
+      "number": "2.4.13",
+      "title_ar": "مظهر التركيز",
+      "level": "AAA",
+      "status": "new-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#focus-appearance"
+    },
+    {
+      "id": "navigable",
+      "number": "2.4",
+      "title_ar": "القدرة على التصفح",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#navigable"
+    },
+    {
+      "id": "pointer-gestures",
+      "number": "2.5.1",
+      "title_ar": "إيماءات المؤشر",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#pointer-gestures"
+    },
+    {
+      "id": "pointer-cancellation",
+      "number": "2.5.2",
+      "title_ar": "إلغاء النقر",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#pointer-cancellation"
+    },
+    {
+      "id": "label-in-name",
+      "number": "2.5.3",
+      "title_ar": "التسمية في الاسم",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#label-in-name"
+    },
+    {
+      "id": "motion-actuation",
+      "number": "2.5.4",
+      "title_ar": "التشغيل الحركي",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#motion-actuation"
+    },
+    {
+      "id": "target-size-enhanced",
+      "number": "2.5.5",
+      "title_ar": "حجم هدف اللمس (محسن)",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#target-size-enhanced"
+    },
+    {
+      "id": "concurrent-input-mechanisms",
+      "number": "2.5.6",
+      "title_ar": "آليات الإدخال المتزامنة",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#concurrent-input-mechanisms"
+    },
+    {
+      "id": "dragging-movements",
+      "number": "2.5.7",
+      "title_ar": "حركات السحب",
+      "level": "AA",
+      "status": "new-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#dragging-movements"
+    },
+    {
+      "id": "target-size-minimum",
+      "number": "2.5.8",
+      "title_ar": "حجم هدف اللمس (الحد الأدنى)",
+      "level": "AA",
+      "status": "new-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#target-size-minimum"
+    },
+    {
+      "id": "input-modalities",
+      "number": "2.5",
+      "title_ar": "بدائل الإدخال",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#input-modalities"
+    },
+    {
+      "id": "operable",
+      "number": "2",
+      "title_ar": "عملي",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#operable"
+    },
+    {
+      "id": "language-of-page",
+      "number": "3.1.1",
+      "title_ar": "لغة الصفحة",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#language-of-page"
+    },
+    {
+      "id": "language-of-parts",
+      "number": "3.1.2",
+      "title_ar": "لغة الأجزاء",
+      "level": "AA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#language-of-parts"
+    },
+    {
+      "id": "unusual-words",
+      "number": "3.1.3",
+      "title_ar": "الكلمات النادرة",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#unusual-words"
+    },
+    {
+      "id": "abbreviations",
+      "number": "3.1.4",
+      "title_ar": "الاختصارات",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#abbreviations"
+    },
+    {
+      "id": "reading-level",
+      "number": "3.1.5",
+      "title_ar": "مستوى القراءة",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#reading-level"
+    },
+    {
+      "id": "pronunciation",
+      "number": "3.1.6",
+      "title_ar": "النطق",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#pronunciation"
+    },
+    {
+      "id": "readable",
+      "number": "3.1",
+      "title_ar": "قابل للقراءة",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#readable"
+    },
+    {
+      "id": "on-focus",
+      "number": "3.2.1",
+      "title_ar": "عند التركيز",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#on-focus"
+    },
+    {
+      "id": "on-input",
+      "number": "3.2.2",
+      "title_ar": "عند الإدخال",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#on-input"
+    },
+    {
+      "id": "consistent-navigation",
+      "number": "3.2.3",
+      "title_ar": "التصفح الثابت",
+      "level": "AA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#consistent-navigation"
+    },
+    {
+      "id": "consistent-identification",
+      "number": "3.2.4",
+      "title_ar": "التعريف الثابت",
+      "level": "AA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#consistent-identification"
+    },
+    {
+      "id": "change-on-request",
+      "number": "3.2.5",
+      "title_ar": "التغيير عند الطلب",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#change-on-request"
+    },
+    {
+      "id": "consistent-help",
+      "number": "3.2.6",
+      "title_ar": "مساعدة متسقة",
+      "level": "A",
+      "status": "new-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#consistent-help"
+    },
+    {
+      "id": "predictable",
+      "number": "3.2",
+      "title_ar": "قابل للتنبؤ",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#predictable"
+    },
+    {
+      "id": "error-identification",
+      "number": "3.3.1",
+      "title_ar": "اكتشاف الخطأ",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#error-identification"
+    },
+    {
+      "id": "labels-or-instructions",
+      "number": "3.3.2",
+      "title_ar": "التسميات والتعليمات",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#labels-or-instructions"
+    },
+    {
+      "id": "error-suggestion",
+      "number": "3.3.3",
+      "title_ar": "مقترحات إصلاح الخطأ",
+      "level": "AA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#error-suggestion"
+    },
+    {
+      "id": "error-prevention-legal-financial-data",
+      "number": "3.3.4",
+      "title_ar": "تفادي الأخطاء (القانونية، المالية، البيانية)",
+      "level": "AA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#error-prevention-legal-financial-data"
+    },
+    {
+      "id": "help",
+      "number": "3.3.5",
+      "title_ar": "المساعدة",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#help"
+    },
+    {
+      "id": "error-prevention-all",
+      "number": "3.3.6",
+      "title_ar": "تفادي الأخطاء (الكل)",
+      "level": "AAA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#error-prevention-all"
+    },
+    {
+      "id": "redundant-entry",
+      "number": "3.3.7",
+      "title_ar": "الإدخال المتكرر",
+      "level": "A",
+      "status": "new-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#redundant-entry"
+    },
+    {
+      "id": "accessible-authentication-minimum",
+      "number": "3.3.8",
+      "title_ar": "المصادقة القابلة للنفاذ (الحد الأدنى)",
+      "level": "AA",
+      "status": "new-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#accessible-authentication-minimum"
+    },
+    {
+      "id": "accessible-authentication-enhanced",
+      "number": "3.3.9",
+      "title_ar": "المصادقة القابلة للنفاذ (محسن)",
+      "level": "AAA",
+      "status": "new-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#accessible-authentication-enhanced"
+    },
+    {
+      "id": "input-assistance",
+      "number": "3.3",
+      "title_ar": "مساعدة في الإدخال",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#input-assistance"
+    },
+    {
+      "id": "understandable",
+      "number": "3",
+      "title_ar": "سهل الفهم",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#understandable"
+    },
+    {
+      "id": "parsing",
+      "number": "4.1.1",
+      "title_ar": "التحليل البنائي (متقادم ومحذوف)",
+      "level": null,
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#parsing"
+    },
+    {
+      "id": "name-role-value",
+      "number": "4.1.2",
+      "title_ar": "الاسم والدور والقيمة",
+      "level": "A",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#name-role-value"
+    },
+    {
+      "id": "status-messages",
+      "number": "4.1.3",
+      "title_ar": "رسائل الحالة",
+      "level": "AA",
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#status-messages"
+    },
+    {
+      "id": "compatible",
+      "number": "4.1",
+      "title_ar": "متوافق",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#compatible"
+    },
+    {
+      "id": "robust",
+      "number": "4",
+      "title_ar": "المتانة",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#robust"
+    },
+    {
+      "id": "interpreting-normative-requirements",
+      "number": "5.1",
+      "title_ar": "تفسير المتطلبات المعيارية",
+      "level": null,
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#interpreting-normative-requirements"
+    },
+    {
+      "id": "cc1",
+      "number": "5.2.1",
+      "title_ar": "مستوى التطابق",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#cc1"
+    },
+    {
+      "id": "cc2",
+      "number": "5.2.2",
+      "title_ar": "الصفحات كاملة",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#cc2"
+    },
+    {
+      "id": "cc3",
+      "number": "5.2.3",
+      "title_ar": "العمليات الكاملة",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#cc3"
+    },
+    {
+      "id": "cc4",
+      "number": "5.2.4",
+      "title_ar": "استخدام محدد لطرق التكنولوجيات المتوافقة مع إمكانية النفاذ المدعمة فقط",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#cc4"
+    },
+    {
+      "id": "cc5",
+      "number": "5.2.5",
+      "title_ar": "عدم العرقلة",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#cc5"
+    },
+    {
+      "id": "conformance-reqs",
+      "number": "5.2",
+      "title_ar": "متطلبات التطابق",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#conformance-reqs"
+    },
+    {
+      "id": "conformance-required",
+      "number": "5.3.1",
+      "title_ar": "المكونات المطلوبة في إعلان التوافق",
+      "level": null,
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#conformance-required"
+    },
+    {
+      "id": "conformance-optional",
+      "number": "5.3.2",
+      "title_ar": "العناصر الاختيارية لطلبات التطابق",
+      "level": null,
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#conformance-optional"
+    },
+    {
+      "id": "conformance-claims",
+      "number": "5.3",
+      "title_ar": "طلبات التطابق (اختياري)",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#conformance-claims"
+    },
+    {
+      "id": "conformance-partial",
+      "number": "5.4",
+      "title_ar": "بيان التطابق الجزئي - محتوى الطرف الثالث",
+      "level": null,
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#conformance-partial"
+    },
+    {
+      "id": "conformance-partial-lang",
+      "number": "5.5",
+      "title_ar": "بيان التطابق الجزئي - اللغة",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#conformance-partial-lang"
+    },
+    {
+      "id": "privacy-summary",
+      "number": "5.6",
+      "title_ar": "اعتبارات الخصوصية",
+      "level": null,
+      "status": "new-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#privacy-summary"
+    },
+    {
+      "id": "security-summary",
+      "number": "5.7",
+      "title_ar": "اعتبارات الأمن",
+      "level": null,
+      "status": "new-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#security-summary"
+    },
+    {
+      "id": "conformance",
+      "number": "5",
+      "title_ar": "التطابق",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#conformance"
+    },
+    {
+      "id": "glossary",
+      "number": "6",
+      "title_ar": "قاموس المصطلحات",
+      "level": null,
+      "status": "assembled-glossary",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#glossary"
+    },
+    {
+      "id": "input-purposes",
+      "number": "7",
+      "title_ar": "أغراض الإدخال لعناصر واجهة المستخدِم",
+      "level": null,
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#input-purposes"
+    },
+    {
+      "id": "changelog",
+      "number": "A",
+      "title_ar": "سجل التغييرات",
+      "level": null,
+      "status": "new-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#changelog"
+    },
+    {
+      "id": "ack_participants-active",
+      "number": "B.1",
+      "title_ar": "المشاركون من فريق عمل مبادئ النفاذ AG في تطوير هذه الوثيقة:",
+      "level": null,
+      "status": "source-names-and-bibliography",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#ack_participants-active"
+    },
+    {
+      "id": "ack_participants-previous",
+      "number": "B.2",
+      "title_ar": "مشاركون آخرون من فريق عمل مبادئ النفاذ إلى محتوى الويب ومساهمون آخرون في مبادئ النفاذ إلى محتوى الويب 2.0 و مبادئ النفاذ إلى محتوى الويب 2.1، أو الموارد الداعمة",
+      "level": null,
+      "status": "source-names-and-bibliography",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#ack_participants-previous"
+    },
+    {
+      "id": "enabling-funders",
+      "number": "B.3",
+      "title_ar": "تمكين الممولين",
+      "level": null,
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#enabling-funders"
+    },
+    {
+      "id": "acknowledgements",
+      "number": "B",
+      "title_ar": "الشكر والتقدير",
+      "level": null,
+      "status": "revised-draft",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#acknowledgements"
+    },
+    {
+      "id": "informative-references",
+      "number": "C.1",
+      "title_ar": "المراجع الإفادية",
+      "level": null,
+      "status": "source-names-and-bibliography",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#informative-references"
+    },
+    {
+      "id": "references",
+      "number": "C",
+      "title_ar": "المراجِع",
+      "level": null,
+      "status": "inherited-2.1",
+      "english_source": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#references"
+    }
+  ],
+  "terms": [
+    {
+      "id": "dfn-abbreviations",
+      "english": "abbreviation",
+      "arabic": "الاختصارات",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-abbreviations"
+    },
+    {
+      "id": "dfn-accessibility-supported",
+      "english": "accessibility supported",
+      "arabic": "مدعوم النفاذ",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-accessibility-supported"
+    },
+    {
+      "id": "dfn-alternative-for-time-based-media",
+      "english": "alternative for time-based media",
+      "arabic": "بديل للوسائط الزمنية",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-alternative-for-time-based-media"
+    },
+    {
+      "id": "dfn-ambiguous-to-users-in-general",
+      "english": "ambiguous to users in general",
+      "arabic": "مُبهم بالنسبة للمستخدمين",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-ambiguous-to-users-in-general"
+    },
+    {
+      "id": "dfn-ascii-art",
+      "english": "ASCII art",
+      "arabic": "فن أسكي (ASCII)",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-ascii-art"
+    },
+    {
+      "id": "dfn-assistive-technologies",
+      "english": "assistive technology",
+      "arabic": "التكنولوجيا المساعدة",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-assistive-technologies"
+    },
+    {
+      "id": "dfn-audio",
+      "english": "audio",
+      "arabic": "صوت",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-audio"
+    },
+    {
+      "id": "dfn-audio-descriptions",
+      "english": "audio description",
+      "arabic": "وصف صوتي",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-audio-descriptions"
+    },
+    {
+      "id": "dfn-audio-only",
+      "english": "audio-only",
+      "arabic": "الصوت فقط",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-audio-only"
+    },
+    {
+      "id": "dfn-blinking",
+      "english": "blinking",
+      "arabic": "ومض",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-blinking"
+    },
+    {
+      "id": "dfn-blocks-of-text",
+      "english": "blocks of text",
+      "arabic": "مقاطع من النص",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-blocks-of-text"
+    },
+    {
+      "id": "dfn-captcha",
+      "english": "CAPTCHA",
+      "arabic": "\"كبتشا\" CAPTCHA",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-captcha"
+    },
+    {
+      "id": "dfn-captions",
+      "english": "captions",
+      "arabic": "عنونة موازية",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-captions"
+    },
+    {
+      "id": "dfn-change-of-context",
+      "english": "changes of context",
+      "arabic": "تغيير السياق",
+      "status": "revised-draft",
+      "reference_id": "dfn-change-of-context"
+    },
+    {
+      "id": "dfn-cognitive-function-test",
+      "english": "cognitive function test",
+      "arabic": "اختبار الوظيفة الإدراكية",
+      "status": "new-draft",
+      "reference_id": null
+    },
+    {
+      "id": "dfn-conform",
+      "english": "conformance",
+      "arabic": "المطابقة",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-conform"
+    },
+    {
+      "id": "dfn-conforming-alternate-versions",
+      "english": "conforming alternate version",
+      "arabic": "تطابق النسخة البديلة",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-conforming-alternate-version"
+    },
+    {
+      "id": "dfn-content",
+      "english": "content",
+      "arabic": "المحتوى",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-content"
+    },
+    {
+      "id": "dfn-context-sensitive-help",
+      "english": "context-sensitive help",
+      "arabic": "مساعدة سياقية",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-context-sensitive-help"
+    },
+    {
+      "id": "dfn-contrast-ratio",
+      "english": "contrast ratio",
+      "arabic": "نسبة التباين",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-contrast-ratio"
+    },
+    {
+      "id": "dfn-correct-reading-sequence",
+      "english": "correct reading sequence",
+      "arabic": "قراءة ذات ترتيب صحيح",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-correct-reading-sequence"
+    },
+    {
+      "id": "dfn-css-pixels",
+      "english": "CSS pixel",
+      "arabic": "بكسل CSS",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-css-pixels"
+    },
+    {
+      "id": "dfn-down-event",
+      "english": "down-event",
+      "arabic": "حدث مضغوط (down-event)",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-down-event"
+    },
+    {
+      "id": "dfn-dragging-movements",
+      "english": "dragging movement",
+      "arabic": "حركة السحب",
+      "status": "new-draft",
+      "reference_id": null
+    },
+    {
+      "id": "dfn-emergency",
+      "english": "emergency",
+      "arabic": "ضرورة قصوى",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-emergency"
+    },
+    {
+      "id": "dfn-essential",
+      "english": "essential",
+      "arabic": "أساسي",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-essential"
+    },
+    {
+      "id": "dfn-extended-audio-description",
+      "english": "extended audio description",
+      "arabic": "وصف صوتي إضافي",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-extended-audio-description"
+    },
+    {
+      "id": "dfn-flashes",
+      "english": "flash",
+      "arabic": "ومضة",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-flashes"
+    },
+    {
+      "id": "dfn-focus-indicator",
+      "english": "focus indicator",
+      "arabic": "مؤشر التركيز",
+      "status": "new-draft",
+      "reference_id": null
+    },
+    {
+      "id": "dfn-functionality",
+      "english": "functionality",
+      "arabic": "التوظيف",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-functionality"
+    },
+    {
+      "id": "dfn-general-flash-and-red-flash-thresholds",
+      "english": "general flash and red flash thresholds",
+      "arabic": "القيمة المعيارية للومضة والومضة الحمراء",
+      "status": "revised-draft",
+      "reference_id": "dfn-general-flash-and-red-flash-thresholds"
+    },
+    {
+      "id": "dfn-human-language-s",
+      "english": "human language",
+      "arabic": "اللغة",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-human-language-s"
+    },
+    {
+      "id": "dfn-idioms",
+      "english": "idiom",
+      "arabic": "التعبير المجازي",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-idioms"
+    },
+    {
+      "id": "dfn-images-of-text",
+      "english": "image of text",
+      "arabic": "صورة النص",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-images-of-text"
+    },
+    {
+      "id": "dfn-informative",
+      "english": "informative",
+      "arabic": "إعلامي",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-informative"
+    },
+    {
+      "id": "dfn-input-error",
+      "english": "input error",
+      "arabic": "خطأ في الإدخال",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-input-error"
+    },
+    {
+      "id": "dfn-jargon",
+      "english": "jargon",
+      "arabic": "المصطلحات المتخصصة",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-jargon"
+    },
+    {
+      "id": "dfn-keyboard-interface",
+      "english": "keyboard interface",
+      "arabic": "واجهة لوحة المفاتيح",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-keyboard-interface"
+    },
+    {
+      "id": "dfn-keyboard-shortcuts",
+      "english": "keyboard shortcut",
+      "arabic": "اختصارات لوحة المفاتيح",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-keyboard-shortcuts"
+    },
+    {
+      "id": "dfn-labels",
+      "english": "label",
+      "arabic": "الوسم",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-labels"
+    },
+    {
+      "id": "dfn-large-scale",
+      "english": "large scale",
+      "arabic": "نص كبير الحجم",
+      "status": "revised-draft",
+      "reference_id": "dfn-large-scale"
+    },
+    {
+      "id": "dfn-legal-commitments",
+      "english": "legal commitments",
+      "arabic": "الالتزام القانوني",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-legal-commitments"
+    },
+    {
+      "id": "dfn-purpose-of-each-link",
+      "english": "link purpose",
+      "arabic": "غرض الرابط",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-purpose-of-each-link"
+    },
+    {
+      "id": "dfn-live",
+      "english": "live",
+      "arabic": "مباشرة",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-live"
+    },
+    {
+      "id": "dfn-lower-secondary-education-level",
+      "english": "lower secondary education level",
+      "arabic": "مستوى المرحلة الإعدادية",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-lower-secondary-education-level"
+    },
+    {
+      "id": "dfn-mechanism",
+      "english": "mechanism",
+      "arabic": "آلية",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-mechanism"
+    },
+    {
+      "id": "dfn-media-alternative-for-text",
+      "english": "media alternative for text",
+      "arabic": "الوسائط البديلة للنص",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-media-alternative-for-text"
+    },
+    {
+      "id": "dfn-motion-animation",
+      "english": "motion animation",
+      "arabic": "المضمون المتحرك",
+      "status": "revised-draft",
+      "reference_id": "dfn-motion-animation"
+    },
+    {
+      "id": "dfn-bounding-boxes",
+      "english": "minimum bounding box",
+      "arabic": "المستطيل المحيط الأدنى",
+      "status": "new-draft",
+      "reference_id": null
+    },
+    {
+      "id": "dfn-name",
+      "english": "name",
+      "arabic": "اسم",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-name"
+    },
+    {
+      "id": "dfn-navigated-sequentially",
+      "english": "navigated sequentially",
+      "arabic": "التصفح بتسلْسُل",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-navigated-sequentially"
+    },
+    {
+      "id": "dfn-non-text-content",
+      "english": "non-text content",
+      "arabic": "محتوى غير نصي",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-non-text-content"
+    },
+    {
+      "id": "dfn-normative",
+      "english": "normative",
+      "arabic": "المعيارية",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-normative"
+    },
+    {
+      "id": "dfn-on-a-full-screen-window",
+      "english": "on a full-screen window",
+      "arabic": "في وضع ملء الشاشة",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-on-a-full-screen-window"
+    },
+    {
+      "id": "dfn-pause",
+      "english": "paused",
+      "arabic": "إيقاف مؤقت",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-pause"
+    },
+    {
+      "id": "dfn-perimeter",
+      "english": "perimeter",
+      "arabic": "المحيط",
+      "status": "new-draft",
+      "reference_id": null
+    },
+    {
+      "id": "dfn-pointer-inputs",
+      "english": "pointer input",
+      "arabic": "إدخال المؤشر",
+      "status": "revised-draft",
+      "reference_id": "dfn-pointer-inputs"
+    },
+    {
+      "id": "dfn-prerecorded",
+      "english": "prerecorded",
+      "arabic": "مسجلة مسبقا",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-prerecorded"
+    },
+    {
+      "id": "dfn-presentation",
+      "english": "presentation",
+      "arabic": "العرض",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-presentation"
+    },
+    {
+      "id": "dfn-primary-education",
+      "english": "primary education level",
+      "arabic": "مستوى التعليم الابتدائي",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-primary-education"
+    },
+    {
+      "id": "dfn-processes",
+      "english": "process",
+      "arabic": "عملية",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-processes"
+    },
+    {
+      "id": "dfn-programmatically-determinable",
+      "english": "programmatically determined",
+      "arabic": "محدد برمجيا",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-programmatically-determinable"
+    },
+    {
+      "id": "dfn-programmatically-determined-link-context",
+      "english": "programmatically determined link context",
+      "arabic": "رابط السياق المحدد برمجيا",
+      "status": "revised-draft",
+      "reference_id": "dfn-programmatically-determined-link-context"
+    },
+    {
+      "id": "dfn-programmatically-set",
+      "english": "programmatically set",
+      "arabic": "مُعين برمجيا",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-programmatically-set"
+    },
+    {
+      "id": "dfn-pure-decoration",
+      "english": "pure decoration",
+      "arabic": "زخرفي محض",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-pure-decoration"
+    },
+    {
+      "id": "dfn-real-time-events",
+      "english": "real-time event",
+      "arabic": "حدث فوري",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-real-time-events"
+    },
+    {
+      "id": "dfn-regions",
+      "english": "region",
+      "arabic": "منطقة",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-regions"
+    },
+    {
+      "id": "dfn-relationships",
+      "english": "relationships",
+      "arabic": "العلاقات",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-relationships"
+    },
+    {
+      "id": "dfn-relative-luminance",
+      "english": "relative luminance",
+      "arabic": "السطوع النسبي",
+      "status": "revised-draft",
+      "reference_id": "dfn-relative-luminance"
+    },
+    {
+      "id": "dfn-relied-upon",
+      "english": "relied upon",
+      "arabic": "المعتمد عليها",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-relied-upon"
+    },
+    {
+      "id": "dfn-role",
+      "english": "role",
+      "arabic": "دور",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-role"
+    },
+    {
+      "id": "dfn-same-functionality",
+      "english": "same functionality",
+      "arabic": "نفس الوظيفة",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-same-functionality"
+    },
+    {
+      "id": "dfn-same-relative-order",
+      "english": "same relative order",
+      "arabic": "نفس الترتيب النسبي",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-same-relative-order"
+    },
+    {
+      "id": "dfn-satisfies",
+      "english": "satisfies a success criterion",
+      "arabic": "يستوفي معيار النجاح المطلوب",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-satisfies"
+    },
+    {
+      "id": "dfn-section",
+      "english": "section",
+      "arabic": "القسم",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-section"
+    },
+    {
+      "id": "dfn-set-of-web-pages",
+      "english": "set of web pages",
+      "arabic": "مجموعة من صفحات الويب",
+      "status": "revised-draft",
+      "reference_id": "dfn-set-of-web-pages"
+    },
+    {
+      "id": "dfn-sign-language",
+      "english": "sign language",
+      "arabic": "لغة الإشارة",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-sign-language"
+    },
+    {
+      "id": "dfn-sign-language-interpretation",
+      "english": "sign language interpretation",
+      "arabic": "الترجمة إلى لغة الإشارة",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-sign-language-interpretation"
+    },
+    {
+      "id": "dfn-single-pointer",
+      "english": "single pointer",
+      "arabic": "مؤشر واحد",
+      "status": "revised-draft",
+      "reference_id": "dfn-single-pointer"
+    },
+    {
+      "id": "dfn-specific-sensory-experience",
+      "english": "specific sensory experience",
+      "arabic": "تجربة حسية متخصصة",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-specific-sensory-experience"
+    },
+    {
+      "id": "dfn-states",
+      "english": "state",
+      "arabic": "الحالة",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-states"
+    },
+    {
+      "id": "dfn-status-messages",
+      "english": "status message",
+      "arabic": "رسالة الحالة",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-status-messages"
+    },
+    {
+      "id": "dfn-structure",
+      "english": "structure",
+      "arabic": "البُنية",
+      "status": "revised-draft",
+      "reference_id": "dfn-structure"
+    },
+    {
+      "id": "dfn-style-properties",
+      "english": "style property",
+      "arabic": "خاصية النمط",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-style-properties"
+    },
+    {
+      "id": "dfn-supplementary-content",
+      "english": "supplemental content",
+      "arabic": "محتوى إضافي",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-supplementary-content"
+    },
+    {
+      "id": "dfn-synchronized-media",
+      "english": "synchronized media",
+      "arabic": "وسيط متزامن",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-synchronized-media"
+    },
+    {
+      "id": "dfn-targets",
+      "english": "target",
+      "arabic": "هدف",
+      "status": "revised-draft",
+      "reference_id": "dfn-target"
+    },
+    {
+      "id": "dfn-technologies",
+      "english": "technology",
+      "arabic": "تكنولوجيا",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-technologies"
+    },
+    {
+      "id": "dfn-text",
+      "english": "text",
+      "arabic": "نص",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-text"
+    },
+    {
+      "id": "dfn-text-alternative",
+      "english": "text alternative",
+      "arabic": "بدائل النص",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-text-alternative"
+    },
+    {
+      "id": "dfn-up-event",
+      "english": "up-event",
+      "arabic": "متابعة الحدث up-event",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-up-event"
+    },
+    {
+      "id": "dfn-used-in-an-unusual-or-restricted-way",
+      "english": "used in an unusual or restricted way",
+      "arabic": "مستخدم بطريقة غير مألوفة أو بشكل محدود",
+      "status": "revised-draft",
+      "reference_id": "dfn-used-in-an-unusual-or-restricted-way"
+    },
+    {
+      "id": "dfn-user-agents",
+      "english": "user agent",
+      "arabic": "وكيل المستخدم",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-user-agents"
+    },
+    {
+      "id": "dfn-user-controllable",
+      "english": "user-controllable",
+      "arabic": "إمكانية التحكم من قبل المستخدم",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-user-controllable"
+    },
+    {
+      "id": "dfn-user-interface-components",
+      "english": "user interface component",
+      "arabic": "مكونات واجهة المستخدم",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-user-interface-components"
+    },
+    {
+      "id": "dfn-user-inactivity",
+      "english": "user inactivity",
+      "arabic": "عدم نشاط المستخدِم",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-user-inactivity"
+    },
+    {
+      "id": "dfn-video",
+      "english": "video",
+      "arabic": "فيديو",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-video"
+    },
+    {
+      "id": "dfn-video-only",
+      "english": "video-only",
+      "arabic": "فيديو فقط",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-video-only"
+    },
+    {
+      "id": "dfn-viewport",
+      "english": "viewport",
+      "arabic": "منفذ العرض",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-viewport"
+    },
+    {
+      "id": "dfn-visually-customized",
+      "english": "visually customized",
+      "arabic": "التخصيص البصري",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-visually-customized"
+    },
+    {
+      "id": "dfn-web-page-s",
+      "english": "web page",
+      "arabic": "صفحة الويب",
+      "status": "inherited-2.1",
+      "reference_id": "dfn-web-page-s"
+    }
+  ]
+}

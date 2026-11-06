@@ -1,0 +1,588 @@
+{
+  "passed": true,
+  "checks_run": 100,
+  "checks": [
+    {
+      "check": "320: source and Arabic body line height are 1.5",
+      "passed": true
+    },
+    {
+      "check": "320: source and Arabic content columns are 50em",
+      "passed": true
+    },
+    {
+      "check": "320: paragraph spacing inherits the source 1em rhythm",
+      "passed": true
+    },
+    {
+      "check": "320: section-heading top margin stays 3rem",
+      "passed": true
+    },
+    {
+      "check": "320: Arabic heading leading is 1.3",
+      "passed": true
+    },
+    {
+      "check": "320: notes retain the source half-em padding",
+      "passed": true
+    },
+    {
+      "check": "320: exception labels retain the source normal flow",
+      "passed": true
+    },
+    {
+      "check": "320: W3C logo float is mirrored",
+      "passed": true
+    },
+    {
+      "check": "320: hidden separators do not have a negative left offset",
+      "passed": true
+    },
+    {
+      "check": "320: heading and permalink offsets are inactive",
+      "passed": true
+    },
+    {
+      "check": "320: contents numbers have no float or negative margins",
+      "passed": true
+    },
+    {
+      "check": "320: blue strip is fixed to the right with source dimensions",
+      "passed": true
+    },
+    {
+      "check": "320: strip clips only its own rotated label",
+      "passed": true
+    },
+    {
+      "check": "320: inline layout reserves the right ribbon gutter",
+      "passed": true
+    },
+    {
+      "check": "390: source and Arabic body line height are 1.5",
+      "passed": true
+    },
+    {
+      "check": "390: source and Arabic content columns are 50em",
+      "passed": true
+    },
+    {
+      "check": "390: paragraph spacing inherits the source 1em rhythm",
+      "passed": true
+    },
+    {
+      "check": "390: section-heading top margin stays 3rem",
+      "passed": true
+    },
+    {
+      "check": "390: Arabic heading leading is 1.3",
+      "passed": true
+    },
+    {
+      "check": "390: notes retain the source half-em padding",
+      "passed": true
+    },
+    {
+      "check": "390: exception labels retain the source normal flow",
+      "passed": true
+    },
+    {
+      "check": "390: W3C logo float is mirrored",
+      "passed": true
+    },
+    {
+      "check": "390: hidden separators do not have a negative left offset",
+      "passed": true
+    },
+    {
+      "check": "390: heading and permalink offsets are inactive",
+      "passed": true
+    },
+    {
+      "check": "390: contents numbers have no float or negative margins",
+      "passed": true
+    },
+    {
+      "check": "390: blue strip is fixed to the right with source dimensions",
+      "passed": true
+    },
+    {
+      "check": "390: strip clips only its own rotated label",
+      "passed": true
+    },
+    {
+      "check": "390: inline layout reserves the right ribbon gutter",
+      "passed": true
+    },
+    {
+      "check": "768: source and Arabic body line height are 1.5",
+      "passed": true
+    },
+    {
+      "check": "768: source and Arabic content columns are 50em",
+      "passed": true
+    },
+    {
+      "check": "768: paragraph spacing inherits the source 1em rhythm",
+      "passed": true
+    },
+    {
+      "check": "768: section-heading top margin stays 3rem",
+      "passed": true
+    },
+    {
+      "check": "768: Arabic heading leading is 1.3",
+      "passed": true
+    },
+    {
+      "check": "768: notes retain the source half-em padding",
+      "passed": true
+    },
+    {
+      "check": "768: exception labels retain the source normal flow",
+      "passed": true
+    },
+    {
+      "check": "768: W3C logo float is mirrored",
+      "passed": true
+    },
+    {
+      "check": "768: hidden separators do not have a negative left offset",
+      "passed": true
+    },
+    {
+      "check": "768: heading and permalink offsets are inactive",
+      "passed": true
+    },
+    {
+      "check": "768: contents numbers have no float or negative margins",
+      "passed": true
+    },
+    {
+      "check": "768: blue strip is fixed to the right with source dimensions",
+      "passed": true
+    },
+    {
+      "check": "768: strip clips only its own rotated label",
+      "passed": true
+    },
+    {
+      "check": "768: inline layout reserves the right ribbon gutter",
+      "passed": true
+    },
+    {
+      "check": "1159: source and Arabic body line height are 1.5",
+      "passed": true
+    },
+    {
+      "check": "1159: source and Arabic content columns are 50em",
+      "passed": true
+    },
+    {
+      "check": "1159: paragraph spacing inherits the source 1em rhythm",
+      "passed": true
+    },
+    {
+      "check": "1159: section-heading top margin stays 3rem",
+      "passed": true
+    },
+    {
+      "check": "1159: Arabic heading leading is 1.3",
+      "passed": true
+    },
+    {
+      "check": "1159: notes retain the source half-em padding",
+      "passed": true
+    },
+    {
+      "check": "1159: exception labels retain the source normal flow",
+      "passed": true
+    },
+    {
+      "check": "1159: W3C logo float is mirrored",
+      "passed": true
+    },
+    {
+      "check": "1159: hidden separators do not have a negative left offset",
+      "passed": true
+    },
+    {
+      "check": "1159: heading and permalink offsets are inactive",
+      "passed": true
+    },
+    {
+      "check": "1159: contents numbers have no float or negative margins",
+      "passed": true
+    },
+    {
+      "check": "1159: blue strip is fixed to the right with source dimensions",
+      "passed": true
+    },
+    {
+      "check": "1159: strip clips only its own rotated label",
+      "passed": true
+    },
+    {
+      "check": "1159: inline layout reserves the right ribbon gutter",
+      "passed": true
+    },
+    {
+      "check": "1248: source and Arabic body line height are 1.5",
+      "passed": true
+    },
+    {
+      "check": "1248: source and Arabic content columns are 50em",
+      "passed": true
+    },
+    {
+      "check": "1248: paragraph spacing inherits the source 1em rhythm",
+      "passed": true
+    },
+    {
+      "check": "1248: section-heading top margin stays 3rem",
+      "passed": true
+    },
+    {
+      "check": "1248: Arabic heading leading is 1.3",
+      "passed": true
+    },
+    {
+      "check": "1248: notes retain the source half-em padding",
+      "passed": true
+    },
+    {
+      "check": "1248: exception labels retain the source normal flow",
+      "passed": true
+    },
+    {
+      "check": "1248: W3C logo float is mirrored",
+      "passed": true
+    },
+    {
+      "check": "1248: hidden separators do not have a negative left offset",
+      "passed": true
+    },
+    {
+      "check": "1248: heading and permalink offsets are inactive",
+      "passed": true
+    },
+    {
+      "check": "1248: contents numbers have no float or negative margins",
+      "passed": true
+    },
+    {
+      "check": "1248: blue strip is fixed to the right with source dimensions",
+      "passed": true
+    },
+    {
+      "check": "1248: strip clips only its own rotated label",
+      "passed": true
+    },
+    {
+      "check": "1248: right sidebar and body reserve the source spacing",
+      "passed": true
+    },
+    {
+      "check": "1440: source and Arabic body line height are 1.5",
+      "passed": true
+    },
+    {
+      "check": "1440: source and Arabic content columns are 50em",
+      "passed": true
+    },
+    {
+      "check": "1440: paragraph spacing inherits the source 1em rhythm",
+      "passed": true
+    },
+    {
+      "check": "1440: section-heading top margin stays 3rem",
+      "passed": true
+    },
+    {
+      "check": "1440: Arabic heading leading is 1.3",
+      "passed": true
+    },
+    {
+      "check": "1440: notes retain the source half-em padding",
+      "passed": true
+    },
+    {
+      "check": "1440: exception labels retain the source normal flow",
+      "passed": true
+    },
+    {
+      "check": "1440: W3C logo float is mirrored",
+      "passed": true
+    },
+    {
+      "check": "1440: hidden separators do not have a negative left offset",
+      "passed": true
+    },
+    {
+      "check": "1440: heading and permalink offsets are inactive",
+      "passed": true
+    },
+    {
+      "check": "1440: contents numbers have no float or negative margins",
+      "passed": true
+    },
+    {
+      "check": "1440: blue strip is fixed to the right with source dimensions",
+      "passed": true
+    },
+    {
+      "check": "1440: strip clips only its own rotated label",
+      "passed": true
+    },
+    {
+      "check": "1440: right sidebar and body reserve the source spacing",
+      "passed": true
+    },
+    {
+      "check": "1920: source and Arabic body line height are 1.5",
+      "passed": true
+    },
+    {
+      "check": "1920: source and Arabic content columns are 50em",
+      "passed": true
+    },
+    {
+      "check": "1920: paragraph spacing inherits the source 1em rhythm",
+      "passed": true
+    },
+    {
+      "check": "1920: section-heading top margin stays 3rem",
+      "passed": true
+    },
+    {
+      "check": "1920: Arabic heading leading is 1.3",
+      "passed": true
+    },
+    {
+      "check": "1920: notes retain the source half-em padding",
+      "passed": true
+    },
+    {
+      "check": "1920: exception labels retain the source normal flow",
+      "passed": true
+    },
+    {
+      "check": "1920: W3C logo float is mirrored",
+      "passed": true
+    },
+    {
+      "check": "1920: hidden separators do not have a negative left offset",
+      "passed": true
+    },
+    {
+      "check": "1920: heading and permalink offsets are inactive",
+      "passed": true
+    },
+    {
+      "check": "1920: contents numbers have no float or negative margins",
+      "passed": true
+    },
+    {
+      "check": "1920: blue strip is fixed to the right with source dimensions",
+      "passed": true
+    },
+    {
+      "check": "1920: strip clips only its own rotated label",
+      "passed": true
+    },
+    {
+      "check": "1920: right sidebar and body reserve the source spacing",
+      "passed": true
+    },
+    {
+      "check": "Print: decorative strip is hidden",
+      "passed": true
+    },
+    {
+      "check": "Print: body padding is zero",
+      "passed": true
+    }
+  ],
+  "scenarios": [
+    {
+      "viewport_width": 320,
+      "arabic_body": {
+        "max-width": {
+          "value": "50em",
+          "selector": "body.translation-document "
+        },
+        "padding": {
+          "value": "1em calc(26px + 1em) 0 1em",
+          "selector": "body.translation-document "
+        },
+        "line-height": {
+          "value": "1.5",
+          "selector": "body.translation-document "
+        },
+        "box-sizing": {
+          "value": "content-box",
+          "selector": "body.translation-document "
+        }
+      },
+      "selector_errors": []
+    },
+    {
+      "viewport_width": 390,
+      "arabic_body": {
+        "max-width": {
+          "value": "50em",
+          "selector": "body.translation-document "
+        },
+        "padding": {
+          "value": "1em calc(26px + 1em) 0 1em",
+          "selector": "body.translation-document "
+        },
+        "line-height": {
+          "value": "1.5",
+          "selector": "body.translation-document "
+        },
+        "box-sizing": {
+          "value": "content-box",
+          "selector": "body.translation-document "
+        }
+      },
+      "selector_errors": []
+    },
+    {
+      "viewport_width": 768,
+      "arabic_body": {
+        "max-width": {
+          "value": "50em",
+          "selector": "body.translation-document "
+        },
+        "padding": {
+          "value": "1.6em calc(26px + 1.5em) 0 1.5em",
+          "selector": "body.translation-document "
+        },
+        "line-height": {
+          "value": "1.5",
+          "selector": "body.translation-document "
+        },
+        "box-sizing": {
+          "value": "content-box",
+          "selector": "body.translation-document "
+        }
+      },
+      "selector_errors": []
+    },
+    {
+      "viewport_width": 1159,
+      "arabic_body": {
+        "max-width": {
+          "value": "50em",
+          "selector": "body.translation-document "
+        },
+        "padding": {
+          "value": "1.6em calc(26px + 1.5em) 0 1.5em",
+          "selector": "body.translation-document "
+        },
+        "line-height": {
+          "value": "1.5",
+          "selector": "body.translation-document "
+        },
+        "box-sizing": {
+          "value": "content-box",
+          "selector": "body.translation-document "
+        }
+      },
+      "selector_errors": []
+    },
+    {
+      "viewport_width": 1248,
+      "arabic_body": {
+        "max-width": {
+          "value": "50em",
+          "selector": "body.translation-document:not(.toc-inline):has(#toc) "
+        },
+        "padding": {
+          "value": "1.6em calc(26px + 1.5em) 0 1.5em",
+          "selector": "body.translation-document "
+        },
+        "line-height": {
+          "value": "1.5",
+          "selector": "body.translation-document "
+        },
+        "box-sizing": {
+          "value": "content-box",
+          "selector": "body.translation-document "
+        },
+        "padding-left": {
+          "value": "1.5em",
+          "selector": "body.translation-document:not(.toc-inline):has(#toc) "
+        },
+        "padding-right": {
+          "value": "29em",
+          "selector": "body.translation-document:not(.toc-inline):has(#toc) "
+        }
+      },
+      "selector_errors": []
+    },
+    {
+      "viewport_width": 1440,
+      "arabic_body": {
+        "max-width": {
+          "value": "50em",
+          "selector": "body.translation-document:not(.toc-inline):has(#toc) "
+        },
+        "padding": {
+          "value": "1.6em calc(26px + 1.5em) 0 1.5em",
+          "selector": "body.translation-document "
+        },
+        "line-height": {
+          "value": "1.5",
+          "selector": "body.translation-document "
+        },
+        "box-sizing": {
+          "value": "content-box",
+          "selector": "body.translation-document "
+        },
+        "padding-left": {
+          "value": "1.5em",
+          "selector": "body.translation-document:not(.toc-inline):has(#toc) "
+        },
+        "padding-right": {
+          "value": "29em",
+          "selector": "body.translation-document:not(.toc-inline):has(#toc) "
+        }
+      },
+      "selector_errors": []
+    },
+    {
+      "viewport_width": 1920,
+      "arabic_body": {
+        "max-width": {
+          "value": "50em",
+          "selector": "body.translation-document:not(.toc-inline):has(#toc) "
+        },
+        "padding": {
+          "value": "1.6em calc(26px + 1.5em) 0 1.5em",
+          "selector": "body.translation-document "
+        },
+        "line-height": {
+          "value": "1.5",
+          "selector": "body.translation-document "
+        },
+        "box-sizing": {
+          "value": "content-box",
+          "selector": "body.translation-document "
+        },
+        "padding-left": {
+          "value": "1.5em",
+          "selector": "body.translation-document:not(.toc-inline):has(#toc) "
+        },
+        "padding-right": {
+          "value": "29em",
+          "selector": "body.translation-document:not(.toc-inline):has(#toc) "
+        }
+      },
+      "selector_errors": []
+    }
+  ],
+  "method": "Static selector/cascade inspection using 16px initial em/rem, default light mode, and the modern positive @supports branch. Not browser-computed styles.",
+  "visual_review": "Unavailable: local browser use is disabled in Work settings. No browser layout, overflow measurement, font shaping, or screenshot verification was performed."
+}

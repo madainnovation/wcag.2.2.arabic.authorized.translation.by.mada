@@ -1,0 +1,56 @@
+{
+  "retrieved_on": "2026-11-06",
+  "pinned_english_target": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/",
+  "files": [
+    {
+      "path": "wcag21-ar.html",
+      "url": "https://www.w3.org/Translations/WCAG21-ar/",
+      "sha256": "e06a586795bb238d3acab20c31995964fdf9a4ddb41ea05e2a6f6c47406dbc3f"
+    },
+    {
+      "path": "wcag21-en.html",
+      "url": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
+      "sha256": "a8793e95937866bacd03d9b421e4e889bc7811b84d0ddec6ed8c790f8e7f67dd"
+    },
+    {
+      "path": "wcag22-en.html",
+      "url": "https://www.w3.org/TR/WCAG22/",
+      "sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057"
+    },
+    {
+      "path": "template-assets/guidelines.css",
+      "url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/guidelines.css",
+      "sha256": "1e0ce0dff51c45cbef40a0364ffaec82136bdef899e74dfdd26cc04a85525388"
+    },
+    {
+      "path": "template-assets/w3c-rec.css",
+      "url": "https://www.w3.org/StyleSheets/TR/2021/W3C-REC",
+      "sha256": "24e0439f60e3beba02c415f00d8affe685fcf7fc4e23f5907de2a88a655f7460"
+    },
+    {
+      "path": "template-assets/base.css",
+      "url": "https://www.w3.org/StyleSheets/TR/2021/base.css",
+      "sha256": "086a5fd36e4d543c0584f96fb935991511fac04a264422b661cc2c1311a30164"
+    },
+    {
+      "path": "template-assets/logos/REC.svg",
+      "url": "https://www.w3.org/StyleSheets/TR/2021/logos/REC.svg",
+      "sha256": "38109d31b46a54d660d233b7593bace602a2c55ca4eb76af9310b1759d9a8266"
+    },
+    {
+      "path": "template-assets/logos/UD-watermark-light-draft.svg",
+      "url": "https://www.w3.org/StyleSheets/TR/2021/logos/UD-watermark-light-draft.svg",
+      "sha256": "e958669ca377cd910fd14eac377c6932c71604e36754437a7ca575b51693bd9e"
+    },
+    {
+      "path": "template-assets/logos/W3C.svg",
+      "url": "https://www.w3.org/StyleSheets/TR/2021/logos/W3C",
+      "sha256": "a96241190c29d5014a2ffcb26c0a75060e20dc85b921776f813d3d5a3adcf64e"
+    },
+    {
+      "path": "template-assets/logos/UD-watermark-light-unofficial.svg",
+      "url": "https://www.w3.org/StyleSheets/TR/2021/logos/UD-watermark-light-unofficial.svg",
+      "sha256": "ecbd9f965d7de50946fc40e507d9272a3893b75760416ae859765177d811bf16"
+    }
+  ]
+}
