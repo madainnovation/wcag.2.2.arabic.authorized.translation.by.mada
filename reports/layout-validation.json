@@ -1,6 +1,6 @@
 {
   "passed": true,
-  "checks_run": 100,
+  "checks_run": 151,
   "checks": [
     {
       "check": "320: source and Arabic body line height are 1.5",
@@ -8,6 +8,34 @@
     },
     {
       "check": "320: source and Arabic content columns are 50em",
+      "passed": true
+    },
+    {
+      "check": "320: RTL scroll region fills the viewport without clipping content",
+      "passed": true
+    },
+    {
+      "check": "320: outer page leaves scrolling to the document region",
+      "passed": true
+    },
+    {
+      "check": "320: body and help links use the reader-scalable 1rem size",
+      "passed": true
+    },
+    {
+      "check": "320: every contents level has a 1rem text size",
+      "passed": true
+    },
+    {
+      "check": "320: copyright and small text have a 1rem text size",
+      "passed": true
+    },
+    {
+      "check": "320: technical identifiers inherit the surrounding text size",
+      "passed": true
+    },
+    {
+      "check": "320: help boxes include padding within their width and wrap on narrow screens",
       "passed": true
     },
     {
@@ -67,6 +95,34 @@
       "passed": true
     },
     {
+      "check": "390: RTL scroll region fills the viewport without clipping content",
+      "passed": true
+    },
+    {
+      "check": "390: outer page leaves scrolling to the document region",
+      "passed": true
+    },
+    {
+      "check": "390: body and help links use the reader-scalable 1rem size",
+      "passed": true
+    },
+    {
+      "check": "390: every contents level has a 1rem text size",
+      "passed": true
+    },
+    {
+      "check": "390: copyright and small text have a 1rem text size",
+      "passed": true
+    },
+    {
+      "check": "390: technical identifiers inherit the surrounding text size",
+      "passed": true
+    },
+    {
+      "check": "390: help boxes include padding within their width and wrap on narrow screens",
+      "passed": true
+    },
+    {
       "check": "390: paragraph spacing inherits the source 1em rhythm",
       "passed": true
     },
@@ -120,6 +176,34 @@
     },
     {
       "check": "768: source and Arabic content columns are 50em",
+      "passed": true
+    },
+    {
+      "check": "768: RTL scroll region fills the viewport without clipping content",
+      "passed": true
+    },
+    {
+      "check": "768: outer page leaves scrolling to the document region",
+      "passed": true
+    },
+    {
+      "check": "768: body and help links use the reader-scalable 1rem size",
+      "passed": true
+    },
+    {
+      "check": "768: every contents level has a 1rem text size",
+      "passed": true
+    },
+    {
+      "check": "768: copyright and small text have a 1rem text size",
+      "passed": true
+    },
+    {
+      "check": "768: technical identifiers inherit the surrounding text size",
+      "passed": true
+    },
+    {
+      "check": "768: help boxes include padding within their width and wrap on narrow screens",
       "passed": true
     },
     {
@@ -179,6 +263,34 @@
       "passed": true
     },
     {
+      "check": "1159: RTL scroll region fills the viewport without clipping content",
+      "passed": true
+    },
+    {
+      "check": "1159: outer page leaves scrolling to the document region",
+      "passed": true
+    },
+    {
+      "check": "1159: body and help links use the reader-scalable 1rem size",
+      "passed": true
+    },
+    {
+      "check": "1159: every contents level has a 1rem text size",
+      "passed": true
+    },
+    {
+      "check": "1159: copyright and small text have a 1rem text size",
+      "passed": true
+    },
+    {
+      "check": "1159: technical identifiers inherit the surrounding text size",
+      "passed": true
+    },
+    {
+      "check": "1159: help boxes include padding within their width and wrap on narrow screens",
+      "passed": true
+    },
+    {
       "check": "1159: paragraph spacing inherits the source 1em rhythm",
       "passed": true
     },
@@ -235,6 +347,34 @@
       "passed": true
     },
     {
+      "check": "1248: RTL scroll region fills the viewport without clipping content",
+      "passed": true
+    },
+    {
+      "check": "1248: outer page leaves scrolling to the document region",
+      "passed": true
+    },
+    {
+      "check": "1248: body and help links use the reader-scalable 1rem size",
+      "passed": true
+    },
+    {
+      "check": "1248: every contents level has a 1rem text size",
+      "passed": true
+    },
+    {
+      "check": "1248: copyright and small text have a 1rem text size",
+      "passed": true
+    },
+    {
+      "check": "1248: technical identifiers inherit the surrounding text size",
+      "passed": true
+    },
+    {
+      "check": "1248: help boxes include padding within their width and wrap on narrow screens",
+      "passed": true
+    },
+    {
       "check": "1248: paragraph spacing inherits the source 1em rhythm",
       "passed": true
     },
@@ -279,7 +419,7 @@
       "passed": true
     },
     {
-      "check": "1248: right sidebar and body reserve the source spacing",
+      "check": "1248: right sidebar and content column reserve the source spacing",
       "passed": true
     },
     {
@@ -288,6 +428,34 @@
     },
     {
       "check": "1440: source and Arabic content columns are 50em",
+      "passed": true
+    },
+    {
+      "check": "1440: RTL scroll region fills the viewport without clipping content",
+      "passed": true
+    },
+    {
+      "check": "1440: outer page leaves scrolling to the document region",
+      "passed": true
+    },
+    {
+      "check": "1440: body and help links use the reader-scalable 1rem size",
+      "passed": true
+    },
+    {
+      "check": "1440: every contents level has a 1rem text size",
+      "passed": true
+    },
+    {
+      "check": "1440: copyright and small text have a 1rem text size",
+      "passed": true
+    },
+    {
+      "check": "1440: technical identifiers inherit the surrounding text size",
+      "passed": true
+    },
+    {
+      "check": "1440: help boxes include padding within their width and wrap on narrow screens",
       "passed": true
     },
     {
@@ -335,7 +503,7 @@
       "passed": true
     },
     {
-      "check": "1440: right sidebar and body reserve the source spacing",
+      "check": "1440: right sidebar and content column reserve the source spacing",
       "passed": true
     },
     {
@@ -344,6 +512,34 @@
     },
     {
       "check": "1920: source and Arabic content columns are 50em",
+      "passed": true
+    },
+    {
+      "check": "1920: RTL scroll region fills the viewport without clipping content",
+      "passed": true
+    },
+    {
+      "check": "1920: outer page leaves scrolling to the document region",
+      "passed": true
+    },
+    {
+      "check": "1920: body and help links use the reader-scalable 1rem size",
+      "passed": true
+    },
+    {
+      "check": "1920: every contents level has a 1rem text size",
+      "passed": true
+    },
+    {
+      "check": "1920: copyright and small text have a 1rem text size",
+      "passed": true
+    },
+    {
+      "check": "1920: technical identifiers inherit the surrounding text size",
+      "passed": true
+    },
+    {
+      "check": "1920: help boxes include padding within their width and wrap on narrow screens",
       "passed": true
     },
     {
@@ -391,7 +587,7 @@
       "passed": true
     },
     {
-      "check": "1920: right sidebar and body reserve the source spacing",
+      "check": "1920: right sidebar and content column reserve the source spacing",
       "passed": true
     },
     {
@@ -401,6 +597,14 @@
     {
       "check": "Print: body padding is zero",
       "passed": true
+    },
+    {
+      "check": "Print: content padding is zero",
+      "passed": true
+    },
+    {
+      "check": "Print: all document containers allow the full document to print",
+      "passed": true
     }
   ],
   "scenarios": [
@@ -408,20 +612,112 @@
       "viewport_width": 320,
       "arabic_body": {
         "max-width": {
-          "value": "50em",
-          "selector": "body.translation-document "
+          "value": "none",
+          "selector": "body#wcag22-ar.translation-document "
         },
         "padding": {
-          "value": "1em calc(26px + 1em) 0 1em",
-          "selector": "body.translation-document "
+          "value": "0",
+          "selector": "body#wcag22-ar.translation-document "
+        },
+        "padding-right": {
+          "value": "0",
+          "selector": "body#wcag22-ar.translation-document "
+        },
+        "padding-left": {
+          "value": "0",
+          "selector": "body#wcag22-ar.translation-document "
         },
         "line-height": {
           "value": "1.5",
-          "selector": "body.translation-document "
+          "selector": "body#wcag22-ar.translation-document "
+        },
+        "box-sizing": {
+          "value": "border-box",
+          "selector": "body#wcag22-ar.translation-document "
+        }
+      },
+      "arabic_content": {
+        "min-inline-size": {
+          "value": "0",
+          "selector": ".translation-document :is(section,div,nav,details,dl,dt,dd,li,h1,h2,h3,h4,h5,h6) "
         },
         "box-sizing": {
           "value": "content-box",
-          "selector": "body.translation-document "
+          "selector": "#document-content "
+        },
+        "max-width": {
+          "value": "50em",
+          "selector": "#document-content "
+        },
+        "margin": {
+          "value": "0 auto",
+          "selector": "#document-content "
+        },
+        "margin-top": {
+          "value": "0",
+          "selector": "#document-content "
+        },
+        "margin-right": {
+          "value": "auto",
+          "selector": "#document-content "
+        },
+        "margin-bottom": {
+          "value": "0",
+          "selector": "#document-content "
+        },
+        "margin-left": {
+          "value": "auto",
+          "selector": "#document-content "
+        },
+        "padding": {
+          "value": "1em calc(26px + 1em) 4em 1em",
+          "selector": "#document-content "
+        },
+        "padding-top": {
+          "value": "1em",
+          "selector": "#document-content "
+        },
+        "padding-right": {
+          "value": "calc(26px + 1em)",
+          "selector": "#document-content "
+        },
+        "padding-bottom": {
+          "value": "4em",
+          "selector": "#document-content "
+        },
+        "padding-left": {
+          "value": "1em",
+          "selector": "#document-content "
+        }
+      },
+      "arabic_scroll_region": {
+        "min-inline-size": {
+          "value": "0",
+          "selector": ".translation-document :is(section,div,nav,details,dl,dt,dd,li,h1,h2,h3,h4,h5,h6) "
+        },
+        "width": {
+          "value": "100%",
+          "selector": "#document-scroll "
+        },
+        "height": {
+          "value": "100%",
+          "selector": "#document-scroll "
+        },
+        "overflow": {
+          "value": "auto",
+          "selector": "#document-scroll "
+        },
+        "overflow-x": {
+          "value": "auto",
+          "selector": "#document-scroll "
+        },
+        "overflow-y": {
+          "value": "auto",
+          "selector": "#document-scroll "
+        },
+        "direction": {
+          "value": "rtl",
+          "selector": "#document-scroll "
         }
       },
       "selector_errors": []
@@ -430,20 +726,112 @@
       "viewport_width": 390,
       "arabic_body": {
         "max-width": {
-          "value": "50em",
-          "selector": "body.translation-document "
+          "value": "none",
+          "selector": "body#wcag22-ar.translation-document "
         },
         "padding": {
-          "value": "1em calc(26px + 1em) 0 1em",
-          "selector": "body.translation-document "
+          "value": "0",
+          "selector": "body#wcag22-ar.translation-document "
+        },
+        "padding-right": {
+          "value": "0",
+          "selector": "body#wcag22-ar.translation-document "
+        },
+        "padding-left": {
+          "value": "0",
+          "selector": "body#wcag22-ar.translation-document "
         },
         "line-height": {
           "value": "1.5",
-          "selector": "body.translation-document "
+          "selector": "body#wcag22-ar.translation-document "
+        },
+        "box-sizing": {
+          "value": "border-box",
+          "selector": "body#wcag22-ar.translation-document "
+        }
+      },
+      "arabic_content": {
+        "min-inline-size": {
+          "value": "0",
+          "selector": ".translation-document :is(section,div,nav,details,dl,dt,dd,li,h1,h2,h3,h4,h5,h6) "
         },
         "box-sizing": {
           "value": "content-box",
-          "selector": "body.translation-document "
+          "selector": "#document-content "
+        },
+        "max-width": {
+          "value": "50em",
+          "selector": "#document-content "
+        },
+        "margin": {
+          "value": "0 auto",
+          "selector": "#document-content "
+        },
+        "margin-top": {
+          "value": "0",
+          "selector": "#document-content "
+        },
+        "margin-right": {
+          "value": "auto",
+          "selector": "#document-content "
+        },
+        "margin-bottom": {
+          "value": "0",
+          "selector": "#document-content "
+        },
+        "margin-left": {
+          "value": "auto",
+          "selector": "#document-content "
+        },
+        "padding": {
+          "value": "1em calc(26px + 1em) 4em 1em",
+          "selector": "#document-content "
+        },
+        "padding-top": {
+          "value": "1em",
+          "selector": "#document-content "
+        },
+        "padding-right": {
+          "value": "calc(26px + 1em)",
+          "selector": "#document-content "
+        },
+        "padding-bottom": {
+          "value": "4em",
+          "selector": "#document-content "
+        },
+        "padding-left": {
+          "value": "1em",
+          "selector": "#document-content "
+        }
+      },
+      "arabic_scroll_region": {
+        "min-inline-size": {
+          "value": "0",
+          "selector": ".translation-document :is(section,div,nav,details,dl,dt,dd,li,h1,h2,h3,h4,h5,h6) "
+        },
+        "width": {
+          "value": "100%",
+          "selector": "#document-scroll "
+        },
+        "height": {
+          "value": "100%",
+          "selector": "#document-scroll "
+        },
+        "overflow": {
+          "value": "auto",
+          "selector": "#document-scroll "
+        },
+        "overflow-x": {
+          "value": "auto",
+          "selector": "#document-scroll "
+        },
+        "overflow-y": {
+          "value": "auto",
+          "selector": "#document-scroll "
+        },
+        "direction": {
+          "value": "rtl",
+          "selector": "#document-scroll "
         }
       },
       "selector_errors": []
@@ -452,20 +840,112 @@
       "viewport_width": 768,
       "arabic_body": {
         "max-width": {
-          "value": "50em",
-          "selector": "body.translation-document "
+          "value": "none",
+          "selector": "body#wcag22-ar.translation-document "
         },
         "padding": {
-          "value": "1.6em calc(26px + 1.5em) 0 1.5em",
-          "selector": "body.translation-document "
+          "value": "0",
+          "selector": "body#wcag22-ar.translation-document "
+        },
+        "padding-right": {
+          "value": "0",
+          "selector": "body#wcag22-ar.translation-document "
+        },
+        "padding-left": {
+          "value": "0",
+          "selector": "body#wcag22-ar.translation-document "
         },
         "line-height": {
           "value": "1.5",
-          "selector": "body.translation-document "
+          "selector": "body#wcag22-ar.translation-document "
+        },
+        "box-sizing": {
+          "value": "border-box",
+          "selector": "body#wcag22-ar.translation-document "
+        }
+      },
+      "arabic_content": {
+        "min-inline-size": {
+          "value": "0",
+          "selector": ".translation-document :is(section,div,nav,details,dl,dt,dd,li,h1,h2,h3,h4,h5,h6) "
         },
         "box-sizing": {
           "value": "content-box",
-          "selector": "body.translation-document "
+          "selector": "#document-content "
+        },
+        "max-width": {
+          "value": "50em",
+          "selector": "#document-content "
+        },
+        "margin": {
+          "value": "0 auto",
+          "selector": "#document-content "
+        },
+        "margin-top": {
+          "value": "0",
+          "selector": "#document-content "
+        },
+        "margin-right": {
+          "value": "auto",
+          "selector": "#document-content "
+        },
+        "margin-bottom": {
+          "value": "0",
+          "selector": "#document-content "
+        },
+        "margin-left": {
+          "value": "auto",
+          "selector": "#document-content "
+        },
+        "padding": {
+          "value": "1.6em calc(26px + 1.5em) 4em 1.5em",
+          "selector": "#document-content "
+        },
+        "padding-top": {
+          "value": "1.6em",
+          "selector": "#document-content "
+        },
+        "padding-right": {
+          "value": "calc(26px + 1.5em)",
+          "selector": "#document-content "
+        },
+        "padding-bottom": {
+          "value": "4em",
+          "selector": "#document-content "
+        },
+        "padding-left": {
+          "value": "1.5em",
+          "selector": "#document-content "
+        }
+      },
+      "arabic_scroll_region": {
+        "min-inline-size": {
+          "value": "0",
+          "selector": ".translation-document :is(section,div,nav,details,dl,dt,dd,li,h1,h2,h3,h4,h5,h6) "
+        },
+        "width": {
+          "value": "100%",
+          "selector": "#document-scroll "
+        },
+        "height": {
+          "value": "100%",
+          "selector": "#document-scroll "
+        },
+        "overflow": {
+          "value": "auto",
+          "selector": "#document-scroll "
+        },
+        "overflow-x": {
+          "value": "auto",
+          "selector": "#document-scroll "
+        },
+        "overflow-y": {
+          "value": "auto",
+          "selector": "#document-scroll "
+        },
+        "direction": {
+          "value": "rtl",
+          "selector": "#document-scroll "
         }
       },
       "selector_errors": []
@@ -474,20 +954,112 @@
       "viewport_width": 1159,
       "arabic_body": {
         "max-width": {
-          "value": "50em",
-          "selector": "body.translation-document "
+          "value": "none",
+          "selector": "body#wcag22-ar.translation-document "
         },
         "padding": {
-          "value": "1.6em calc(26px + 1.5em) 0 1.5em",
-          "selector": "body.translation-document "
+          "value": "0",
+          "selector": "body#wcag22-ar.translation-document "
+        },
+        "padding-right": {
+          "value": "0",
+          "selector": "body#wcag22-ar.translation-document "
+        },
+        "padding-left": {
+          "value": "0",
+          "selector": "body#wcag22-ar.translation-document "
         },
         "line-height": {
           "value": "1.5",
-          "selector": "body.translation-document "
+          "selector": "body#wcag22-ar.translation-document "
+        },
+        "box-sizing": {
+          "value": "border-box",
+          "selector": "body#wcag22-ar.translation-document "
+        }
+      },
+      "arabic_content": {
+        "min-inline-size": {
+          "value": "0",
+          "selector": ".translation-document :is(section,div,nav,details,dl,dt,dd,li,h1,h2,h3,h4,h5,h6) "
         },
         "box-sizing": {
           "value": "content-box",
-          "selector": "body.translation-document "
+          "selector": "#document-content "
+        },
+        "max-width": {
+          "value": "50em",
+          "selector": "#document-content "
+        },
+        "margin": {
+          "value": "0 auto",
+          "selector": "#document-content "
+        },
+        "margin-top": {
+          "value": "0",
+          "selector": "#document-content "
+        },
+        "margin-right": {
+          "value": "auto",
+          "selector": "#document-content "
+        },
+        "margin-bottom": {
+          "value": "0",
+          "selector": "#document-content "
+        },
+        "margin-left": {
+          "value": "auto",
+          "selector": "#document-content "
+        },
+        "padding": {
+          "value": "1.6em calc(26px + 1.5em) 4em 1.5em",
+          "selector": "#document-content "
+        },
+        "padding-top": {
+          "value": "1.6em",
+          "selector": "#document-content "
+        },
+        "padding-right": {
+          "value": "calc(26px + 1.5em)",
+          "selector": "#document-content "
+        },
+        "padding-bottom": {
+          "value": "4em",
+          "selector": "#document-content "
+        },
+        "padding-left": {
+          "value": "1.5em",
+          "selector": "#document-content "
+        }
+      },
+      "arabic_scroll_region": {
+        "min-inline-size": {
+          "value": "0",
+          "selector": ".translation-document :is(section,div,nav,details,dl,dt,dd,li,h1,h2,h3,h4,h5,h6) "
+        },
+        "width": {
+          "value": "100%",
+          "selector": "#document-scroll "
+        },
+        "height": {
+          "value": "100%",
+          "selector": "#document-scroll "
+        },
+        "overflow": {
+          "value": "auto",
+          "selector": "#document-scroll "
+        },
+        "overflow-x": {
+          "value": "auto",
+          "selector": "#document-scroll "
+        },
+        "overflow-y": {
+          "value": "auto",
+          "selector": "#document-scroll "
+        },
+        "direction": {
+          "value": "rtl",
+          "selector": "#document-scroll "
         }
       },
       "selector_errors": []
@@ -496,28 +1068,112 @@
       "viewport_width": 1248,
       "arabic_body": {
         "max-width": {
-          "value": "50em",
-          "selector": "body.translation-document:not(.toc-inline):has(#toc) "
+          "value": "none",
+          "selector": "body#wcag22-ar.translation-document "
         },
         "padding": {
-          "value": "1.6em calc(26px + 1.5em) 0 1.5em",
-          "selector": "body.translation-document "
+          "value": "0",
+          "selector": "body#wcag22-ar.translation-document "
+        },
+        "padding-right": {
+          "value": "0",
+          "selector": "body#wcag22-ar.translation-document "
+        },
+        "padding-left": {
+          "value": "0",
+          "selector": "body#wcag22-ar.translation-document "
         },
         "line-height": {
           "value": "1.5",
-          "selector": "body.translation-document "
+          "selector": "body#wcag22-ar.translation-document "
+        },
+        "box-sizing": {
+          "value": "border-box",
+          "selector": "body#wcag22-ar.translation-document "
+        }
+      },
+      "arabic_content": {
+        "min-inline-size": {
+          "value": "0",
+          "selector": ".translation-document :is(section,div,nav,details,dl,dt,dd,li,h1,h2,h3,h4,h5,h6) "
         },
         "box-sizing": {
           "value": "content-box",
-          "selector": "body.translation-document "
+          "selector": "#document-content "
         },
-        "padding-left": {
-          "value": "1.5em",
-          "selector": "body.translation-document:not(.toc-inline):has(#toc) "
+        "max-width": {
+          "value": "50em",
+          "selector": "#document-content "
+        },
+        "margin": {
+          "value": "0 auto",
+          "selector": "#document-content "
+        },
+        "margin-top": {
+          "value": "0",
+          "selector": "#document-content "
+        },
+        "margin-right": {
+          "value": "auto",
+          "selector": "#document-content "
+        },
+        "margin-bottom": {
+          "value": "0",
+          "selector": "#document-content "
+        },
+        "margin-left": {
+          "value": "auto",
+          "selector": "#document-content "
+        },
+        "padding": {
+          "value": "1.6em calc(26px + 1.5em) 4em 1.5em",
+          "selector": "#document-content "
+        },
+        "padding-top": {
+          "value": "1.6em",
+          "selector": "#document-content "
         },
         "padding-right": {
           "value": "29em",
-          "selector": "body.translation-document:not(.toc-inline):has(#toc) "
+          "selector": "body.translation-document:not(.toc-inline) #document-content:has(#toc) "
+        },
+        "padding-bottom": {
+          "value": "4em",
+          "selector": "#document-content "
+        },
+        "padding-left": {
+          "value": "1.5em",
+          "selector": "body.translation-document:not(.toc-inline) #document-content:has(#toc) "
+        }
+      },
+      "arabic_scroll_region": {
+        "min-inline-size": {
+          "value": "0",
+          "selector": ".translation-document :is(section,div,nav,details,dl,dt,dd,li,h1,h2,h3,h4,h5,h6) "
+        },
+        "width": {
+          "value": "100%",
+          "selector": "#document-scroll "
+        },
+        "height": {
+          "value": "100%",
+          "selector": "#document-scroll "
+        },
+        "overflow": {
+          "value": "auto",
+          "selector": "#document-scroll "
+        },
+        "overflow-x": {
+          "value": "auto",
+          "selector": "#document-scroll "
+        },
+        "overflow-y": {
+          "value": "auto",
+          "selector": "#document-scroll "
+        },
+        "direction": {
+          "value": "rtl",
+          "selector": "#document-scroll "
         }
       },
       "selector_errors": []
@@ -526,28 +1182,112 @@
       "viewport_width": 1440,
       "arabic_body": {
         "max-width": {
-          "value": "50em",
-          "selector": "body.translation-document:not(.toc-inline):has(#toc) "
+          "value": "none",
+          "selector": "body#wcag22-ar.translation-document "
         },
         "padding": {
-          "value": "1.6em calc(26px + 1.5em) 0 1.5em",
-          "selector": "body.translation-document "
+          "value": "0",
+          "selector": "body#wcag22-ar.translation-document "
+        },
+        "padding-right": {
+          "value": "0",
+          "selector": "body#wcag22-ar.translation-document "
+        },
+        "padding-left": {
+          "value": "0",
+          "selector": "body#wcag22-ar.translation-document "
         },
         "line-height": {
           "value": "1.5",
-          "selector": "body.translation-document "
+          "selector": "body#wcag22-ar.translation-document "
+        },
+        "box-sizing": {
+          "value": "border-box",
+          "selector": "body#wcag22-ar.translation-document "
+        }
+      },
+      "arabic_content": {
+        "min-inline-size": {
+          "value": "0",
+          "selector": ".translation-document :is(section,div,nav,details,dl,dt,dd,li,h1,h2,h3,h4,h5,h6) "
         },
         "box-sizing": {
           "value": "content-box",
-          "selector": "body.translation-document "
+          "selector": "#document-content "
         },
-        "padding-left": {
-          "value": "1.5em",
-          "selector": "body.translation-document:not(.toc-inline):has(#toc) "
+        "max-width": {
+          "value": "50em",
+          "selector": "#document-content "
+        },
+        "margin": {
+          "value": "0 auto",
+          "selector": "#document-content "
+        },
+        "margin-top": {
+          "value": "0",
+          "selector": "#document-content "
+        },
+        "margin-right": {
+          "value": "auto",
+          "selector": "#document-content "
+        },
+        "margin-bottom": {
+          "value": "0",
+          "selector": "#document-content "
+        },
+        "margin-left": {
+          "value": "auto",
+          "selector": "#document-content "
+        },
+        "padding": {
+          "value": "1.6em calc(26px + 1.5em) 4em 1.5em",
+          "selector": "#document-content "
+        },
+        "padding-top": {
+          "value": "1.6em",
+          "selector": "#document-content "
         },
         "padding-right": {
           "value": "29em",
-          "selector": "body.translation-document:not(.toc-inline):has(#toc) "
+          "selector": "body.translation-document:not(.toc-inline) #document-content:has(#toc) "
+        },
+        "padding-bottom": {
+          "value": "4em",
+          "selector": "#document-content "
+        },
+        "padding-left": {
+          "value": "1.5em",
+          "selector": "body.translation-document:not(.toc-inline) #document-content:has(#toc) "
+        }
+      },
+      "arabic_scroll_region": {
+        "min-inline-size": {
+          "value": "0",
+          "selector": ".translation-document :is(section,div,nav,details,dl,dt,dd,li,h1,h2,h3,h4,h5,h6) "
+        },
+        "width": {
+          "value": "100%",
+          "selector": "#document-scroll "
+        },
+        "height": {
+          "value": "100%",
+          "selector": "#document-scroll "
+        },
+        "overflow": {
+          "value": "auto",
+          "selector": "#document-scroll "
+        },
+        "overflow-x": {
+          "value": "auto",
+          "selector": "#document-scroll "
+        },
+        "overflow-y": {
+          "value": "auto",
+          "selector": "#document-scroll "
+        },
+        "direction": {
+          "value": "rtl",
+          "selector": "#document-scroll "
         }
       },
       "selector_errors": []
@@ -556,28 +1296,112 @@
       "viewport_width": 1920,
       "arabic_body": {
         "max-width": {
-          "value": "50em",
-          "selector": "body.translation-document:not(.toc-inline):has(#toc) "
+          "value": "none",
+          "selector": "body#wcag22-ar.translation-document "
         },
         "padding": {
-          "value": "1.6em calc(26px + 1.5em) 0 1.5em",
-          "selector": "body.translation-document "
+          "value": "0",
+          "selector": "body#wcag22-ar.translation-document "
+        },
+        "padding-right": {
+          "value": "0",
+          "selector": "body#wcag22-ar.translation-document "
+        },
+        "padding-left": {
+          "value": "0",
+          "selector": "body#wcag22-ar.translation-document "
         },
         "line-height": {
           "value": "1.5",
-          "selector": "body.translation-document "
+          "selector": "body#wcag22-ar.translation-document "
+        },
+        "box-sizing": {
+          "value": "border-box",
+          "selector": "body#wcag22-ar.translation-document "
+        }
+      },
+      "arabic_content": {
+        "min-inline-size": {
+          "value": "0",
+          "selector": ".translation-document :is(section,div,nav,details,dl,dt,dd,li,h1,h2,h3,h4,h5,h6) "
         },
         "box-sizing": {
           "value": "content-box",
-          "selector": "body.translation-document "
+          "selector": "#document-content "
         },
-        "padding-left": {
-          "value": "1.5em",
-          "selector": "body.translation-document:not(.toc-inline):has(#toc) "
+        "max-width": {
+          "value": "50em",
+          "selector": "#document-content "
+        },
+        "margin": {
+          "value": "0 auto",
+          "selector": "#document-content "
+        },
+        "margin-top": {
+          "value": "0",
+          "selector": "#document-content "
+        },
+        "margin-right": {
+          "value": "auto",
+          "selector": "#document-content "
+        },
+        "margin-bottom": {
+          "value": "0",
+          "selector": "#document-content "
+        },
+        "margin-left": {
+          "value": "auto",
+          "selector": "#document-content "
+        },
+        "padding": {
+          "value": "1.6em calc(26px + 1.5em) 4em 1.5em",
+          "selector": "#document-content "
+        },
+        "padding-top": {
+          "value": "1.6em",
+          "selector": "#document-content "
         },
         "padding-right": {
           "value": "29em",
-          "selector": "body.translation-document:not(.toc-inline):has(#toc) "
+          "selector": "body.translation-document:not(.toc-inline) #document-content:has(#toc) "
+        },
+        "padding-bottom": {
+          "value": "4em",
+          "selector": "#document-content "
+        },
+        "padding-left": {
+          "value": "1.5em",
+          "selector": "body.translation-document:not(.toc-inline) #document-content:has(#toc) "
+        }
+      },
+      "arabic_scroll_region": {
+        "min-inline-size": {
+          "value": "0",
+          "selector": ".translation-document :is(section,div,nav,details,dl,dt,dd,li,h1,h2,h3,h4,h5,h6) "
+        },
+        "width": {
+          "value": "100%",
+          "selector": "#document-scroll "
+        },
+        "height": {
+          "value": "100%",
+          "selector": "#document-scroll "
+        },
+        "overflow": {
+          "value": "auto",
+          "selector": "#document-scroll "
+        },
+        "overflow-x": {
+          "value": "auto",
+          "selector": "#document-scroll "
+        },
+        "overflow-y": {
+          "value": "auto",
+          "selector": "#document-scroll "
+        },
+        "direction": {
+          "value": "rtl",
+          "selector": "#document-scroll "
         }
       },
       "selector_errors": []

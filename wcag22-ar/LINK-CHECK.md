@@ -1,6 +1,6 @@
 # External link check
 
-Checked: 2026-11-06T11:03:57.579742+00:00
+Checked: 2026-11-06T11:16:29.893424+00:00
 
 Scope: the Arabic HTML document and its README, terminology register, sources, review notes, and English–Arabic comparison.
 

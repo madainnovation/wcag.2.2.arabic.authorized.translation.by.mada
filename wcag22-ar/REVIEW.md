@@ -142,6 +142,23 @@ template. The contents sidebar follows the source's 78em breakpoint and 29em
 body clearance, mirrored to the right. The strip is 25 × 380px, as in the source,
 and hidden in print; it identifies a draft rather than asserting W3C approval.
 
+Following a further scrollbar/readability report, the full-width document now
+scrolls inside an explicitly RTL element, putting its native vertical scrollbar
+on the left independently of viewport scrollbar conventions. This region is
+keyboard-focusable and named by the document title. The 50em content column,
+right ribbon gutter, and wide-screen sidebar clearance are applied to its inner
+container. Print rules release the height and overflow restrictions so the
+entire document remains available for printing. Native fragment links retain
+their original targets; keyboard, fragment, and print behavior still need the
+browser review described below.
+
+Help links, contents entries at every depth, and copyright text now use 1rem;
+inline technical identifiers use the surrounding text size. This removes the
+source's `x-small`, `small`, and compounded nested font reductions. Help boxes
+use a 30% border-box width and return to full width in narrow windows. Body text
+keeps its 1.5 line height and the W3C heading hierarchy is retained. No normative
+wording changed in this presentation update.
+
 `scripts/check_layout.py` compares winning CSS declarations at viewport widths
 320, 390, 768, 1159, 1248, 1440, and 1920 pixels, plus print. Its report is
 `reports/layout-validation.json`. The review covers selectors and the cascade

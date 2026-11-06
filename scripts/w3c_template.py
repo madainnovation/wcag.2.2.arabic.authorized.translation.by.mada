@@ -167,4 +167,16 @@ def render_template(english, arabic, titles):
     for a in head.select('a[href^="http"]'):
         if text(a).startswith('http'):
             a['dir']='ltr'
+
+    # A full-width RTL element owns scrolling so its scrollbar is on the left.
+    # The inner column retains the W3C spacing; fragment IDs and source order
+    # stay intact. The named region can receive keyboard scrolling focus.
+    scroller = page.new_tag('div', attrs={'id':'document-scroll', 'dir':'rtl',
+                                        'tabindex':'0', 'role':'region',
+                                        'aria-labelledby':'title'})
+    content = page.new_tag('div', id='document-content')
+    for node in list(page.body.contents):
+        content.append(node.extract())
+    scroller.append(content)
+    page.body.append(scroller)
     return page

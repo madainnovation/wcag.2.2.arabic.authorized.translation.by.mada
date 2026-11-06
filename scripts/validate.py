@@ -48,6 +48,16 @@ parser = html5lib.HTMLParser()
 parser.parse(raw)
 check('HTML5 parsing has no errors', not parser.errors, parser.errors[:5])
 check('Document declares Arabic and right-to-left direction', ar.html.get('lang')=='ar' and ar.html.get('dir')=='rtl')
+scroller=ar.select_one('body > #document-scroll')
+content=ar.select_one('#document-scroll > #document-content')
+check('RTL document scrolling region has a keyboard focus target and accessible name',
+      scroller is not None and scroller.get('dir')=='rtl' and scroller.get('tabindex')=='0' and
+      scroller.get('role')=='region' and scroller.get('aria-labelledby')=='title' and
+      scroller.find(id='title') is not None)
+check('All document elements remain in one content column inside the scrolling region',
+      content is not None and list(ar.body.find_all(recursive=False))==[scroller] and
+      list(scroller.find_all(recursive=False))==[content] and
+      len(content.select('section[id]'))==140 and content.select_one('.skip-link') is not None)
 ids = [x['id'] for x in ar.select('[id]')]
 duplicates = [x for x,n in collections.Counter(ids).items() if n>1]
 check('All IDs are unique', not duplicates, duplicates)

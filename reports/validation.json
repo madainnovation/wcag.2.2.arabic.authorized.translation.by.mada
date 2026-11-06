@@ -1,6 +1,6 @@
 {
   "passed": true,
-  "checks_run": 1184,
+  "checks_run": 1186,
   "errors": [],
   "counts": {
     "sections": 140,
@@ -17,6 +17,14 @@
     },
     {
       "check": "Document declares Arabic and right-to-left direction",
+      "passed": true
+    },
+    {
+      "check": "RTL document scrolling region has a keyboard focus target and accessible name",
+      "passed": true
+    },
+    {
+      "check": "All document elements remain in one content column inside the scrolling region",
       "passed": true
     },
     {

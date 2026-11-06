@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T11:03:57.579742+00:00",
+  "generated_at": "2026-11-06T11:16:29.893424+00:00",
   "documents": [
     "index.html",
     "README.md",
@@ -35,21 +35,21 @@
     "mailto:acampbell@nomensa.com": [
       {
         "document": "index.html",
-        "location": "wcag22-ar",
+        "location": "document-content",
         "label": "Alastair Campbell"
       }
     ],
     "mailto:charles.adams@oracle.com": [
       {
         "document": "index.html",
-        "location": "wcag22-ar",
+        "location": "document-content",
         "label": "Chuck Adams"
       }
     ],
     "mailto:rachael@accessiblecommunity.org": [
       {
         "document": "index.html",
-        "location": "wcag22-ar",
+        "location": "document-content",
         "label": "Rachael Bradley Montgomery"
       }
     ],
@@ -167,7 +167,7 @@
       "occurrences": [
         {
           "document": "index.html",
-          "location": "wcag22-ar",
+          "location": "document-content",
           "label": "GitHub w3c/wcag"
         }
       ],
@@ -201,7 +201,7 @@
       "occurrences": [
         {
           "document": "index.html",
-          "location": "wcag22-ar",
+          "location": "document-content",
           "label": "سجل التغييرات"
         }
       ],
@@ -303,7 +303,7 @@
       "occurrences": [
         {
           "document": "index.html",
-          "location": "wcag22-ar",
+          "location": "document-content",
           "label": "المسائل المفتوحة"
         }
       ],
@@ -337,7 +337,7 @@
       "occurrences": [
         {
           "document": "index.html",
-          "location": "wcag22-ar",
+          "location": "document-content",
           "label": "مسألة جديدة"
         }
       ],
@@ -371,7 +371,7 @@
       "occurrences": [
         {
           "document": "index.html",
-          "location": "wcag22-ar",
+          "location": "document-content",
           "label": "طلبات التعديل"
         }
       ],
@@ -659,7 +659,7 @@
       "occurrences": [
         {
           "document": "index.html",
-          "location": "wcag22-ar",
+          "location": "document-content",
           "label": "https://w3c.github.io/wcag/guidelines/22/"
         },
         {
@@ -923,12 +923,12 @@
       "occurrences": [
         {
           "document": "index.html",
-          "location": "wcag22-ar",
+          "location": "document-content",
           "label": ""
         },
         {
           "document": "index.html",
-          "location": "wcag22-ar",
+          "location": "document-content",
           "label": "World Wide Web Consortium"
         }
       ],
@@ -1064,7 +1064,7 @@
       "occurrences": [
         {
           "document": "index.html",
-          "location": "wcag22-ar",
+          "location": "document-content",
           "label": "Michael Cooper"
         }
       ],
@@ -1254,7 +1254,7 @@
         },
         {
           "document": "index.html",
-          "location": "wcag22-ar",
+          "location": "document-content",
           "label": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/"
         },
         {
@@ -9761,7 +9761,7 @@
       "occurrences": [
         {
           "document": "index.html",
-          "location": "wcag22-ar",
+          "location": "document-content",
           "label": "https://www.w3.org/TR/WCAG21/"
         },
         {
@@ -9825,7 +9825,7 @@
       "occurrences": [
         {
           "document": "index.html",
-          "location": "wcag22-ar",
+          "location": "document-content",
           "label": "https://www.w3.org/TR/WCAG22/"
         },
         {
@@ -10089,7 +10089,7 @@
       "occurrences": [
         {
           "document": "index.html",
-          "location": "wcag22-ar",
+          "location": "document-content",
           "label": "الترجمات"
         }
       ],
@@ -17196,7 +17196,7 @@
       "occurrences": [
         {
           "document": "index.html",
-          "location": "wcag22-ar",
+          "location": "document-content",
           "label": "تتوفر تصحيحات"
         }
       ],
@@ -17230,7 +17230,7 @@
       "occurrences": [
         {
           "document": "index.html",
-          "location": "wcag22-ar",
+          "location": "document-content",
           "label": "https://www.w3.org/WAI/WCAG22/implementation-report/"
         },
         {
@@ -20961,7 +20961,7 @@
       "occurrences": [
         {
           "document": "index.html",
-          "location": "wcag22-ar",
+          "location": "document-content",
           "label": "document use"
         },
         {
@@ -21102,7 +21102,7 @@
       "occurrences": [
         {
           "document": "index.html",
-          "location": "wcag22-ar",
+          "location": "document-content",
           "label": "liability"
         }
       ],
@@ -21136,7 +21136,7 @@
       "occurrences": [
         {
           "document": "index.html",
-          "location": "wcag22-ar",
+          "location": "document-content",
           "label": "trademark"
         }
       ],
@@ -21170,7 +21170,7 @@
       "occurrences": [
         {
           "document": "index.html",
-          "location": "wcag22-ar",
+          "location": "document-content",
           "label": "Copyright"
         }
       ],
@@ -21306,7 +21306,7 @@
       "occurrences": [
         {
           "document": "index.html",
-          "location": "wcag22-ar",
+          "location": "document-content",
           "label": "https://www.w3.org/standards/history/WCAG22/"
         },
         {
@@ -21346,11 +21346,11 @@
     }
   ],
   "file_sha256": {
-    "index.html": "bcd08924c07e0febe6ec530464cecf547079904a5817e802d6beee953005d9f3",
+    "index.html": "77d38e13f1789faf6f823efc7427e58c58e03f52e4a21b084d21dfecb9ce1f72",
     "README.md": "1201acf39bf14150d7b15984337d29c3b5c677d8dde2e664ac0ed1467ae15441",
     "TERMINOLOGY.md": "04d17dd1b0aedbd3abc6da50931ecfecfcceb0bebb942b9288a62ac6a50b52f9",
     "SOURCES.md": "925629e6daeaafbc076046fab0cf91d476467f25c9e03211efa67dbca6e4ef36",
-    "REVIEW.md": "b69268757904db166da0b86b06684f542cb4d5aeb30a629189bdc46eecde8dea",
+    "REVIEW.md": "a0a76be6dba8a4091cddbe17f101771c46aa2d4312ed47df79ec78e6efcc7d65",
     "TRANSLATION-COMPARISON.md": "acf3fcebeed8f44d135dbbd566b2af0ff14dc8e4e1b001f18b706d563d7d92c2"
   }
 }

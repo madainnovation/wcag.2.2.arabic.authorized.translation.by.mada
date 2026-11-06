@@ -26,6 +26,66 @@ new criteria and revised passages have draft Arabic translations. Criterion
 The linked Understanding and Techniques documents are external English resources
 and are outside this translation's scope.
 
+## About Mada Center
+
+[Mada Center](https://www.mada.org.qa/) (مركز مدى), based in Qatar, works to
+advance universal access and inclusion for persons with disabilities and older
+people. Its programs support inclusive education, access to employment, and
+participation in community life. Mada provides assistive technology services,
+training, and accessibility consultancy, alongside research and the development
+of Arabic accessibility resources and solutions.
+
+Making international accessibility guidance available in Arabic supports this
+work by helping organizations and practitioners understand and apply shared
+standards. Read more about Mada's mission and services on its
+[About Us page](https://www.mada.org.qa/about-us/).
+
+## About AIAEG
+
+The [Arab ICT Accessibility Expert Group (AIAEG)](https://aiaeg.mada.org.qa/)
+— مجموعة الخبراء العرب في نفاذ تكنولوجيا المعلومات والاتصالات — is an initiative
+from Mada that brings together expertise in ICT accessibility across the Arab
+region. Its working groups support collaboration on Arabic resources,
+terminology, and professional knowledge in accessibility and assistive technology.
+
+AIAEG's published work includes the Arabic WCAG 2.1 translation working group,
+Mada's accessibility and assistive technology glossary, and an ICT accessibility
+and inclusive design competency framework. These resources provide context for
+the continued development of Arabic accessibility guidance. The
+[AIAEG members page](https://aiaeg.mada.org.qa/%d8%a7%d9%84%d8%a3%d8%b9%d8%b6%d8%a7%d8%a1/)
+introduces the group's network; membership does not by itself indicate review or
+approval of this WCAG 2.2 draft.
+
+## The WCAG 2.2 Arabic translation initiative
+
+This initiative aims to make WCAG 2.2 available to Arabic-speaking designers,
+developers, content authors, accessibility evaluators, educators, and policy
+teams. It builds on the terminology and unchanged wording of the
+[published Arabic WCAG 2.1 translation](https://www.w3.org/Translations/WCAG21-ar/)
+while translating the additions and revisions in the
+[12 December 2024 WCAG 2.2 Recommendation](https://www.w3.org/TR/2024/REC-WCAG22-20241212/).
+
+The repository provides a readable Arabic document, a shared terminology
+register, and a complete English–Arabic comparison for passage-by-passage review.
+The aim is to preserve the meaning and precision of the English requirements
+and support consistent Arabic usage across accessibility practice. This WCAG 2.2
+text remains a **review draft**; the published WCAG 2.1 translation's approval
+does not extend to it.
+
+### Take part in the review
+
+- Read the [live Arabic draft](https://madainnovation.github.io/wcag.2.2.arabic.authorized.translation.by.mada/)
+  alongside the [English–Arabic comparison](wcag22-ar/TRANSLATION-COMPARISON.md)
+  and [terminology register](TERMINOLOGY.md).
+- [Open an issue](https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues)
+  with the criterion number or section link, the English passage, the current
+  Arabic text, and a suggested correction with its rationale. Feedback on
+  readability, right-to-left presentation, and broken links is also welcome.
+- For proposed edits, change the translation inputs described below and submit
+  a pull request. Record deliberate changes to inherited wording in `REVIEW.md`.
+- Consult the [W3C translators archive](https://lists.w3.org/Archives/Public/w3c-translators/)
+  for public translation discussions.
+
 ## Project files
 
 - `wcag22-ar/TRANSLATION-COMPARISON.md`: complete English–Arabic passages with
@@ -35,8 +95,8 @@ and are outside this translation's scope.
   including confirmed 404s and destinations whose status could not be verified.
 - `translation/changes.html`: new and revised Arabic passages.
 - `translation/edits.json`: explicit changes to inherited Arabic wording.
-- `translation/contributors.html`: credits for the published Arabic 2.1
-  translation on which this draft builds, including historical contributor links.
+- `translation/contributors.html`: bilingual WCAG 2.2 draft header, with the
+  organization, contact details, and translation review links.
 - `translation/rtl.css`: Arabic adaptations of the W3C template.
 - `references/`: unmodified source snapshots and upstream template assets.
 - `TERMINOLOGY.md`: bilingual terms and proposed new criterion titles.
