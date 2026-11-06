@@ -1,17 +1,17 @@
 # External link check
 
-Checked: 2026-11-06T11:16:29.893424+00:00
+Checked: 2026-11-06T11:22:30.591045+00:00
 
 Scope: the Arabic HTML document and its README, terminology register, sources, review notes, and English–Arabic comparison.
 
-**614 distinct HTTP(S) links, 167 page requests.** The HTML document contains 269 of these distinct links.
+**616 distinct HTTP(S) links, 169 page requests.** The HTML document contains 270 of these distinct links.
 
 Checks use GET requests, follow redirects, and retry 404s and connection/server failures once. Fragment variants share their page’s HTTP result; fragment targets are not checked. HTTP success means the destination responded, not that its content is the correct translation resource. Access blocks, rate limits, and connection failures are not classified as 404s. Email links are listed separately and were not contacted.
 
 | Result | All files | HTML document |
 |---|---:|---:|
 | Blocked or rate-limited — unverified | 2 | 2 |
-| HTTP success | 612 | 267 |
+| HTTP success | 614 | 268 |
 
 ## Links requiring attention
 
@@ -27,6 +27,9 @@ Checks use GET requests, follow redirects, and retry 404s and connection/server 
 |---|---:|---|---|
 | [https://aiaeg.mada.org.qa/%d8%a7%d9%84%d8%a3%d8%b9%d8%b6%d8%a7%d8%a1/](https://aiaeg.mada.org.qa/%d8%a7%d9%84%d8%a3%d8%b9%d8%b6%d8%a7%d8%a1/) | 200 | HTTP success | Same page |
 | [https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada](https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada) | 200 | HTTP success | Same page |
+| [https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues](https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues) | 200 | HTTP success | Same page |
+| [https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues/new?template=translation-comment.yml](https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues/new?template=translation-comment.yml) | 200 | HTTP success | https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmadainnovation%2Fwcag.2.2.arabic.authorized.translation.by.mada%2Fissues%2Fnew%3Ftemplate%3Dtranslation-comment.yml |
+| [https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues/new?template=translation-correction.yml](https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues/new?template=translation-correction.yml) | 200 | HTTP success | https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmadainnovation%2Fwcag.2.2.arabic.authorized.translation.by.mada%2Fissues%2Fnew%3Ftemplate%3Dtranslation-correction.yml |
 | [https://github.com/w3c/wcag/](https://github.com/w3c/wcag/) | 200 | HTTP success | Same page |
 | [https://github.com/w3c/wcag/commits/](https://github.com/w3c/wcag/commits/) | 200 | HTTP success | Same page |
 | [https://github.com/w3c/wcag/commits/main/](https://github.com/w3c/wcag/commits/main/) | 200 | HTTP success | Same page |
@@ -37,7 +40,6 @@ Checks use GET requests, follow redirects, and retry 404s and connection/server 
 | [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/) | 200 | HTTP success | Same page |
 | [https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#autofill](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#autofill) | 200 | HTTP success | Same page |
 | [https://lists.w3.org/Archives/Public/public-agwg-comments/](https://lists.w3.org/Archives/Public/public-agwg-comments/) | 200 | HTTP success | Same page |
-| [https://lists.w3.org/Archives/Public/w3c-translators/](https://lists.w3.org/Archives/Public/w3c-translators/) | 200 | HTTP success | Same page |
 | [https://madainnovation.github.io/wcag.2.2.arabic.authorized.translation.by.mada/](https://madainnovation.github.io/wcag.2.2.arabic.authorized.translation.by.mada/) | 200 | HTTP success | Same page |
 | [https://unesdoc.unesco.org/ark:/48223/pf0000219109](https://unesdoc.unesco.org/ark:/48223/pf0000219109) | 403 | Blocked or rate-limited — unverified | Same page |
 | [https://w3c.github.io/wcag/guidelines/22/](https://w3c.github.io/wcag/guidelines/22/) | 200 | HTTP success | Same page |

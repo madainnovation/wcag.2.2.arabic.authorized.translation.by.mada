@@ -1,0 +1,47 @@
+name: تصحيح في الترجمة / Translation correction
+description: اقترح تصحيحًا للنص العربي أو المصطلحات في مسودة WCAG 2.2.
+title: "[تصحيح الترجمة]: "
+labels: [translation-correction]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        استخدم هذا النموذج لاقتراح تصحيح في مسودة الترجمة العربية لمبادئ النفاذ إلى محتوى الويب 2.2. يمكنك الكتابة بالعربية أو الإنجليزية.
+
+        Use this form to propose a correction to the Arabic WCAG 2.2 review draft. Arabic and English submissions are welcome.
+
+        [المسودة العربية / Arabic draft](https://madainnovation.github.io/wcag.2.2.arabic.authorized.translation.by.mada/) · [الأصل الإنجليزي / English source](https://www.w3.org/TR/2024/REC-WCAG22-20241212/) · [سجل المراجعة / Review log](https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues)
+  - type: input
+    id: section
+    attributes:
+      label: معيار النجاح أو القسم / Criterion or section
+      description: اذكر الرقم أو عنوان القسم أو رابط الفقرة.
+      placeholder: "2.4.11، أو عنوان القسم، أو رابط الفقرة"
+    validations:
+      required: true
+  - type: textarea
+    id: current-arabic
+    attributes:
+      label: النص العربي الحالي / Current Arabic text
+      description: انسخ النص الذي تقترح تصحيحه.
+    validations:
+      required: true
+  - type: textarea
+    id: english-source
+    attributes:
+      label: النص الإنجليزي المقابل / Corresponding English text
+      description: أرفق النص الإنجليزي إن كان التصحيح يتعلق بمعنى النص أو دقته.
+  - type: textarea
+    id: proposed-correction
+    attributes:
+      label: التصحيح المقترح / Proposed correction
+      description: اكتب الصياغة العربية المقترحة.
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: سبب التصحيح / Reason for the correction
+      description: وضّح سبب التعديل، وأضف مرجعًا للمصطلح أو الصياغة إن توفر.
+    validations:
+      required: true

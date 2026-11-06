@@ -3653,7 +3653,7 @@ Translation-specific front matter, including its English contact block; no count
 | translation-contributors:017<br>Arabic-only / Definitions / exceptions 1 / Description 6 / Paragraph 1 | — | <span lang="ar" dir="rtl">مركز مدى، قطر برج النصر (ب) – برج وزارة الاتصالات وتكنولوجيا المعلومات، الطابق الثامن شارع الكورنيش ص.ب. 24230 – الدوحة، قطر منسق ترجمة 2.2 : د. أشرف عثمان (البريد الإلكتروني: aothman@mada.org.qa )</span> | [ ] |
 | translation-contributors:018<br>Arabic-only / Definitions / exceptions 1 / Term / label 7 | — | <span lang="ar" dir="rtl">قائمة الشركاء لهيئة ترجمة 2.2 :</span> | [ ] |
 | translation-contributors:019<br>Arabic-only / Definitions / exceptions 1 / Description 7 / Paragraph 1 | — | <span lang="ar" dir="rtl">لجنة مراجعة الترجمة العربية 2.2</span> | [ ] |
-| translation-contributors:020<br>Arabic-only / Definitions / exceptions 1 / Term / label 8 | — | <span lang="ar" dir="rtl">ملخص التعليقات خلال مرحلة ترجمة 2.2 :</span> | [ ] |
+| translation-contributors:020<br>Arabic-only / Definitions / exceptions 1 / Term / label 8 | — | <span lang="ar" dir="rtl">تعليقات وملاحظات حول ترجمة 2.2 :</span> | [ ] |
 | translation-contributors:021<br>Arabic-only / Definitions / exceptions 1 / Description 8 / Paragraph 1 | — | <span lang="ar" dir="rtl">تعليقات الترجمة العربية 2.2</span> | [ ] |
 | translation-contributors:022<br>Arabic-only / Paragraph 3 | — | <span lang="ar" dir="rtl">في حال وجود اختلاف، يُرجى الرجوع إلى النسخة الإنجليزية الأصلية .</span> | [ ] |
 

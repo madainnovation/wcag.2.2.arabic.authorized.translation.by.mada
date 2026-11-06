@@ -21,6 +21,17 @@ W3C الإنجليزية الأصلي. احتفظ بمجلد `assets` بجانب
 - [المصادر](SOURCES.md)
 - [تقرير فحص الروابط الخارجية](LINK-CHECK.md)
 
+## التصحيحات والتعليقات
+
+- [إرسال تصحيح للترجمة](https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues/new?template=translation-correction.yml) —
+  اذكر القسم والنص العربي الحالي والتصحيح المقترح وسببه.
+- [إرسال تعليق أو اقتراح](https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues/new?template=translation-comment.yml) —
+  للملاحظات والأسئلة حول الصياغة والعرض والروابط وسائر جوانب المسودة.
+- [متابعة سجل المراجعة والردود](https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues).
+
+يمكن الكتابة بالعربية أو الإنجليزية. يتطلب الإرسال أو الرد حسابًا على GitHub،
+وتظهر المشاركات في سجل المراجعة العام.
+
 نجحت فحوص البنية والروابط الداخلية. وتبقى المراجعة اللغوية والتحقق البصري
 في المتصفح مطلوبين. روابط الفهم والتقنيات والمراجع الخارجية تؤدي إلى موارد
 منشورة على الإنترنت.

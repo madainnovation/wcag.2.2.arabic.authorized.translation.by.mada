@@ -84,11 +84,22 @@ Technology wording supplied by the project owner, in Arabic and English. The
 coordinator's name now includes “Dr.” / “د.”; the email remains unchanged.
 The terminology notice uses
 the existing register in place of the unavailable historical glossary website.
-The committee uses the owner-provided AIAEG members address. Both comments and
-errata now use the owner's replacement destination:
-[the W3C translators archive](https://lists.w3.org/Archives/Public/w3c-translators/).
-This is the general translation correspondence archive, not a claim that it is
-a dedicated WCAG 2.2 errata register.
+The committee uses the owner-provided AIAEG members address. At the owner's
+request, the two translation feedback links now open dedicated GitHub issue
+forms in this repository:
+[translation corrections](https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues/new?template=translation-correction.yml)
+and [comments or suggestions](https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues/new?template=translation-comment.yml).
+The forms use Arabic prompts with English labels and separate issue labels for
+review. The comments metadata label now describes submitting comments, rather
+than a summary of correspondence. These are project feedback channels; submitted
+corrections remain proposals until reviewed. The W3C translators archive remains
+a general reference in the repository README.
+
+Form URLs are configured in `publication.json`; their definitions are in
+`.github/ISSUE_TEMPLATE/`. A GitHub account is required to submit or reply.
+Anonymous HTTP checks can confirm the sign-in destination, while template-file
+checks confirm the configured form exists. No sample issue is submitted as part
+of verification.
 
 On 6 November 2026, the W3C Arabic 2.1 page returned HTTP 200. The historical
 committee, comments and translation-errata links each returned HTTP 404. These
@@ -199,7 +210,8 @@ preserving the source examples without counting them as broken resource links.
 
 The initial HTML audit found three 404 destinations. The obsolete metadata
 appendix link has been corrected from the English source. Translation comments
-and errata now point to the W3C translators archive provided by the owner.
+and errata first used the W3C translators archive provided by the owner; the
+current destinations are the dedicated repository issue forms described above.
 ISO and UNESCO returned HTTP 403 challenge pages;
 their availability remains unverified, and they are not classified as 404s.
 The AIAEG committee page and the Mada home page returned HTTP 200.

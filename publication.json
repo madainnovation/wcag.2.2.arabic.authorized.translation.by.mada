@@ -1,5 +1,7 @@
 {
   "repository_url": "https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada",
   "current_version_url": "https://madainnovation.github.io/wcag.2.2.arabic.authorized.translation.by.mada/",
-  "latest_version_url": "https://madainnovation.github.io/wcag.2.2.arabic.authorized.translation.by.mada/"
+  "latest_version_url": "https://madainnovation.github.io/wcag.2.2.arabic.authorized.translation.by.mada/",
+  "translation_errata_url": "https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues/new?template=translation-correction.yml",
+  "translation_comments_url": "https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues/new?template=translation-comment.yml"
 }

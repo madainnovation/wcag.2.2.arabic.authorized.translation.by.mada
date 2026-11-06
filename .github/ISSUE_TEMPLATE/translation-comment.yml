@@ -1,0 +1,42 @@
+name: تعليق أو اقتراح / Comment or suggestion
+description: أرسل ملاحظة أو سؤالًا حول مسودة الترجمة العربية أو طريقة عرضها.
+title: "[تعليق على الترجمة]: "
+labels: [translation-comment]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        استخدم هذا النموذج للتعليقات والأسئلة والاقتراحات حول مسودة الترجمة العربية لمبادئ النفاذ إلى محتوى الويب 2.2، بما في ذلك القراءة والعرض والروابط. يمكنك الكتابة بالعربية أو الإنجليزية.
+
+        Use this form for comments, questions, and suggestions about the Arabic WCAG 2.2 review draft, including readability, layout, and links. Arabic and English submissions are welcome.
+
+        [المسودة العربية / Arabic draft](https://madainnovation.github.io/wcag.2.2.arabic.authorized.translation.by.mada/) · [سجل المراجعة / Review log](https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues)
+  - type: dropdown
+    id: topic
+    attributes:
+      label: موضوع التعليق / Topic
+      options:
+        - الصياغة والمصطلحات / Wording and terminology
+        - العرض والقراءة / Layout and readability
+        - الروابط والتنقل / Links and navigation
+        - اقتراح عام / General suggestion
+        - سؤال / Question
+    validations:
+      required: true
+  - type: input
+    id: section
+    attributes:
+      label: معيار النجاح أو القسم / Criterion or section
+      description: اذكر الرقم أو عنوان القسم أو الرابط إن كان التعليق يتعلق بموضع محدد.
+  - type: textarea
+    id: comment
+    attributes:
+      label: التعليق أو السؤال / Comment or question
+      description: وضّح ملاحظتك. إذا كانت تتعلق بالعرض أو التنقل، اذكر المتصفح والجهاز وخطوات ظهور المشكلة.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: التحسين المقترح / Suggested improvement
+      description: أضف اقتراحًا أو مثالًا توضيحيًا إن توفر.

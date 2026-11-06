@@ -1,6 +1,6 @@
 {
   "passed": true,
-  "checks_run": 1186,
+  "checks_run": 1187,
   "errors": [],
   "counts": {
     "sections": 140,
@@ -4660,7 +4660,11 @@
       "passed": true
     },
     {
-      "check": "Comments and errata use the user-provided W3C translators archive",
+      "check": "Translation feedback opens its repository issue form: translation-errata-link",
+      "passed": true
+    },
+    {
+      "check": "Translation feedback opens its repository issue form: translation-comments-link",
       "passed": true
     },
     {

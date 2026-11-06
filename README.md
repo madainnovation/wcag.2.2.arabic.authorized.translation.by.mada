@@ -77,10 +77,16 @@ does not extend to it.
 - Read the [live Arabic draft](https://madainnovation.github.io/wcag.2.2.arabic.authorized.translation.by.mada/)
   alongside the [English–Arabic comparison](wcag22-ar/TRANSLATION-COMPARISON.md)
   and [terminology register](TERMINOLOGY.md).
-- [Open an issue](https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues)
-  with the criterion number or section link, the English passage, the current
-  Arabic text, and a suggested correction with its rationale. Feedback on
-  readability, right-to-left presentation, and broken links is also welcome.
+- [Suggest a translation correction](https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues/new?template=translation-correction.yml)
+  using the Arabic–English form. Include the criterion or section, current
+  Arabic text, proposed wording, and the reason for the change.
+- [Leave a comment or suggestion](https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues/new?template=translation-comment.yml)
+  about wording, readability, right-to-left presentation, links, or other
+  aspects of the draft. Questions are welcome too.
+- Follow submissions and replies in the
+  [public review log](https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues).
+  A GitHub account is required to submit or reply. Corrections and comments
+  receive separate labels so reviewers can find them easily.
 - For proposed edits, change the translation inputs described below and submit
   a pull request. Record deliberate changes to inherited wording in `REVIEW.md`.
 - Consult the [W3C translators archive](https://lists.w3.org/Archives/Public/w3c-translators/)
@@ -104,7 +110,8 @@ does not extend to it.
 - `SOURCES.md`: source URLs and provenance.
 - `reports/`: coverage, English source differences, and validation results.
 - `scripts/build.py`: assembles the draft into the W3C English template.
-- `publication.json`: public repository and current/latest HTML preview URLs.
+- `publication.json`: repository, public HTML preview, and feedback-form URLs.
+- `.github/ISSUE_TEMPLATE/`: Arabic–English forms for corrections and comments.
 - `.github/workflows/pages.yml`: builds, checks, and publishes `wcag22-ar/`
   through GitHub Pages on every push to `main`.
 - `scripts/comparison.py`: exports the complete bilingual review file.

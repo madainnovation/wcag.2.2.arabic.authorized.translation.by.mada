@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T11:16:29.893424+00:00",
+  "generated_at": "2026-11-06T11:22:30.591045+00:00",
   "documents": [
     "index.html",
     "README.md",
@@ -8,15 +8,15 @@
     "REVIEW.md",
     "TRANSLATION-COMPARISON.md"
   ],
-  "unique_http_links": 614,
-  "unique_http_pages": 167,
-  "html_links": 269,
+  "unique_http_links": 616,
+  "unique_http_pages": 169,
+  "html_links": 270,
   "html_counts": {
-    "HTTP success": 267,
+    "HTTP success": 268,
     "Blocked or rate-limited — unverified": 2
   },
   "counts": {
-    "HTTP success": 612,
+    "HTTP success": 614,
     "Blocked or rate-limited — unverified": 2
   },
   "non_http_links": {
@@ -99,7 +99,7 @@
         },
         {
           "document": "REVIEW.md",
-          "location": "line 97",
+          "location": "line 108",
           "label": ""
         }
       ],
@@ -160,6 +160,128 @@
       "curl_exit_code": 0,
       "error": "",
       "seconds": 0.7
+    },
+    {
+      "url": "https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues",
+      "fragment": "",
+      "occurrences": [
+        {
+          "document": "README.md",
+          "location": "line 30",
+          "label": ""
+        }
+      ],
+      "requested_url": "https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues",
+      "checked_at": "2026-11-06T11:22:10.430702+00:00",
+      "classification": "HTTP success",
+      "attempts": [
+        {
+          "http_status": 200,
+          "final_url": "https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues",
+          "redirects": 0,
+          "content_type": "text/html; charset=utf-8",
+          "page_title": "Issues · madainnovation/wcag.2.2.arabic.authorized.translation.by.mada · GitHub",
+          "curl_exit_code": 0,
+          "error": "",
+          "seconds": 0.82
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues",
+      "redirects": 0,
+      "content_type": "text/html; charset=utf-8",
+      "page_title": "Issues · madainnovation/wcag.2.2.arabic.authorized.translation.by.mada · GitHub",
+      "curl_exit_code": 0,
+      "error": "",
+      "seconds": 0.82
+    },
+    {
+      "url": "https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues/new?template=translation-comment.yml",
+      "fragment": "",
+      "occurrences": [
+        {
+          "document": "index.html",
+          "location": "translation-contributors",
+          "label": "تعليقات الترجمة العربية 2.2"
+        },
+        {
+          "document": "README.md",
+          "location": "line 28",
+          "label": ""
+        },
+        {
+          "document": "REVIEW.md",
+          "location": "line 91",
+          "label": ""
+        }
+      ],
+      "requested_url": "https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues/new?template=translation-comment.yml",
+      "checked_at": "2026-11-06T11:22:10.494306+00:00",
+      "classification": "HTTP success",
+      "attempts": [
+        {
+          "http_status": 200,
+          "final_url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmadainnovation%2Fwcag.2.2.arabic.authorized.translation.by.mada%2Fissues%2Fnew%3Ftemplate%3Dtranslation-comment.yml",
+          "redirects": 1,
+          "content_type": "text/html; charset=utf-8",
+          "page_title": "Sign in to GitHub · GitHub",
+          "curl_exit_code": 0,
+          "error": "",
+          "seconds": 0.88
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmadainnovation%2Fwcag.2.2.arabic.authorized.translation.by.mada%2Fissues%2Fnew%3Ftemplate%3Dtranslation-comment.yml",
+      "redirects": 1,
+      "content_type": "text/html; charset=utf-8",
+      "page_title": "Sign in to GitHub · GitHub",
+      "curl_exit_code": 0,
+      "error": "",
+      "seconds": 0.88
+    },
+    {
+      "url": "https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues/new?template=translation-correction.yml",
+      "fragment": "",
+      "occurrences": [
+        {
+          "document": "index.html",
+          "location": "translation-contributors",
+          "label": "تصحيحات الترجمة العربية 2.2"
+        },
+        {
+          "document": "README.md",
+          "location": "line 26",
+          "label": ""
+        },
+        {
+          "document": "REVIEW.md",
+          "location": "line 90",
+          "label": ""
+        }
+      ],
+      "requested_url": "https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada/issues/new?template=translation-correction.yml",
+      "checked_at": "2026-11-06T11:22:11.316576+00:00",
+      "classification": "HTTP success",
+      "attempts": [
+        {
+          "http_status": 200,
+          "final_url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmadainnovation%2Fwcag.2.2.arabic.authorized.translation.by.mada%2Fissues%2Fnew%3Ftemplate%3Dtranslation-correction.yml",
+          "redirects": 1,
+          "content_type": "text/html; charset=utf-8",
+          "page_title": "Sign in to GitHub · GitHub",
+          "curl_exit_code": 0,
+          "error": "",
+          "seconds": 0.88
+        }
+      ],
+      "http_status": 200,
+      "final_url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmadainnovation%2Fwcag.2.2.arabic.authorized.translation.by.mada%2Fissues%2Fnew%3Ftemplate%3Dtranslation-correction.yml",
+      "redirects": 1,
+      "content_type": "text/html; charset=utf-8",
+      "page_title": "Sign in to GitHub · GitHub",
+      "curl_exit_code": 0,
+      "error": "",
+      "seconds": 0.88
     },
     {
       "url": "https://github.com/w3c/wcag/",
@@ -515,50 +637,6 @@
       "curl_exit_code": 0,
       "error": "",
       "seconds": 0.4
-    },
-    {
-      "url": "https://lists.w3.org/Archives/Public/w3c-translators/",
-      "fragment": "",
-      "occurrences": [
-        {
-          "document": "index.html",
-          "location": "translation-contributors",
-          "label": "تصحيحات الترجمة العربية 2.2"
-        },
-        {
-          "document": "index.html",
-          "location": "translation-contributors",
-          "label": "تعليقات الترجمة العربية 2.2"
-        },
-        {
-          "document": "REVIEW.md",
-          "location": "line 89",
-          "label": ""
-        }
-      ],
-      "requested_url": "https://lists.w3.org/Archives/Public/w3c-translators/",
-      "checked_at": "2026-11-06T10:35:29.552070+00:00",
-      "classification": "HTTP success",
-      "attempts": [
-        {
-          "http_status": 200,
-          "final_url": "https://lists.w3.org/Archives/Public/w3c-translators/",
-          "redirects": 0,
-          "content_type": "text/html",
-          "page_title": "w3c-translators@w3.org Mail Archives",
-          "curl_exit_code": 0,
-          "error": "",
-          "seconds": 0.05
-        }
-      ],
-      "http_status": 200,
-      "final_url": "https://lists.w3.org/Archives/Public/w3c-translators/",
-      "redirects": 0,
-      "content_type": "text/html",
-      "page_title": "w3c-translators@w3.org Mail Archives",
-      "curl_exit_code": 0,
-      "error": "",
-      "seconds": 0.05
     },
     {
       "url": "https://madainnovation.github.io/wcag.2.2.arabic.authorized.translation.by.mada/",
@@ -20966,7 +21044,7 @@
         },
         {
           "document": "SOURCES.md",
-          "location": "line 46",
+          "location": "line 47",
           "label": ""
         }
       ],
@@ -21068,7 +21146,7 @@
       "occurrences": [
         {
           "document": "SOURCES.md",
-          "location": "line 45",
+          "location": "line 46",
           "label": ""
         }
       ],
@@ -21346,11 +21424,11 @@
     }
   ],
   "file_sha256": {
-    "index.html": "77d38e13f1789faf6f823efc7427e58c58e03f52e4a21b084d21dfecb9ce1f72",
-    "README.md": "1201acf39bf14150d7b15984337d29c3b5c677d8dde2e664ac0ed1467ae15441",
+    "index.html": "2b08d5f9ef2dc1a47d9374a160e8eab1cd1d2b08ca2539d0afbd044005c8ecf1",
+    "README.md": "fafe811fa195ef2034858cf5920cbd77d258cfc7a011b94fbe84c5375507c1e2",
     "TERMINOLOGY.md": "04d17dd1b0aedbd3abc6da50931ecfecfcceb0bebb942b9288a62ac6a50b52f9",
-    "SOURCES.md": "925629e6daeaafbc076046fab0cf91d476467f25c9e03211efa67dbca6e4ef36",
-    "REVIEW.md": "a0a76be6dba8a4091cddbe17f101771c46aa2d4312ed47df79ec78e6efcc7d65",
-    "TRANSLATION-COMPARISON.md": "acf3fcebeed8f44d135dbbd566b2af0ff14dc8e4e1b001f18b706d563d7d92c2"
+    "SOURCES.md": "243b0b8b39b59afc0931aa4a7a475d8da1dbf6d1cfb70ad8d0b575227ca2b02b",
+    "REVIEW.md": "c29cb36cd1ee53c79632ce73867c4564ea17ff7b8b1fee70ca2ca6d167cfb812",
+    "TRANSLATION-COMPARISON.md": "d2dfcc8e149c370938c0915154eaa91ab14c5a5bc5d8edc9f108f9a89d95ad2f"
   }
 }

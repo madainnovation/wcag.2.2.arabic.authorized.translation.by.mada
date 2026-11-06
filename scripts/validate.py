@@ -7,7 +7,7 @@ import collections
 import json
 import re
 from pathlib import Path
-from urllib.parse import unquote, urlparse
+from urllib.parse import parse_qs, unquote, urlparse
 import html5lib
 from bs4 import BeautifulSoup
 from common import ROOT, source, text, heading, own, glossary_entry, soup
@@ -121,21 +121,27 @@ check('Published Arabic organization and coordinator are credited', credits is n
 reference_links = {a['href'] for a in reference_credits.select('a[href]')}
 credit_links = {a['href'] for a in credits.select('a[href]') if urlparse(a['href']).scheme} if credits else set()
 committee_url = 'https://aiaeg.mada.org.qa/%d8%a7%d9%84%d8%a3%d8%b9%d8%b6%d8%a7%d8%a1/'
-translation_archive_url = 'https://lists.w3.org/Archives/Public/w3c-translators/'
 english_source_url = en.select_one('.head a.u-url')['href']
 publication = json.loads((ROOT/'publication.json').read_text())
-publication_urls = {publication['current_version_url'],publication['latest_version_url']}
+publication_urls = {publication[key] for key in ['current_version_url','latest_version_url',
+                                               'translation_errata_url','translation_comments_url']}
 check('Translation-header links follow the source references and user-provided replacement addresses',
-      bool(credit_links) and credit_links <= reference_links | {committee_url,translation_archive_url,english_source_url} | publication_urls)
+      bool(credit_links) and credit_links <= reference_links | {committee_url,english_source_url} | publication_urls)
 check('Current and latest version links use the configured public HTML preview',all(
     ar.find(id=ident) is not None and ar.find(id=ident).get('href')==publication[key] and
     urlparse(publication[key]).scheme=='https'
     for ident,key in [('translation-current-version','current_version_url'),('translation-latest-version','latest_version_url')]))
 check('Committee link uses the user-provided address', committee_url in credit_links and
       not any('reviewers-committee-members/' in url for url in credit_links))
-check('Comments and errata use the user-provided W3C translators archive',all(
-    ar.find(id=ident) is not None and ar.find(id=ident).get('href')==translation_archive_url
-    for ident in ['translation-comments-link','translation-errata-link']))
+for ident,key,template in [('translation-errata-link','translation_errata_url','translation-correction.yml'),
+                           ('translation-comments-link','translation_comments_url','translation-comment.yml')]:
+    url=publication[key]
+    parsed=urlparse(url)
+    check('Translation feedback opens its repository issue form: '+ident,
+          ar.find(id=ident) is not None and ar.find(id=ident).get('href')==url and
+          parsed.scheme=='https' and url.split('?')[0]==publication['repository_url']+'/issues/new' and
+          parse_qs(parsed.query).get('template')==[template] and
+          (ROOT/'.github/ISSUE_TEMPLATE'/template).is_file())
 check('Organization and coordinator labels refer to 2.2 as requested', credits is not None and
     credits.find(id='translation-lead-label') is not None and
     text(credits.find(id='translation-lead-label')).replace(' :',':')=='المنظمة المشرفة على ترجمة 2.2:' and

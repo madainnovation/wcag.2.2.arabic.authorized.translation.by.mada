@@ -10000,7 +10000,7 @@
       "id": "translation-contributors:020",
       "kind": "Arabic-only / Definitions / exceptions 1 / Term / label 8",
       "english": "",
-      "arabic": "ملخص التعليقات خلال مرحلة ترجمة 2.2 :",
+      "arabic": "تعليقات وملاحظات حول ترجمة 2.2 :",
       "grouped": false
     },
     {
@@ -11997,9 +11997,9 @@
       "id": "translation-contributors",
       "rows": 22,
       "english_characters": 0,
-      "arabic_characters": 1310,
+      "arabic_characters": 1305,
       "english_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "arabic_sha256": "c04d97cfa20aaec7bac762243b1310f8039f3035bc761b6c3f91f283f3c4aa64"
+      "arabic_sha256": "734b41ea1487079a6b29eee797215d95caf3f1c9f18f89ec8dc9285b62862d95"
     },
     {
       "id": "translation-ribbon",

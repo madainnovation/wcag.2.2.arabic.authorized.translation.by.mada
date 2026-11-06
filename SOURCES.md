@@ -29,8 +29,9 @@ Mada AIAEG members URL. At the owner's latest request, the bilingual translation
 header and all its organization, coordinator, and review labels refer only to
 WCAG 2.2. The separate 2.1 citation has been removed from that header; the
 linguistic source and provenance remain recorded here.
-Both comments and errata now use the owner's W3C translators
-archive address. Link-check results and the replacement destinations are
+The comments and errata links now open the repository's dedicated GitHub issue
+forms, as requested by the owner. They replace the general W3C translators
+archive destination used earlier. Link-check results and the destinations are
 documented in `REVIEW.md` and `LINK-CHECK.md`.
 
 The 2.2 header identifies a review draft dated 6 November 2026. Current/latest

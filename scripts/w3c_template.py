@@ -123,7 +123,9 @@ def render_template(english, arabic, titles):
         raise ValueError('Missing Arabic translation-contributor block')
     publication = json.loads((ROOT/'publication.json').read_text())
     for ident,key in [('translation-current-version','current_version_url'),
-                      ('translation-latest-version','latest_version_url')]:
+                      ('translation-latest-version','latest_version_url'),
+                      ('translation-errata-link','translation_errata_url'),
+                      ('translation-comments-link','translation_comments_url')]:
         contributors.find(id=ident)['href'] = publication[key]
     head.insert_before(contributors)
     credit_link = soup('<li class="tocline"><a class="tocxref" href="#translation-contributors"><span class="toc-title">المساهمون ومراجعة الترجمة العربية 2.2</span></a></li>').li
