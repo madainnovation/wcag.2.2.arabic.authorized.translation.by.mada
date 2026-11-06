@@ -198,6 +198,11 @@ local build does not establish that the public site is live; the Pages deploymen
 and HTTP response must be checked separately. Existing link-audit timestamps
 remain the dates those destinations were checked.
 
+The initial GitHub Pages deployment succeeded on 6 November 2026 from commit
+`057ea44`. The public HTML returned HTTP 200 and its document text matched the
+local draft, including the updated address, coordinator title, unchanged email,
+and both public version links.
+
 ## Verification and remaining review
 
 The automated validation checks include:

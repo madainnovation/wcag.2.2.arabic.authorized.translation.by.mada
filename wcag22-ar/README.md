@@ -3,7 +3,7 @@
 [المعاينة العامة](https://madainnovation.github.io/wcag.2.2.arabic.authorized.translation.by.mada/)
 · [المستودع على GitHub](https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada)
 
-تتوفر المعاينة العامة بعد أول نشر ناجح عبر GitHub Pages.
+تُنشر المعاينة العامة عبر GitHub Pages وتُحدَّث تلقائيا مع التعديلات المنشورة.
 
 افتح **[index.html](index.html)** لقراءة المسودة العربية باستخدام قالب وثيقة
 W3C الإنجليزية الأصلي. احتفظ بمجلد `assets` بجانب الملف عند نقل هذه النسخة؛

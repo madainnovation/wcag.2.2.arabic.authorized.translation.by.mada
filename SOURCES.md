@@ -34,8 +34,8 @@ archive address. Link-check results and the replacement destinations are
 documented in `REVIEW.md` and `LINK-CHECK.md`.
 
 The 2.2 header identifies a review draft dated 6 November 2026. Current/latest
-draft links use the GitHub Pages URL configured in `publication.json`, available
-after deployment. No W3C-hosted Arabic 2.2 publication URL or authorization is
+draft links use the public GitHub Pages URL configured in `publication.json`.
+No W3C-hosted Arabic 2.2 publication URL or authorization is
 asserted. The source's terminology-notice position is
 retained, with a link to the local terminology register.
 

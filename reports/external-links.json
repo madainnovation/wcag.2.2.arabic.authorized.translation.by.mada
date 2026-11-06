@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T10:59:18.595490+00:00",
+  "generated_at": "2026-11-06T11:03:57.579742+00:00",
   "documents": [
     "index.html",
     "README.md",
@@ -12,13 +12,11 @@
   "unique_http_pages": 167,
   "html_links": 269,
   "html_counts": {
-    "HTTP success": 266,
-    "404 Not Found": 1,
+    "HTTP success": 267,
     "Blocked or rate-limited — unverified": 2
   },
   "counts": {
-    "HTTP success": 611,
-    "404 Not Found": 1,
+    "HTTP success": 612,
     "Blocked or rate-limited — unverified": 2
   },
   "non_http_links": {
@@ -101,7 +99,7 @@
         },
         {
           "document": "REVIEW.md",
-          "location": "line 94",
+          "location": "line 97",
           "label": ""
         }
       ],
@@ -534,7 +532,7 @@
         },
         {
           "document": "REVIEW.md",
-          "location": "line 86",
+          "location": "line 89",
           "label": ""
         }
       ],
@@ -583,38 +581,28 @@
         }
       ],
       "requested_url": "https://madainnovation.github.io/wcag.2.2.arabic.authorized.translation.by.mada/",
-      "checked_at": "2026-11-06T10:59:18.593118+00:00",
-      "classification": "404 Not Found",
+      "checked_at": "2026-11-06T11:03:57.464736+00:00",
+      "classification": "HTTP success",
       "attempts": [
         {
-          "http_status": 404,
+          "http_status": 200,
           "final_url": "https://madainnovation.github.io/wcag.2.2.arabic.authorized.translation.by.mada/",
           "redirects": 0,
           "content_type": "text/html; charset=utf-8",
-          "page_title": "Site not found · GitHub Pages",
+          "page_title": "مبادئ النفاذ إلى محتوى الويب (WCAG) 2.2 — مسودة ترجمة عربية",
           "curl_exit_code": 0,
           "error": "",
-          "seconds": 0.34
-        },
-        {
-          "http_status": 404,
-          "final_url": "https://madainnovation.github.io/wcag.2.2.arabic.authorized.translation.by.mada/",
-          "redirects": 0,
-          "content_type": "text/html; charset=utf-8",
-          "page_title": "Site not found · GitHub Pages",
-          "curl_exit_code": 0,
-          "error": "",
-          "seconds": 0.08
+          "seconds": 0.31
         }
       ],
-      "http_status": 404,
+      "http_status": 200,
       "final_url": "https://madainnovation.github.io/wcag.2.2.arabic.authorized.translation.by.mada/",
       "redirects": 0,
       "content_type": "text/html; charset=utf-8",
-      "page_title": "Site not found · GitHub Pages",
+      "page_title": "مبادئ النفاذ إلى محتوى الويب (WCAG) 2.2 — مسودة ترجمة عربية",
       "curl_exit_code": 0,
       "error": "",
-      "seconds": 0.08
+      "seconds": 0.31
     },
     {
       "url": "https://unesdoc.unesco.org/ark:/48223/pf0000219109",
@@ -20978,7 +20966,7 @@
         },
         {
           "document": "SOURCES.md",
-          "location": "line 44",
+          "location": "line 46",
           "label": ""
         }
       ],
@@ -21080,7 +21068,7 @@
       "occurrences": [
         {
           "document": "SOURCES.md",
-          "location": "line 43",
+          "location": "line 45",
           "label": ""
         }
       ],
@@ -21358,11 +21346,11 @@
     }
   ],
   "file_sha256": {
-    "index.html": "7bf30717e8d2a30e4b5a85ac4bcefac8db698c1d4583918f561725de5d175629",
-    "README.md": "7b3eccf84540f4fc97e4b75fd1b90889d8f2b3e668bf937e0a548b8674947fbd",
+    "index.html": "bcd08924c07e0febe6ec530464cecf547079904a5817e802d6beee953005d9f3",
+    "README.md": "1201acf39bf14150d7b15984337d29c3b5c677d8dde2e664ac0ed1467ae15441",
     "TERMINOLOGY.md": "04d17dd1b0aedbd3abc6da50931ecfecfcceb0bebb942b9288a62ac6a50b52f9",
-    "SOURCES.md": "4f86b702f116526a67ace96f7f2d844ad1aef79d6f74d64585c7adfdde599393",
-    "REVIEW.md": "3664f3d3c8a683c1f45a89991792f04304d183b93f0857bc96af40810e5261b3",
-    "TRANSLATION-COMPARISON.md": "d5c2c909274be5c8441d0b7602c2138ff079ab5350f9278bf20c596bc8fba5cb"
+    "SOURCES.md": "925629e6daeaafbc076046fab0cf91d476467f25c9e03211efa67dbca6e4ef36",
+    "REVIEW.md": "b69268757904db166da0b86b06684f542cb4d5aeb30a629189bdc46eecde8dea",
+    "TRANSLATION-COMPARISON.md": "acf3fcebeed8f44d135dbbd566b2af0ff14dc8e4e1b001f18b706d563d7d92c2"
   }
 }

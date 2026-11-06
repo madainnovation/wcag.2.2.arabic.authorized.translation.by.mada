@@ -3,8 +3,8 @@
 [GitHub repository](https://github.com/madainnovation/wcag.2.2.arabic.authorized.translation.by.mada)
 · [Public HTML preview](https://madainnovation.github.io/wcag.2.2.arabic.authorized.translation.by.mada/)
 
-The public preview is served by GitHub Pages after the first successful
-deployment. Both version links in the translation header use this public URL.
+The public preview is served by GitHub Pages and updated by the publishing
+workflow. Both version links in the translation header use this public URL.
 
 Open **[wcag22-ar/index.html](wcag22-ar/index.html)**. The `wcag22-ar/` folder is the
 portable deliverable: the Arabic document, local W3C styles and images, the

@@ -1,6 +1,6 @@
 # External link check
 
-Checked: 2026-11-06T10:59:18.595490+00:00
+Checked: 2026-11-06T11:03:57.579742+00:00
 
 Scope: the Arabic HTML document and its README, terminology register, sources, review notes, and English–Arabic comparison.
 
@@ -10,19 +10,15 @@ Checks use GET requests, follow redirects, and retry 404s and connection/server 
 
 | Result | All files | HTML document |
 |---|---:|---:|
-| 404 Not Found | 1 | 1 |
 | Blocked or rate-limited — unverified | 2 | 2 |
-| HTTP success | 611 | 266 |
+| HTTP success | 612 | 267 |
 
 ## Links requiring attention
 
-1. [https://madainnovation.github.io/wcag.2.2.arabic.authorized.translation.by.mada/](https://madainnovation.github.io/wcag.2.2.arabic.authorized.translation.by.mada/) — **404 Not Found** (HTTP 404).
-   Found in: README.md, index.html.
-
-2. [https://unesdoc.unesco.org/ark:/48223/pf0000219109](https://unesdoc.unesco.org/ark:/48223/pf0000219109) — **Blocked or rate-limited — unverified** (HTTP 403).
+1. [https://unesdoc.unesco.org/ark:/48223/pf0000219109](https://unesdoc.unesco.org/ark:/48223/pf0000219109) — **Blocked or rate-limited — unverified** (HTTP 403).
    Found in: TRANSLATION-COMPARISON.md, index.html.
 
-3. [https://www.iso.org/standard/56350.html](https://www.iso.org/standard/56350.html) — **Blocked or rate-limited — unverified** (HTTP 403).
+2. [https://www.iso.org/standard/56350.html](https://www.iso.org/standard/56350.html) — **Blocked or rate-limited — unverified** (HTTP 403).
    Found in: TRANSLATION-COMPARISON.md, index.html.
 
 ## Complete inventory
@@ -42,7 +38,7 @@ Checks use GET requests, follow redirects, and retry 404s and connection/server 
 | [https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#autofill](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#autofill) | 200 | HTTP success | Same page |
 | [https://lists.w3.org/Archives/Public/public-agwg-comments/](https://lists.w3.org/Archives/Public/public-agwg-comments/) | 200 | HTTP success | Same page |
 | [https://lists.w3.org/Archives/Public/w3c-translators/](https://lists.w3.org/Archives/Public/w3c-translators/) | 200 | HTTP success | Same page |
-| [https://madainnovation.github.io/wcag.2.2.arabic.authorized.translation.by.mada/](https://madainnovation.github.io/wcag.2.2.arabic.authorized.translation.by.mada/) | 404 | 404 Not Found | Same page |
+| [https://madainnovation.github.io/wcag.2.2.arabic.authorized.translation.by.mada/](https://madainnovation.github.io/wcag.2.2.arabic.authorized.translation.by.mada/) | 200 | HTTP success | Same page |
 | [https://unesdoc.unesco.org/ark:/48223/pf0000219109](https://unesdoc.unesco.org/ark:/48223/pf0000219109) | 403 | Blocked or rate-limited — unverified | Same page |
 | [https://w3c.github.io/wcag/guidelines/22/](https://w3c.github.io/wcag/guidelines/22/) | 200 | HTTP success | Same page |
 | [https://w3c.github.io/wcag/requirements/22/](https://w3c.github.io/wcag/requirements/22/) | 200 | HTTP success | Same page |

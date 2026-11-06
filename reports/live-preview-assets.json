@@ -1,0 +1,36 @@
+{
+  "site": "https://madainnovation.github.io/wcag.2.2.arabic.authorized.translation.by.mada/",
+  "initial_commit": "057ea44",
+  "checks": [
+    {
+      "path": "assets/translation-rtl.css",
+      "status": 200,
+      "sha256": "0eea2293af3e92d00dcc313eb64c24b745ab6eab54d78d9f512adeffb5c68828"
+    },
+    {
+      "path": "assets/w3c-rec.css",
+      "status": 200,
+      "sha256": "24e0439f60e3beba02c415f00d8affe685fcf7fc4e23f5907de2a88a655f7460"
+    },
+    {
+      "path": "assets/base.css",
+      "status": 200,
+      "sha256": "07d5f8168c0e4d31dfd892d7b969c69bc43925910e528eee060172379809e994"
+    },
+    {
+      "path": "assets/guidelines.css",
+      "status": 200,
+      "sha256": "1e0ce0dff51c45cbef40a0364ffaec82136bdef899e74dfdd26cc04a85525388"
+    },
+    {
+      "path": "assets/logos/W3C.svg",
+      "status": 200,
+      "sha256": "a96241190c29d5014a2ffcb26c0a75060e20dc85b921776f813d3d5a3adcf64e"
+    },
+    {
+      "path": "TRANSLATION-COMPARISON.md",
+      "status": 200,
+      "sha256": "acf3fcebeed8f44d135dbbd566b2af0ff14dc8e4e1b001f18b706d563d7d92c2"
+    }
+  ]
+}
